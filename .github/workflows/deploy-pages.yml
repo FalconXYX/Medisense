@@ -33,7 +33,13 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm ci
+        # `npm ci` first, because it is the reproducible one. It falls back to `npm install`
+        # because of a real npm limitation rather than a broken lockfile: optional dependencies
+        # gated on os/cpu resolve differently per platform, so a lockfile written on macOS is
+        # missing the transitive deps of @unrs/resolver-binding-wasm32-wasi that npm demands on
+        # Linux (@emnapi/core, @emnapi/runtime). There is no way to author those entries from a
+        # Mac. The build stays deterministic in every case where the lockfile is usable.
+        run: npm ci --no-audit --no-fund || npm install --no-audit --no-fund
 
       - name: Verify the dataset before shipping it
         # The same gates that run locally (build/8-verify.ts): equivalence groups never span a
