@@ -1,0 +1,1645 @@
+{
+  "ACETAMINOPHEN": {
+    "ingredient": "ACETAMINOPHEN",
+    "usanQuery": "acetaminophen",
+    "labelCount": 3137,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "ACETAMINOPHEN"
+    ],
+    "purpose": "Pain reliever/fever reducer",
+    "indications_and_usage": "temporarily relieves minor aches and pains due to: headache the common cold backache minor pain of arthritis toothache muscular aches premenstrual and menstrual cramps temporarily reduces fever",
+    "warnings": "Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Do not use if you are allergic to acetaminophen or any of the inactive ingredients in this product with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. Ask a doctor before use if you have liver disease. Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin. Stop use and ask a doctor if new symptoms occur pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days redness or swelling is present These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.",
+    "do_not_use": "if you are allergic to acetaminophen or any of the inactive ingredients in this product with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist.",
+    "ask_doctor": "Ask a doctor before use if you have liver disease.",
+    "ask_doctor_or_pharmacist": "Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin.",
+    "stop_use": "and ask a doctor if new symptoms occur pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days redness or swelling is present These could be signs of a serious condition.",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms."
+  },
+  "ACETYLSALICYLIC ACID": {
+    "ingredient": "ACETYLSALICYLIC ACID",
+    "usanQuery": "aspirin",
+    "labelCount": 700,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "ASPIRIN"
+    ],
+    "purpose": "Pain reliever",
+    "indications_and_usage": "for the temporary relief of minor aches and pains or as recommended by your doctor. Because of its delayed action, this product will not provide fast relief of headaches or other symptoms needing immediate relief. ask your doctor about other uses for safety coated 81 mg aspirin",
+    "warnings": "Reye's syndrome : Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness. Allergy alert : Aspirin may cause a severe allergic reaction, which may include: hives facial swelling shock asthma (wheezing) Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you: are age 60 or older have had stomach ulcers or bleeding problems take a blood thinning (anticoagulant) or steroid drug take other drugs containing prescription or nonprescription NSAIDs [aspirin, ibuprofen, naproxen, or others] have 3 or more alcoholic drinks every day while using this product take more or for a longer time than directed Do not use if you are allergic to aspirin or any other pain reliever/fever reducer. if you have ever had an allergic reaction to his product or any of its ingredients Ask a doctor before use if stomach bleeding warning applies to you you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis, or kidney disease you are taking a diuretic you have asthma Ask a doctor or pharmacist before use if you are taking a prescription drug for gout diabetes arthritis Stop use and ask a doctor if an allergic reaction occurs. Seek medical help right away. you experience any of the following signs of stomach bleeding: feel faint vomit blood have bloody or black stool have stomach pain that does not get better pain gets worse or lasts more than 10 days redness or swelling is present ringing in the ears or loss of hearing occurs new symptoms occur These could be signs of a serious condition If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use aspirin during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.",
+    "do_not_use": "if you are allergic to aspirin or any other pain reliever/fever reducer. if you have ever had an allergic reaction to his product or any of its ingredients",
+    "ask_doctor": "Ask a doctor before use if stomach bleeding warning applies to you you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis, or kidney disease you are taking a diuretic you have asthma",
+    "ask_doctor_or_pharmacist": "Ask a doctor or pharmacist before use if you are taking a prescription drug for gout diabetes arthritis",
+    "stop_use": "and ask a doctor if an allergic reaction occurs. Seek medical help right away. you experience any of the following signs of stomach bleeding: feel faint vomit blood have bloody or black stool have stomach pain that does not get better pain gets worse or lasts more than 10 days redness or swelling is present ringing in the ears or loss of hearing occurs new symptoms occur These could be signs of a serious condition",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use aspirin during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  },
+  "ALUMINUM HYDROXIDE": {
+    "ingredient": "ALUMINUM HYDROXIDE",
+    "usanQuery": "aluminum hydroxide",
+    "labelCount": 129,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "ALUMINUM HYDROXIDE"
+    ],
+    "purpose": "Antacid",
+    "indications_and_usage": "relieves heartburn acid indigestion sour stomach",
+    "warnings": "Ask a doctor or pharmacist before use if you are taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product you may get constipated Stop use and ask a doctor if symptoms last more than 2 weeks If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children.",
+    "keep_out_of_reach_of_children": "."
+  },
+  "AMYLMETACRESOL": {
+    "ingredient": "AMYLMETACRESOL",
+    "usanQuery": "amylmetacresol",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "ASCORBIC ACID": {
+    "ingredient": "ASCORBIC ACID",
+    "usanQuery": "ascorbic acid",
+    "labelCount": 21,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "ASCORBIC ACID"
+    ],
+    "purpose": "Moisturizer",
+    "indications_and_usage": "Apply evenly to face and neck daily.",
+    "warnings": "If contact with eyes occurs, rinse thoroughly with water.",
+    "when_using": "Avoid eye area"
+  },
+  "BACITRACIN": {
+    "ingredient": "BACITRACIN",
+    "usanQuery": "bacitracin",
+    "labelCount": 350,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "BACITRACIN"
+    ],
+    "purpose": "First aid antibiotic",
+    "indications_and_usage": "first aid to help prevent infection in: • minor cuts • scrapes • burns",
+    "warnings": "For external use only Do not use • in the eyes • over large areas of the body • if you are allergic to any of the ingredients Ask a doctor before use if you have • deep or puncture wounds • animal bites • serious burns Stop use and ask a doctor if • you need to use longer than 1 week • condition persists or gets worse • rash or other allergic reaction develops Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. (1-800-222-1222)",
+    "do_not_use": "• in the eyes • over large areas of the body • if you are allergic to any of the ingredients",
+    "ask_doctor": "Ask a doctor before use if you have • deep or puncture wounds • animal bites • serious burns",
+    "stop_use": "and ask a doctor if • you need to use longer than 1 week • condition persists or gets worse • rash or other allergic reaction develops",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+  },
+  "BACITRACIN ZINC": {
+    "ingredient": "BACITRACIN ZINC",
+    "usanQuery": "bacitracin zinc",
+    "labelCount": 288,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "BACITRACIN ZINC"
+    ],
+    "purpose": "First aid antibiotic",
+    "indications_and_usage": "First aid to help prevent skin infection in minor cuts, scrapes, and burns",
+    "warnings": "For external use only. Do not use • longer than 1 week unless directed by a doctor • in the eyes • over large areas of the body Ask a doctor before use if you have deep or puncture wounds, animal bites, or serious burns. Stop use and ask a doctor if condition persists or gets worse. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+    "do_not_use": "• longer than 1 week unless directed by a doctor • in the eyes • over large areas of the body",
+    "ask_doctor": "Ask a doctor before use if you have deep or puncture wounds, animal bites, or serious burns.",
+    "stop_use": "and ask a doctor if condition persists or gets worse.",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "BENZOYL PEROXIDE": {
+    "ingredient": "BENZOYL PEROXIDE",
+    "usanQuery": "benzoyl peroxide",
+    "labelCount": 220,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "BENZOYL PEROXIDE"
+    ],
+    "purpose": "Acne Treatment",
+    "indications_and_usage": "For the treatment and management of acne Penetrates pores to eliminate most acne and blemishes Helps prevent development of new acne blemishes and blackheads",
+    "warnings": "For external use only When using this product Skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. Avoid contact with eyes. If contact occurs, flush thoroughly with water. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.",
+    "when_using": "this product Skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. Avoid contact with eyes. If contact occurs, flush thoroughly with water.",
+    "keep_out_of_reach_of_children": ". If product is swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "BISACODYL": {
+    "ingredient": "BISACODYL",
+    "usanQuery": "bisacodyl",
+    "labelCount": 123,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "BISACODYL"
+    ],
+    "purpose": "Uses -for relief of occasional constipation -this product generally produces bowel movement in 1/4 to 1 hour",
+    "indications_and_usage": "Directions -detach one suppository from the strip -remove wrapper before inserting into the rectum adults and children 12 years of age and older 1 suppository once daily children 6 to under 12 years 1/2 suppository once daily children under 6 years do not use",
+    "warnings": "For rectal use only.",
+    "do_not_use": "Do not use -when abdominal pain, nausea, or vomiting are present -for a period of longer than 1 week",
+    "ask_doctor": "Ask a doctor Ask a doctor before use if you have noticed a sudden change in bowel habits that lasts over a period of 2 weeks",
+    "when_using": "this product When using this product it may cause abdominal discomfort, faintness, rectal burning and mild cramps",
+    "stop_use": "and ask a doctor if Stop use and ask a doctor if -you have rectal bleeding -you fail to have a bowel movement after using this product. This may indicate a serious condition",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": "Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "BISMUTH DIPROPYLACETATE": {
+    "ingredient": "BISMUTH DIPROPYLACETATE",
+    "usanQuery": "bismuth dipropylacetate",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "BISMUTH SUBSALICYLATE": {
+    "ingredient": "BISMUTH SUBSALICYLATE",
+    "usanQuery": "bismuth subsalicylate",
+    "labelCount": 240,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "BISMUTH SUBSALICYLATE"
+    ],
+    "purpose": "Antidiarrheal/Antacid",
+    "indications_and_usage": "relieves travelers’ diarrhea diarrhea upset stomach due to overindulgence in food and drink including: heartburn indigestion nausea gas belching fullness",
+    "warnings": "Reye’s syndrome Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye’s syndrome, a rare but serious illness. Allergy alert Contains salicylate. Do not take if you are allergic to salicylates (including aspirin) taking other salicylate products Do not use if you have an ulcer a bleeding problem bloody or black stool Ask a doctor before use if you have fever mucus in the stool Ask a doctor or pharmacist before use if you are taking any drug for anticoagulation (thinning the blood) diabetes gout arthritis Stop use and ask a doctor if symptoms get worse or last more than 2 days ringing in the ears or loss of hearing occurs n diarrhea lasts more than 2 days When using this product a temporary, but harmless, darkening of the stool and/or tongue may occur If pregnant or breast-feeding ask a health professional before use.",
+    "do_not_use": "if you have an ulcer a bleeding problem bloody or black stool",
+    "ask_doctor": "Ask a doctor before use if you have fever mucus in the stool",
+    "ask_doctor_or_pharmacist": "Ask a doctor or pharmacist before use if you are taking any drug for anticoagulation (thinning the blood) diabetes gout arthritis",
+    "when_using": "this product a temporary, but harmless, darkening of the stool and/or tongue may occur",
+    "stop_use": "and ask a doctor if symptoms get worse or last more than 2 days ringing in the ears or loss of hearing occurs n diarrhea lasts more than 2 days",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding ask a health professional before use.",
+    "keep_out_of_reach_of_children": "In case of accidental overdose, contact a doctor or Poison Control Center (1-800-222-1222) right away."
+  },
+  "BRIMONIDINE": {
+    "ingredient": "BRIMONIDINE",
+    "usanQuery": "brimonidine",
+    "labelCount": 2,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "BRIMONIDINE TARTRATE"
+    ],
+    "purpose": "Redness reliever",
+    "indications_and_usage": "relieves redness of the eye due to minor eye irritations",
+    "warnings": "For external use only Do not use if solution changes color or becomes cloudy Stop use and ask a doctor if you experience eye pain, changes in vision, continued redness or irritation of the eye condition worsens or persists for more than 3 days If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+    "do_not_use": "if solution changes color or becomes cloudy",
+    "ask_doctor_or_pharmacist": "Stop use and ask a doctor if you experience eye pain, changes in vision, continued redness or irritation of the eye condition worsens or persists for more than 3 days",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "BROMPHENIRAMINE": {
+    "ingredient": "BROMPHENIRAMINE",
+    "usanQuery": "brompheniramine",
+    "labelCount": 69,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "BROMPHENIRAMINE MALEATE"
+    ],
+    "purpose": "Antihistamine",
+    "indications_and_usage": "▪ temporarily relieves: ▪ runny nose ▪ sneezing ▪ itchy, watery eyes due to hay fever ▪ itching of the nose or throat",
+    "warnings": "Do not use ▪ to sedate a child or to make a child sleepy Ask a doctor before use if you have ▪ trouble urinating due to an enlarged prostate gland ▪ glaucoma ▪ a breathing problem such as emphysema, or chronic bronchitis. Ask a doctor or pharmacist before use if you are ▪ taking sedatives or tranquilizers When using this product ▪ do not use more than directed ▪ drowsiness may occur ▪ avoid alcoholic drinks ▪ alcohol, sedatives, and tranquilizers may increase drowsiness ▪ be careful when driving a motor vehicle or operating machinery ▪ excitability may occur, especially in children If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away at 1-800-222-1222.",
+    "do_not_use": "▪ to sedate a child or to make a child sleepy",
+    "ask_doctor": "Ask a doctor before use if you have ▪ trouble urinating due to an enlarged prostate gland ▪ glaucoma ▪ a breathing problem such as emphysema, or chronic bronchitis.",
+    "ask_doctor_or_pharmacist": "Ask a doctor or pharmacist before use if you are ▪ taking sedatives or tranquilizers",
+    "when_using": "this product ▪ do not use more than directed ▪ drowsiness may occur ▪ avoid alcoholic drinks ▪ alcohol, sedatives, and tranquilizers may increase drowsiness ▪ be careful when driving a motor vehicle or operating machinery ▪ excitability may occur, especially in children",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away at 1-800-222-1222."
+  },
+  "CAFFEINE": {
+    "ingredient": "CAFFEINE",
+    "usanQuery": "caffeine",
+    "labelCount": 352,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "CAFFEINE"
+    ],
+    "purpose": "Alertness aid",
+    "indications_and_usage": "helps restore mental alertness or wakefulness when experiencing fatigue or drowsiness",
+    "warnings": "For occasional use only Caffeine warning: The recommended dose of this product contains about as much caffeine as a cup of coffee. Limit the use of caffeine-containing medications, foods, or beverages while taking this product because too much caffeine may cause nervousness, irritability, sleeplessness, and, occasionally, rapid heart beat. Do not use for children under 12 years of age as a substitute for sleep Stop use and ask a doctor if fatigue or drowsiness persists or continues to recur. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.",
+    "do_not_use": "for children under 12 years of age as a substitute for sleep",
+    "stop_use": "and ask a doctor if fatigue or drowsiness persists or continues to recur.",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away."
+  },
+  "CALCIUM CARBONATE": {
+    "ingredient": "CALCIUM CARBONATE",
+    "usanQuery": "calcium carbonate",
+    "labelCount": 631,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "CALCIUM CARBONATE"
+    ],
+    "purpose": "Antacid",
+    "indications_and_usage": "relieves acid indigestion heartburn sour stomach upset stomach associated with these symptoms",
+    "warnings": "Ask a doctor or pharmacist before use if you are taking a prescription drug. Antacids may interact with certain prescription drugs. Stop use and ask a doctor if symptoms last more than 2 weeks. If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away."
+  },
+  "CAMPHOR": {
+    "ingredient": "CAMPHOR",
+    "usanQuery": "camphor",
+    "labelCount": 592,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "CAMPHOR, (-)-"
+    ],
+    "purpose": "Cough suppressant",
+    "indications_and_usage": "temporarily relieves cough associated with a cold temporarily helps you cough less. cough suppressant which temporarily controls the impulse to cough. temporarily helps to suppress the cough reflex that causes coughing. temporarily reduces the intensity of coughing. reduces your cough to help you rest.",
+    "warnings": "For external use only. Flammable Keep away from fire or flame. For steam inhalation only. DO NOT TAKE BY MOUTH. Ask a doctor before use if you have a persistent or chronic cough such as occurs with smoking, asthma or emphysema. cough that occurs with too much phlegm (mucus). When using this product, do not heat microwave use near an open flame direct steam from the vaporizer or humidifier too close to the face. add to hot water or any container where heating water except when adding to cold water in a hot steam vaporizer. May cause splattering and result in burns. Stop use and ask a doctor if cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash or persistent headache. A persistent cough may be a sign of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of eye exposure flush eyes with water; or if swallowed, get medical help or contact a Poison Control Center right away.",
+    "ask_doctor": "Ask a doctor before use if you have a persistent or chronic cough such as occurs with smoking, asthma or emphysema. cough that occurs with too much phlegm (mucus).",
+    "when_using": "this product, do not heat microwave use near an open flame direct steam from the vaporizer or humidifier too close to the face. add to hot water or any container where heating water except when adding to cold water in a hot steam vaporizer. May cause splattering and result in burns.",
+    "stop_use": "and ask a doctor if cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash or persistent headache. A persistent cough may be a sign of a serious condition.",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". In case of eye exposure flush eyes with water; or if swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "CAPSAICIN": {
+    "ingredient": "CAPSAICIN",
+    "usanQuery": "capsaicin",
+    "labelCount": 190,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "CAPSAICIN"
+    ],
+    "purpose": "External analgesic",
+    "indications_and_usage": "Temporarily relieves minor aches and pains of muscles and joints due to: • simple backache • arthritis • strains • sprains",
+    "warnings": "For external use only Read all warnings and directions before use. Test first on small area of skin. Do not use • On wounds or damaged skin • If you are allergic to capsicum or chili peppers Whe n us ing this product • You may experience a burning sensation. The intensity of this reaction varies among individuals and may be severe. With regular use, this sensation generally disappears after several days. • Avoid contact with the eyes, lips, nose and mucous membranes • Do not tightly wrap or bandage the treated area • Do not apply heat to the treated area immediately before or after use Stop use and as k a doctor if • Condition worsens or does not improve after regular use • Severe burning persists or blistering occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.",
+    "do_not_use": "• On wounds or damaged skin • If you are allergic to capsicum or chili peppers",
+    "when_using": "Whe n us ing this product • You may experience a burning sensation. The intensity of this reaction varies among individuals and may be severe. With regular use, this sensation generally disappears after several days. • Avoid contact with the eyes, lips, nose and mucous membranes • Do not tightly wrap or bandage the treated area • Do not apply heat to the treated area immediately before or after use",
+    "stop_use": "and as k a doctor if • Condition worsens or does not improve after regular use • Severe burning persists or blistering occurs",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center immediately."
+  },
+  "CARBOXYMETHYLCELLULOSE": {
+    "ingredient": "CARBOXYMETHYLCELLULOSE",
+    "usanQuery": "carboxymethylcellulose",
+    "labelCount": 85,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "CARBOXYMETHYLCELLULOSE SODIUM"
+    ],
+    "purpose": "Eye lubricant",
+    "indications_and_usage": "For the temporary relief of burning and irritation due to dryness of the eye. For the temporary relief of discomfort due to minor irritations of the eye or from exposure to wind and sun. For use as a lubricant to prevent further irritation or to relieve dryness of the eye.",
+    "warnings": "For use in the eyes only. Do not use if solution changes color or becomes cloudy. When using this product ■ do not touch tip of container to any surface to avoid contamination. ■ do not reuse; once opened discard. Stop use and ask a doctor if ■ you experience eye pain, changes in vision, continued redness or irritation of the eye. ■ the condition worsens or persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+    "do_not_use": "if solution changes color or becomes cloudy.",
+    "when_using": "this product ■ do not touch tip of container to any surface to avoid contamination. ■ do not reuse; once opened discard.",
+    "stop_use": "and ask a doctor if ■ you experience eye pain, changes in vision, continued redness or irritation of the eye. ■ the condition worsens or persists for more than 72 hours.",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "CETIRIZINE": {
+    "ingredient": "CETIRIZINE",
+    "usanQuery": "cetirizine",
+    "labelCount": 412,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "CETIRIZINE HYDROCHLORIDE"
+    ],
+    "purpose": "Antihistamine",
+    "indications_and_usage": "temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat",
+    "warnings": "Do not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives. When using this product drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding if breast-feeding: not recommended if pregnant: ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)",
+    "do_not_use": "if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine.",
+    "ask_doctor": "Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose.",
+    "ask_doctor_or_pharmacist": "Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives.",
+    "when_using": "this product drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery",
+    "stop_use": "and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away.",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding if breast-feeding: not recommended if pregnant: ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+  },
+  "CETYLPYRIDINIUM CHLORIDE": {
+    "ingredient": "CETYLPYRIDINIUM CHLORIDE",
+    "usanQuery": "cetylpyridinium chloride",
+    "labelCount": 94,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "CETYLPYRIDINIUM CHLORIDE"
+    ],
+    "purpose": "Antigingivitis, Antiplaque",
+    "indications_and_usage": "helps control plaque that leads to gingivitis",
+    "warnings": "for this product",
+    "stop_use": "and ask a dentist if gingivitis, gleeding or redness persists for more than 2 weeks you have painful or swollen gums, pus from the gum line, loose teeth or increased spacing between the teeth. These may be signs or symptoms of periodontitis, a serious form of gum disease.",
+    "keep_out_of_reach_of_children": "under 6 years of age. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "CHARCOAL ACTIVATED": {
+    "ingredient": "CHARCOAL ACTIVATED",
+    "usanQuery": "charcoal activated",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "CHLORPHENIRAMINE": {
+    "ingredient": "CHLORPHENIRAMINE",
+    "usanQuery": "chlorpheniramine",
+    "labelCount": 301,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "CHLORPHENIRAMINE MALEATE"
+    ],
+    "purpose": "Antihistamine",
+    "indications_and_usage": "temporarily relieves these symptoms due to hay fever (allergic rhinitis) or other upper respiratory allergies: sneezing runny nose itching of the nose or throat itchy, watery eyes",
+    "warnings": "Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlargement of the prostate gland",
+    "ask_doctor_or_pharmacist": "Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers",
+    "when_using": "this product do not exceed recommended dosage unless directed by a physician may cause excitability especially in children use caution when driving or operating machinery avoid alcoholic beverages may cause drowsiness; alcohol, sedatives, and tranquilizers may increase the drowsiness effect",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away"
+  },
+  "CLIOQUINOL": {
+    "ingredient": "CLIOQUINOL",
+    "usanQuery": "clioquinol",
+    "labelCount": 1,
+    "singleIngredient": false,
+    "labelSubstances": [
+      "HYDROCORTISONE",
+      "CLIOQUINOL"
+    ],
+    "purpose": "Pruritis ani (anal itching) cream",
+    "indications_and_usage": "ICHYBUM is a medicated cream used to help relieve the symptoms of pruritis ani and other afflictions involving chronic itching around the anus",
+    "warnings": "FOR EXTERNAL USE ONLY Ask a doctor before use if you are pregnant or breastfeeding, you are under 12 years of age, you have an infection affecting the anus or surrounding area e.e. a sexually transmitted disease, or tuberculosis Stop use and consult a doctor if condition worsens or does not improve after regular use as directed",
+    "keep_out_of_reach_of_children": ". If swallowed, seek medical advice"
+  },
+  "CLOBETASONE BUTYRATE": {
+    "ingredient": "CLOBETASONE BUTYRATE",
+    "usanQuery": "clobetasone butyrate",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "CLOFEDANOL": {
+    "ingredient": "CLOFEDANOL",
+    "usanQuery": "clofedanol",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "CLOTRIMAZOLE": {
+    "ingredient": "CLOTRIMAZOLE",
+    "usanQuery": "clotrimazole",
+    "labelCount": 198,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "CLOTRIMAZOLE"
+    ],
+    "purpose": "Antifungal Cream",
+    "indications_and_usage": "Cures athlete’s foot (tinea pedis), jock itch (tinea cruris), ringworm (tinea corporis). Relieves the itching, irritation, redness, scaling and discomfort which can accompany these conditions.",
+    "warnings": "For External use only.",
+    "do_not_use": "Do not use on children under 2 years of age unless direcgted by a doctor",
+    "when_using": "this product When using this product avoid contact with eyes",
+    "stop_use": "and ask doctor if • irritaion occurs • There is no improvement within 4 weeks (for athlete's foot or ringworm) or within 2 weeks (for jock itch).",
+    "keep_out_of_reach_of_children": "Keep this and all drugs out of the reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center right away."
+  },
+  "CROMOLYN": {
+    "ingredient": "CROMOLYN",
+    "usanQuery": "cromolyn",
+    "labelCount": 2,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "CROMOLYN SODIUM"
+    ],
+    "purpose": "Nasal allergy symptom controller",
+    "indications_and_usage": "to prevent and relieve nasal symptoms of hay fever and other nasal allergies: • runny/itchy nose • sneezing • allergic stuffy nose",
+    "warnings": "For external use only Do not use • if you are allergic to any of the ingredients Ask a doctor before use if you have • fever • discolored nasal discharge • sinus pain • wheezing When using this product • it may take several days of use to notice an effect. Your best effect may not be seen for 1 to 2 weeks. • brief stinging or sneezing may occur right after use • do not use it to treat sinus infection, asthma, or cold symptoms • do not share this bottle with anyone else as this may spread germs Stop use and ask a doctor if • shortness of breath, wheezing, or chest tightness occurs • hives or swelling of the mouth or throat occurs • your symptoms worsen • you have new symptoms • your symptoms do not begin to improve within two weeks • you need to use for more than 12 weeks If pregnant or breast feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.",
+    "do_not_use": "• if you are allergic to any of the ingredients",
+    "ask_doctor": "Ask a doctor before use if you have • fever • discolored nasal discharge • sinus pain • wheezing",
+    "when_using": "this product • it may take several days of use to notice an effect. Your best effect may not be seen for 1 to 2 weeks. • brief stinging or sneezing may occur right after use • do not use it to treat sinus infection, asthma, or cold symptoms • do not share this bottle with anyone else as this may spread germs",
+    "stop_use": "and ask a doctor if • shortness of breath, wheezing, or chest tightness occurs • hives or swelling of the mouth or throat occurs • your symptoms worsen • you have new symptoms • your symptoms do not begin to improve within two weeks • you need to use for more than 12 weeks",
+    "pregnancy_or_breast_feeding": "If pregnant or breast feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  },
+  "CYPROHEPTADINE": {
+    "ingredient": "CYPROHEPTADINE",
+    "usanQuery": "cyproheptadine",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "DEQUALINIUM CHLORIDE": {
+    "ingredient": "DEQUALINIUM CHLORIDE",
+    "usanQuery": "dequalinium chloride",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "DESLORATADINE": {
+    "ingredient": "DESLORATADINE",
+    "usanQuery": "desloratadine",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "DEXTRAN 70": {
+    "ingredient": "DEXTRAN 70",
+    "usanQuery": "dextran 70",
+    "labelCount": 24,
+    "singleIngredient": false,
+    "labelSubstances": [
+      "DEXTRAN 70",
+      "TETRAHYDROZOLINE HYDROCHLORIDE",
+      "POVIDONE",
+      "POLYETHYLENE GLYCOL 400"
+    ],
+    "purpose": "Lubricant Lubricant Lubricant Redness reliever",
+    "indications_and_usage": "relieves redness of the eye due to minor eye irritations as a lubricant to prevent further irritation or to relieve dryness of the eye",
+    "warnings": "For external use only Ask a doctor before use if you have narrow angle glaucoma When using this product pupils may become enlarged temporarily to avoid contamination, do not touch tip of container to any surface. Replace cap after using if solution changes color or becomes cloudy, do not use overuse may produce increased redness of the eye remove contact lens before using Stop use and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.",
+    "ask_doctor": "Ask a doctor before use if you have narrow angle glaucoma",
+    "when_using": "this product pupils may become enlarged temporarily to avoid contamination, do not touch tip of container to any surface. Replace cap after using if solution changes color or becomes cloudy, do not use overuse may produce increased redness of the eye remove contact lens before using",
+    "stop_use": "and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  },
+  "DEXTROMETHORPHAN": {
+    "ingredient": "DEXTROMETHORPHAN",
+    "usanQuery": "dextromethorphan",
+    "labelCount": 2203,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "DEXTROMETHORPHAN HYDROBROMIDE"
+    ],
+    "purpose": "Cough suppressant",
+    "indications_and_usage": "temporarily relieves cough due to minor throat and bronchial irritation as may occur with a cold",
+    "warnings": "Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if the user has a cough that occurs with too much phlegm (mucus) a cough that lasts or is chronic as occurs with smoking, asthma, or emphysema Stop use and ask a doctor if cough lasts for more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.",
+    "do_not_use": "if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.",
+    "ask_doctor": "Ask a doctor before use if the user has a cough that occurs with too much phlegm (mucus) a cough that lasts or is chronic as occurs with smoking, asthma, or emphysema",
+    "stop_use": "and ask a doctor if cough lasts for more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition.",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away."
+  },
+  "DICHLOROBENZYL ALCOHOL": {
+    "ingredient": "DICHLOROBENZYL ALCOHOL",
+    "usanQuery": "dichlorobenzyl alcohol",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "DICLOFENAC DIETHYLAMINE": {
+    "ingredient": "DICLOFENAC DIETHYLAMINE",
+    "usanQuery": "diclofenac diethylamine",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "DIMENHYDRINATE": {
+    "ingredient": "DIMENHYDRINATE",
+    "usanQuery": "dimenhydrinate",
+    "labelCount": 33,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "DIMENHYDRINATE"
+    ],
+    "purpose": "Antiemetic",
+    "indications_and_usage": "for prevention and treatment of these symptoms associated with motion sickness: nausea vomiting dizziness",
+    "warnings": "Do not use for children under 2 years of age unless directed by a doctor. Ask a doctor before use if you have glaucoma a breathing problem such as emphysema or chronic bronchitis difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product marked drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcoholic beverages use caution when driving a motor vehicle or operating machinery If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.",
+    "do_not_use": "for children under 2 years of age unless directed by a doctor.",
+    "ask_doctor": "Ask a doctor before use if you have glaucoma a breathing problem such as emphysema or chronic bronchitis difficulty in urination due to enlargement of the prostate gland",
+    "ask_doctor_or_pharmacist": "Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers.",
+    "when_using": "this product marked drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcoholic beverages use caution when driving a motor vehicle or operating machinery",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away."
+  },
+  "DIMETHICONE": {
+    "ingredient": "DIMETHICONE",
+    "usanQuery": "dimethicone",
+    "labelCount": 257,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "DIMETHICONE"
+    ],
+    "purpose": "Use Help prevent and temporarily protects chafed, chapped, or cracked skin.",
+    "indications_and_usage": "Baby XtraCare® Oatmeal Daily Moisturizing Lotion Lightly Scented Dimethicon Skin Protectant with Natural Oat Extract Helps Soothe & Soften Baby's Skin 12 FL OZ (354 mL)",
+    "warnings": "For extenal use only. When using this product avoid contact with eyes. In case of eye contact, flush with water. Stop use and ask a doctor if condition worsens. Symptoms last more than 7days or clear up and occur again within a few days.",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center immediately."
+  },
+  "DIPHENHYDRAMINE": {
+    "ingredient": "DIPHENHYDRAMINE",
+    "usanQuery": "diphenhydramine",
+    "labelCount": 1095,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "DIPHENHYDRAMINE HCL"
+    ],
+    "purpose": "Antihistamine",
+    "indications_and_usage": "temporarily relieves these symptoms due to hay fever or other respiratory allergies: ■ sneezing ■ itching of the nose or throat ■ runny nose ■ itchy watery eyes ■temporarily relieves these symptoms due to the common cold: ■ sneezing ■ runny nose",
+    "warnings": "Do not use ■ with any other product containing diphenhydramine, even one used on skin ■ to make a child sleepy Ask a doctor before use if the child has ■ glaucoma ■ a breathing problem such as chronic bronchitis",
+    "ask_doctor_or_pharmacist": "Ask a doctor or pharmacist before use if the child is taking sedatives or tranquillizers",
+    "when_using": "this product ■ marked drowsiness may occur ■ excitability may occur, especially in children ■ sedatives and tranquilizers may increase drowsiness",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away, (1-800-222-1222)"
+  },
+  "DIPHENYLPYRALINE": {
+    "ingredient": "DIPHENYLPYRALINE",
+    "usanQuery": "diphenylpyraline",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "DOCUSATE": {
+    "ingredient": "DOCUSATE",
+    "usanQuery": "docusate",
+    "labelCount": 330,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "DOCUSATE SODIUM"
+    ],
+    "purpose": "Stool softener",
+    "indications_and_usage": "relieves occasional constipation (irregularity) generally produces bowel movement in 12 to 72 hours",
+    "warnings": "Do not use if you are presently taking mineral oil, unless told to do so by a doctor Ask a doctor before use if you have stomach pain nausea vomiting noticed a sudden change in bowel habits that lasts over 2 weeks Stop use and ask a doctor if you have rectal bleeding or fail to have bowel movement after use of a laxative. These could be signs of a serious condition. you need to use a stool softener laxative for more than 1 week If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)",
+    "ask_doctor": "Ask a doctor before use if you have stomach pain nausea vomiting noticed a sudden change in bowel habits that lasts over 2 weeks",
+    "stop_use": "and ask a doctor if you have rectal bleeding or fail to have bowel movement after use of a laxative. These could be signs of a serious condition. you need to use a stool softener laxative for more than 1 week",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+  },
+  "DOXYLAMINE": {
+    "ingredient": "DOXYLAMINE",
+    "usanQuery": "doxylamine",
+    "labelCount": 621,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "DOXYLAMINE SUCCINATE"
+    ],
+    "purpose": "Nighttime sleep-aid",
+    "indications_and_usage": "helps to reduce difficulty in falling asleep",
+    "warnings": "Do not use in children under 12 years of age with any other product containing doxylamine unless you have time for a full night’s sleep Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma trouble urinating due to an enlarged prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or any other sleep-aid tranquilizers any other antihistamines any other drugs When using this product avoid alcoholic beverages do not drive a motor vehicle or operate machinery take only at bedtime Stop use and ask a doctor if sleeplessness persists continuously for more than two weeks. Insomnia may be a symptom of serious underlying medical illness. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.",
+    "do_not_use": "in children under 12 years of age with any other product containing doxylamine unless you have time for a full night’s sleep",
+    "ask_doctor": "Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma trouble urinating due to an enlarged prostate gland",
+    "ask_doctor_or_pharmacist": "Ask a doctor or pharmacist before use if you are taking sedatives or any other sleep-aid tranquilizers any other antihistamines any other drugs",
+    "when_using": "this product avoid alcoholic beverages do not drive a motor vehicle or operate machinery take only at bedtime",
+    "stop_use": "and ask a doctor if sleeplessness persists continuously for more than two weeks. Insomnia may be a symptom of serious underlying medical illness.",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away."
+  },
+  "DRIED ALUMINUM HYDROXIDE GEL": {
+    "ingredient": "DRIED ALUMINUM HYDROXIDE GEL",
+    "usanQuery": "dried aluminum hydroxide gel",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "ESOMEPRAZOLE": {
+    "ingredient": "ESOMEPRAZOLE",
+    "usanQuery": "esomeprazole",
+    "labelCount": 120,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "ESOMEPRAZOLE MAGNESIUM"
+    ],
+    "purpose": "Acid reducer",
+    "indications_and_usage": "treats frequent heartburn (occurs 2 or more days a week) not intended for immediate relief of heartburn; this drug may take 1 to 4 days for full effect",
+    "warnings": "Allergy alert : Do not use if you are allergic to esomeprazole. Esomeprazole may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If an allergic reaction occurs, stop use and seek medical help right away.",
+    "do_not_use": "if you have: trouble or pain swallowing food, vomiting with blood, or bloody or black stools heartburn with lightheadedness, sweating or dizziness chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness frequent chest pain These may be signs of a serious condition. See your doctor.",
+    "ask_doctor": "Ask a doctor before use if you have had heartburn over 3 months. This may be a sign of a more serious condition. frequent wheezing, particularly with heartburn unexplained weight loss nausea or vomiting stomach pain",
+    "ask_doctor_or_pharmacist": "Ask a doctor or pharmacist before use if you are taking taking a prescription drug. Acid reducers may interact with certain prescription drugs.",
+    "stop_use": "and ask a doctor if your heartburn continues or worsens you need to take this product for more than 14 days you need to take more than 1 course of treatment every 4 months you get diarrhea you develop a rash or joint pain",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  },
+  "EUCALYPTOL": {
+    "ingredient": "EUCALYPTOL",
+    "usanQuery": "eucalyptol",
+    "labelCount": 143,
+    "singleIngredient": false,
+    "labelSubstances": [
+      "EUCALYPTOL",
+      "MENTHOL, UNSPECIFIED FORM",
+      "METHYL SALICYLATE",
+      "THYMOL"
+    ],
+    "purpose": "Antigingivitis, Antiplaque",
+    "indications_and_usage": "helps control plaque that leads to gingivitis",
+    "warnings": "for this product",
+    "do_not_use": "if you have painful or swollen gums, pus from the gum line, loose teeth or increased spacing between the teeth. See your dentist immediately. These may be signs of periodontitis, a serious form of gum disease.",
+    "stop_use": "and ask a dentist if gingivitis, bleeding, or redness persists for more than 2 weeks",
+    "keep_out_of_reach_of_children": ". If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "FAMOTIDINE": {
+    "ingredient": "FAMOTIDINE",
+    "usanQuery": "famotidine",
+    "labelCount": 195,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "FAMOTIDINE"
+    ],
+    "purpose": "Acid reducer",
+    "indications_and_usage": "relieves heartburn associated with acid indigestion and sour stomach prevents heartburn associated with acid indigestion and sour stomach brought on by eating or drinking certain food and beverages",
+    "warnings": "Allergy alert: Do not use if you are allergic to famotidine or other acid reducers",
+    "do_not_use": "if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools. These may be signs of a serious condition. See your doctor. with other acid reducers",
+    "ask_doctor": "Ask a doctor before use if you have had heartburn over 3 months. This may be a sign of a more serious condition. heartburn with lightheadedness, sweating, or dizziness chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness frequent chest pain frequent wheezing, particularly with heartburn unexplained weight loss nausea or vomiting stomach pain kidney disease",
+    "ask_doctor_or_pharmacist": "Ask a doctor or pharmacist before use if you are taking a prescription drug. Acid reducers may interact with certain prescription drugs.",
+    "stop_use": "and ask a doctor if your heartburn continues or worsens you need to take this product for more than 14 days",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": "In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  },
+  "FEXOFENADINE": {
+    "ingredient": "FEXOFENADINE",
+    "usanQuery": "fexofenadine",
+    "labelCount": 232,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "FEXOFENADINE HYDROCHLORIDE"
+    ],
+    "purpose": "Antihistamine",
+    "indications_and_usage": "reduces hives and relieves itching due to hives (urticaria). This product will not prevent hives or an allergic skin reaction from occurring.",
+    "warnings": "Severe Allergy Warning: Get emergency help immediately if you have hives along with any of the following symptoms:  trouble swallowing  dizziness or loss of consciousness  swelling of tongue  swelling in or around mouth  trouble speaking  wheezing or problems breathing  drooling These symptoms may be signs of anaphylactic shock. This condition can be life threatening if not treated by a health professional immediately. Symptoms of anaphylactic shock may occur when hives first appear or up to a few hours later",
+    "do_not_use": " to prevent hives from any known cause such as:  foods  insect stings  medicines  latex or rubber gloves because this product will not stop hives from occurring. Avoiding the cause of your hives is the only way to prevent them. Hives can sometimes be serious. If you do not know the cause of your hives, see your doctor for a medical exam. Your doctor may be able to help you find a cause.  if you have ever had an allergic reaction to this product or any of its ingredients",
+    "ask_doctor": "Ask a doctor before use if you have  kidney disease. Your doctor should determine if you need a different dose.  hives that are an unusual color, look bruised or blistered  hives that do not itch",
+    "when_using": "this product  do not take more than directed  do not take at the same time as aluminum or magnesium antacids  do not take with fruit juices (see Directions)",
+    "stop_use": "and ask a doctor if  an allergic reaction to this product occurs. Seek medical help right away.  symptoms do not improve after 3 days of treatment  the hives have lasted more than 6 weeks",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": "In case of overdose, get medical help or contact a Poison Control Center right away."
+  },
+  "FLUTICASONE PROPIONATE": {
+    "ingredient": "FLUTICASONE PROPIONATE",
+    "usanQuery": "fluticasone propionate",
+    "labelCount": 76,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "FLUTICASONE PROPIONATE"
+    ],
+    "purpose": "Allergy symptom reliever",
+    "indications_and_usage": "Temporarily relieves these symptoms of hay fever or other upper respiratory allergies: nasal congestion itchy, watery eyes itchy nose runny nose sneezing",
+    "warnings": "Only for use in the nose. Do not spray into your eyes or mouth.",
+    "do_not_use": "in children under 4 years of age to treat asthma if you have an injury or surgery to your nose that is not fully healed if you have ever had an allergic reaction to this product or any of the ingredients",
+    "ask_doctor": "Ask a doctor before use if you have or had glaucoma or cataracts Ask a doctor or pharmacist before use if you are taking medicine for HIV infection (such as ritonavir) a steroid medicine for asthma, allergies or skin rash ketoconazole pills (medicine for fungal infection) When using this product the growth rate of some children may be slower stinging or sneezing may occur for a few seconds right after use do not share this bottle with anyone else as this may spread germs remember to tell your doctor about all the medicines you take, including this one Stop use and ask a doctor if you have, or come into contact with someone who has, chicken pox, measles or tuberculosis your symptoms do not get better within 7 days of starting use or you get new symptoms such as severe facial pain or thick nasal discharge. You may have something more than allergies, such as an infection. you get a constant whistling sound from your nose. This may be a sign of damage inside your nose. you get an allergic reaction to this product. Seek medical help right away. you get new changes to your vision that develop after starting this product you have severe or frequent nosebleeds If pregnant or breast–feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.",
+    "keep_out_of_reach_of_children": "Other information you may start to feel relief the first day and full effect after several days of regular, once-a-day use store between 4° and 30°C (39° and 86°F) keep this label and enclosed materials. They contain important additional information."
+  },
+  "GLYCERINE": {
+    "ingredient": "GLYCERINE",
+    "usanQuery": "glycerine",
+    "labelCount": 1,
+    "singleIngredient": false,
+    "labelSubstances": [
+      "GLYCERIN"
+    ],
+    "purpose": "Oral Demulcent",
+    "indications_and_usage": "For temporary relief of minor discomfort and protection of irritated areas in sore mouth and sore throat. Dry mouth relief.",
+    "warnings": "For Oral Use Only. Do not use Do not get in eyes Keep out of reach of children Keep out of reach of children",
+    "do_not_use": "Do not get in eyes",
+    "keep_out_of_reach_of_children": "Keep out of reach of children"
+  },
+  "GRAMICIDIN": {
+    "ingredient": "GRAMICIDIN",
+    "usanQuery": "gramicidin",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "GUAIACOL": {
+    "ingredient": "GUAIACOL",
+    "usanQuery": "guaiacol",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "GUAIACOL CARBONATE": {
+    "ingredient": "GUAIACOL CARBONATE",
+    "usanQuery": "guaiacol carbonate",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "GUAIFENESIN": {
+    "ingredient": "GUAIFENESIN",
+    "usanQuery": "guaifenesin",
+    "labelCount": 1528,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "GUAIFENESIN"
+    ],
+    "purpose": "Expectorant",
+    "indications_and_usage": "■ helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive",
+    "warnings": "Do not use ■ for children under 12 years of age",
+    "ask_doctor": "Ask a doctor before use if you have ■ persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema ■ cough accompanied by too much phlegm (mucus)",
+    "stop_use": "and ask a doctor if ■ cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious illness.",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding ask a health professional before use",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  },
+  "HAMAMELIS VIRGINIANA": {
+    "ingredient": "HAMAMELIS VIRGINIANA",
+    "usanQuery": "hamamelis virginiana",
+    "labelCount": 121,
+    "singleIngredient": false,
+    "labelSubstances": [
+      "CALENDULA OFFICINALIS FLOWERING TOP",
+      "MATRICARIA RECUTITA",
+      "HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK",
+      "ACHILLEA MILLEFOLIUM",
+      "RUTA GRAVEOLENS FLOWERING TOP",
+      "COMFREY ROOT",
+      "ACONITUM NAPELLUS",
+      "ECHINACEA, UNSPECIFIED",
+      "BAPTISIA TINCTORIA ROOT",
+      "ATROPA BELLADONNA",
+      "ARNICA MONTANA",
+      "BELLIS PERENNIS",
+      "HYPERICUM PERFORATUM"
+    ],
+    "purpose": "Relieves • Joint Pain • Back Pain • Muscular Pain",
+    "indications_and_usage": "Uses For the temporary relief of minor: Muscular Pain, Joint Pain, Back Pain, Nerve Pain and Arthritis Pain.",
+    "warnings": "If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If symptoms persist or worsen, a health professional should be consulted . Do not use if known sensitivity to T-Relief TM or any of its ingredients exists.",
+    "keep_out_of_reach_of_children": "If symptoms persist or worsen, a health professional should be consulted ."
+  },
+  "HEXYLRESORCINOL": {
+    "ingredient": "HEXYLRESORCINOL",
+    "usanQuery": "hexylresorcinol",
+    "labelCount": 8,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "HEXYLRESORCINOL"
+    ],
+    "indications_and_usage": "First Aid to help protect against infection in minor cuts, scrapes, and burns.",
+    "warnings": "For external use only. Do not use in the eyes or apply over large areas of the body. In case of deep or puncture wounds, animal bites, or serious burns, consult a doctor. Stop use and ask a doctor if the condition persists or gets worse. Do not use longer than 1 week unless directed by a doctor. Keep out of reach of children . If swallowed, consult a physician."
+  },
+  "HYDROCORTISONE": {
+    "ingredient": "HYDROCORTISONE",
+    "usanQuery": "hydrocortisone",
+    "labelCount": 376,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "HYDROCORTISONE"
+    ],
+    "purpose": "Anti-itch",
+    "indications_and_usage": "• temporarily relieves itching associated with minor skin irritations, inflammation, and rashes due to: • eczema • psoriasis • poison ivy, oak, sumac • insect bites • detergents • jewelry • cosmetics • soaps • seborrheic dermatitis • temporarily relieves external anal and genital itching • other uses of this product should only be under the advice and supervision of a doctor",
+    "warnings": "For external use only Do not use • in the genital area if you have a vaginal discharge. Consult a doctor. • for the treatment of diaper rash. Consult a doctor. When using this product • avoid contact with the eyes • do not use more than directed unless told to do so by a doctor • do not put directly into the rectum by using fingers or any mechanical device or applicator Stop use and ask a doctor if • condition worsens symptoms persist for more than 7 days or clear up and occur again within a few days, and do not begin use of any other hydrocortisone product unless you have asked a doctor • rectal bleeding occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away (1-800-222-1222).",
+    "do_not_use": "• in the genital area if you have a vaginal discharge. Consult a doctor. • for the treatment of diaper rash. Consult a doctor.",
+    "when_using": "this product • avoid contact with the eyes • do not use more than directed unless told to do so by a doctor • do not put directly into the rectum by using fingers or any mechanical device or applicator",
+    "stop_use": "and ask a doctor if • condition worsens symptoms persist for more than 7 days or clear up and occur again within a few days, and do not begin use of any other hydrocortisone product unless you have asked a doctor • rectal bleeding occurs",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  },
+  "HYPROMELLOSE": {
+    "ingredient": "HYPROMELLOSE",
+    "usanQuery": "hypromellose",
+    "labelCount": 43,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "HYPROMELLOSE 2208 (100 MPA.S)"
+    ],
+    "purpose": "Use For use as a lubricant to prevent further irritation or to relieve dryness of the eye.",
+    "indications_and_usage": "for use as a lubricant to prevent further irritation to relieve dryness of the eye",
+    "warnings": "Warnngs For external use only Do not use ■ if this product changes color or becomes cloudy ■ if seal is broken or punctured When using this product ■ do not touch tip of container to any surface to avoid contamination ■ replace cap after each use Stop use and consult a physician if you experience any of the following ■ eye pain ■ changes in vision ■ irritation or redness for longer than 72 hours If pregnant or breast-feeding, ask a health professional before use. Do not use if this product changes color or becomes cloudy if you are sensitive to any ingredient in this product When using this product do not touch the tip of container to any surface to avoid contamination replace cap after each use Stop use and consult a physician if you experience any of the following: eye pain changes in vision occur irritation or redness for longer than 72 hours Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away If pregnant or breastfeeding ask a health professional before use.",
+    "do_not_use": "if this product changes color or becomes cloudy if you are sensitive to any ingredient in this product",
+    "when_using": "this product do not touch the tip of container to any surface to avoid contamination replace cap after each use",
+    "stop_use": "and consult a physician if you experience any of the following: eye pain changes in vision occur irritation or redness for longer than 72 hours",
+    "keep_out_of_reach_of_children": "If swallowed, get medical help or contact a Poison Control Center right away"
+  },
+  "IBUPROFEN": {
+    "ingredient": "IBUPROFEN",
+    "usanQuery": "ibuprofen",
+    "labelCount": 916,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "IBUPROFEN"
+    ],
+    "purpose": "Pain reliever/fever reducer",
+    "indications_and_usage": "temporarily relieves minor aches and pains due to: headache toothache backache menstrual cramps the common cold muscular aches minor pain of arthritis temporarily reduces fever",
+    "warnings": "Allergy alert: Ibuprofen may cause a severe allergic reaction, especially in people allergic to aspirin. Symptoms may include: rash facial swelling asthma (wheezing) hives skin reddening shock blisters If an allergic reaction occurs, stop use and seek medical help right away. Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you: take more or for a longer time than directed take a blood thinning (anticoagulant) or steroid drug have had stomach ulcers or bleeding problems have 3 or more alcoholic drinks every day while using this product are age 60 or older take other drugs containing prescription or nonprescription NSAIDs [aspirin, ibuprofen, naproxen, or others] Heart attack and stroke warning: NSAIDs, except aspirin, increase the risk of heart attack, heart failure, and stroke. These can be fatal. The risk is higher if you use more than directed or for longer than directed. Do not use if you have ever had an allergic reaction to any other pain reliever/fever reducer right before or after heart surgery Ask a doctor before use if stomach bleeding warning applies to you you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis, kidney disease, asthma, or had a stroke you are taking a diuretic you have problems or serious side effects from taking pain relievers or fever reducers Ask a doctor or pharmacist before use if you are under a doctor's care for any serious condition taking aspirin for heart attack or stroke, because ibuprofen may decrease this benefit of aspirin taking any other drug When using this product take with food or milk if stomach upset occurs Stop use and ask a doctor if you experience any of the following signs of stomach bleeding: feel faint have bloody or black stools vomit blood have stomach pain that does not get better you have symptoms of heart problems or stroke: chest pain slurred speech trouble breathing leg swelling weakness in one part or side of body pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days redness or swelling is present in the painful area any new symptoms appear If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use ibuprofen at 20 weeks or later in pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.",
+    "do_not_use": "if you have ever had an allergic reaction to any other pain reliever/fever reducer right before or after heart surgery",
+    "ask_doctor": "Ask a doctor before use if stomach bleeding warning applies to you you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis, kidney disease, asthma, or had a stroke you are taking a diuretic you have problems or serious side effects from taking pain relievers or fever reducers",
+    "ask_doctor_or_pharmacist": "Ask a doctor or pharmacist before use if you are under a doctor's care for any serious condition taking aspirin for heart attack or stroke, because ibuprofen may decrease this benefit of aspirin taking any other drug",
+    "when_using": "this product take with food or milk if stomach upset occurs",
+    "stop_use": "and ask a doctor if you experience any of the following signs of stomach bleeding: feel faint have bloody or black stools vomit blood have stomach pain that does not get better you have symptoms of heart problems or stroke: chest pain slurred speech trouble breathing leg swelling weakness in one part or side of body pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days redness or swelling is present in the painful area any new symptoms appear",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use ibuprofen at 20 weeks or later in pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away."
+  },
+  "KETOCONAZOLE": {
+    "ingredient": "KETOCONAZOLE",
+    "usanQuery": "ketoconazole",
+    "labelCount": 11,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "KETOCONAZOLE"
+    ],
+    "purpose": "Anti Dandruff",
+    "indications_and_usage": "Targets Stubborn Dandruff, Seborrheic Dermatitis, and itching ​Prevention, Treatment, and control of fungus that can cause dandruff",
+    "warnings": "For external use only on the scalp that is broken or inflamed if you are allergic to ingredients in this product do not get into the eyes. If eye contact occurs, rinse thoroughly with water. If the rash appears or the condition worsens does not improve in 2-4 weeks. ask a doctor before use If swallowed, get medical help or contact a Posion Control Center immediately",
+    "do_not_use": "on the scalp that is broken or inflamed if you are allergic to ingredients in this product",
+    "when_using": "do not get into the eyes. If eye contact occurs, rinse thoroughly with water.",
+    "stop_use": "If the rash appears or the condition worsens does not improve in 2-4 weeks.",
+    "pregnancy_or_breast_feeding": "ask a doctor before use",
+    "keep_out_of_reach_of_children": "If swallowed, get medical help or contact a Posion Control Center immediately"
+  },
+  "LACTULOSE": {
+    "ingredient": "LACTULOSE",
+    "usanQuery": "lactulose",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "LEVOMENTHOL": {
+    "ingredient": "LEVOMENTHOL",
+    "usanQuery": "levomenthol",
+    "labelCount": 8,
+    "singleIngredient": false,
+    "labelSubstances": [
+      "CAMPHOR (SYNTHETIC)",
+      "LEVOMENTHOL",
+      "CAPSICUM"
+    ],
+    "purpose": "Active Ingredients Purpose DL-Camphor 230 mg/patch Topical Analgesic L-Menthol 70 mg /patch Topical Analgesic Capsicum Extract 46 mg/patch Topical Analgesic",
+    "indications_and_usage": "For temporary relief of pains.",
+    "warnings": "FOR EXTERNAL USE ONLY When using this product Use only as directed Do not get into eyes or on mucous membranes Do not apply to wounds, damaged or irritated skin Do not bandage or cover with any type of wrap except clothing Do not use with a heating pad or apply external heat Do not use 1 hour prior to bathing or within 30 minutes after bathing Stop use and ask a doctor if Condition worsens Severe skin irritation occurs Pain persists for more than 7 days Symptoms clear up and occur again within a few days If pregnant or breast-feeding, or if you have sensitive skin, ask a healthcare professional before use. Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center right away.",
+    "when_using": "this product Use only as directed Do not get into eyes or on mucous membranes Do not apply to wounds, damaged or irritated skin Do not bandage or cover with any type of wrap except clothing Do not use with a heating pad or apply external heat Do not use 1 hour prior to bathing or within 30 minutes after bathing",
+    "stop_use": "and ask a doctor if Condition worsens Severe skin irritation occurs Pain persists for more than 7 days Symptoms clear up and occur again within a few days",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, or if you have sensitive skin, ask a healthcare professional before use.",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact Poison Control Center right away."
+  },
+  "LIDOCAINE": {
+    "ingredient": "LIDOCAINE",
+    "usanQuery": "lidocaine",
+    "labelCount": 1176,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "LIDOCAINE"
+    ],
+    "purpose": "Topical anesthetic",
+    "indications_and_usage": "for the temporary relief of pain",
+    "warnings": "For external use only Extremely flammable ■ keep away from fire, sparks, and heated surfaces. Contents under pressure, do not puncture or incinerate container. Exposure to temperatures above 120°F may cause bursting. Do not use ■ in large quantities ■ on wounds or on irritated or damaged skin ■ with a heating pad When using this product ■ use only as directed. Intentional misuse by deliberately concentrating or inhaling the contents can be harmful or fatal. ■ do not bandage tightly ■ avoid contact with eyes and mucous membranes. Do not spray in the face or mouth. ■ do not expose the area to local heat or to direct sunlight Stop use and ask a doctor if ■ condition worsens or symptoms persist for more than 7 days ■ symptoms clear up and occur again within a few days ■ redness is present or excessive skin irritation occurs ■ you experience severe burning pain, swelling, or blistering where the product was applied If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+    "do_not_use": "■ in large quantities ■ on wounds or on irritated or damaged skin ■ with a heating pad",
+    "when_using": "this product ■ use only as directed. Intentional misuse by deliberately concentrating or inhaling the contents can be harmful or fatal. ■ do not bandage tightly ■ avoid contact with eyes and mucous membranes. Do not spray in the face or mouth. ■ do not expose the area to local heat or to direct sunlight",
+    "stop_use": "and ask a doctor if ■ condition worsens or symptoms persist for more than 7 days ■ symptoms clear up and occur again within a few days ■ redness is present or excessive skin irritation occurs ■ you experience severe burning pain, swelling, or blistering where the product was applied",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "LOPERAMIDE": {
+    "ingredient": "LOPERAMIDE",
+    "usanQuery": "loperamide",
+    "labelCount": 189,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "LOPERAMIDE HYDROCHLORIDE"
+    ],
+    "purpose": "Anti-diarrheal",
+    "indications_and_usage": "controls symptoms of diarrhea, including Travelers’ Diarrhea",
+    "warnings": "Allergy alert: Do not use if you have ever had a rash or other allergic reaction to loperamide HCl Heart alert: Taking more than directed can cause serious heart problems or death Do not use if you have bloody or black stool Ask a doctor before use if you have • fever • mucus in the stool • a history of liver disease • a history of abnormal heart rhythm Ask a doctor or pharmacist before use if you are taking a prescription drug. Loperamide may interact with certain prescription drugs. When using this product tiredness, drowsiness or dizziness may occur. Be careful when driving or operating machinery. Stop use and ask a doctor if • symptoms get worse • diarrhea lasts for more than 2 days • you get abdominal swelling or bulging. These may be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)",
+    "do_not_use": "if you have bloody or black stool",
+    "ask_doctor": "Ask a doctor before use if you have • fever • mucus in the stool • a history of liver disease • a history of abnormal heart rhythm",
+    "ask_doctor_or_pharmacist": "Ask a doctor or pharmacist before use if you are taking a prescription drug. Loperamide may interact with certain prescription drugs.",
+    "when_using": "this product tiredness, drowsiness or dizziness may occur. Be careful when driving or operating machinery.",
+    "stop_use": "and ask a doctor if • symptoms get worse • diarrhea lasts for more than 2 days • you get abdominal swelling or bulging. These may be signs of a serious condition.",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+  },
+  "LORATADINE": {
+    "ingredient": "LORATADINE",
+    "usanQuery": "loratadine",
+    "labelCount": 407,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "LORATADINE"
+    ],
+    "purpose": "Antihistamine",
+    "indications_and_usage": "temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: • runny nose • itchy, watery eyes • sneezing • itching of the nose or throat",
+    "warnings": "Do not use if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed. Taking more than directed may cause drowsiness. Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)",
+    "do_not_use": "if you have ever had an allergic reaction to this product or any of its ingredients",
+    "ask_doctor": "Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose.",
+    "when_using": "this product do not take more than directed. Taking more than directed may cause drowsiness.",
+    "stop_use": "and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away.",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+  },
+  "MACROGOL": {
+    "ingredient": "MACROGOL",
+    "usanQuery": "macrogol",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "MAGNESIUM HYDROXIDE": {
+    "ingredient": "MAGNESIUM HYDROXIDE",
+    "usanQuery": "magnesium hydroxide",
+    "labelCount": 291,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "MAGNESIUM HYDROXIDE"
+    ],
+    "purpose": "Saline laxative",
+    "indications_and_usage": "relieves occasional constipation (irregularity) generally produces bowel movement in 1/2 to 6 hours",
+    "warnings": "Ask a doctor before use if you have kidney disease a magnesium-restricted diet stomach pain, nausea, or vomiting a sudden change in bowel habits that lasts over 14 days ​ Ask a doctor or pharmacist before use if you are presently taking a prescription drug. This product may interact with certain prescription drugs. Stop use and ask a doctor if you have rectal bleeding or no bowel movement after using this product. These could be signs of a serious condition. you need to use a laxative for more than 1 week If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  },
+  "MENTHOL": {
+    "ingredient": "MENTHOL",
+    "usanQuery": "menthol",
+    "labelCount": 2124,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "MENTHOL"
+    ],
+    "purpose": "Cough suppressant / Oral anesthetic",
+    "indications_and_usage": "temporarily relieves: cough as may occur with a cold occasional minor irritation and sore throat",
+    "warnings": "Sore throat warning: if sor throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, swelling, nausea, or vomiting, consult a doctor promptly. If sore mouth symptoms do not improve in 7 days, see your dentist or doctor promptly. These symptoms may be serious.",
+    "ask_doctor": "Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, or emphysema cough accompanied by excessive phlegm (mucus)",
+    "stop_use": "and ask doctor if cough persists for more than 7 days, tends to recur, or is accompanied by fever, rash, or persistant headache. These could be signs of a serious condition. sore throat is severe, or irritation, pain or redness lasts or worsens sore mouth does not improve in 7 days",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding , ask a health professional before use.",
+    "keep_out_of_reach_of_children": "."
+  },
+  "METHYLENE BLUE": {
+    "ingredient": "METHYLENE BLUE",
+    "usanQuery": "methylene blue",
+    "labelCount": 4,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "METHYLENE BLUE"
+    ],
+    "purpose": "Memory consolidation Oxidative stress defense Mental fatigue resistance Manage BMS Symptoms Effectively",
+    "indications_and_usage": "DIRECTIONS Mix 1 ml (20 drops) of the solution with 200 ml of water, or use according to your established research protocols.",
+    "warnings": "1. Consult a health care professional before using the product orally or on the skin. 2. This product is for adult use only. 3. Keep out of the reach of children. 4. Natural residue may occur. Shake well before use. 5. The product is a strong dye. Avoid contact with clothing and surfaces. 6. \"STORAGE Store in a dry cool place away from direct sunlight.\" 7. This statement has not been evaluated by the food and drug administration. This product is a dietary supplement. This product is not intended to diagnose, cure or prevent any disease.",
+    "keep_out_of_reach_of_children": "Keep out of the reach of children."
+  },
+  "MICONAZOLE": {
+    "ingredient": "MICONAZOLE",
+    "usanQuery": "miconazole",
+    "labelCount": 272,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "MICONAZOLE NITRATE"
+    ],
+    "purpose": "Antifungal",
+    "indications_and_usage": "for the treatment of most athlete's foot (tinea pedis), jock itch (tinea cruris), ringworm (tinea corporis) relieves most itching, scaling, cracking, burning, redness, soreness, irritation, discomfort and chafing associated with jock itch",
+    "warnings": "For external use only Do not use on children under 2 years of age unless directed by a doctor on scalp or nails When using this product avoid contact with the eyes Stop use and ask a doctor if irritation occurs there is no improvement within 4 weeks when used for the treatment of athlete's foot or ringworm there is no improvement within 2 weeks when used for the treatment of jock itch Keep out of reach of children If swallowed, get medical help or contact a Poison Control center right away.",
+    "do_not_use": "on children under 2 years of age unless directed by a doctor on scalp or nails",
+    "when_using": "this product avoid contact with the eyes",
+    "stop_use": "and ask a doctor if irritation occurs there is no improvement within 4 weeks when used for the treatment of athlete's foot or ringworm there is no improvement within 2 weeks when used for the treatment of jock itch",
+    "keep_out_of_reach_of_children": "If swallowed, get medical help or contact a Poison Control center right away."
+  },
+  "MINERAL OIL": {
+    "ingredient": "MINERAL OIL",
+    "usanQuery": "mineral oil",
+    "labelCount": 111,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "MINERAL OIL"
+    ],
+    "purpose": "Lubricant laxative",
+    "indications_and_usage": "relieves occasional constipation (irregularity) generally produces bowel movement in 6 to 8 hours",
+    "warnings": "Do not use in children under 12 years of age, pregnant wormen, bedridden patients or aged, or if you have difficulty swallowing if you are presently taking a stool softener laxative for longer than 1 week Ask a doctor before use if you have abdominal pain, nausea or vomiting noticed a sudden change in bowel habits that persists over a period of 2 weeks When using this product do not take with meals take only at bedtime Stop use and ask a doctor if you have rectal bleeding or failure to have a bowel movement after use. These could be signs of a serious condition. If pregnant or breast feeding, ask a health professional before use. As with any drug, if you are nursing a baby, seek the advice of a health professional before using this product Keep out of reach of children In case of overdose, get medical help or contact a Poison Control center (1-800-222-1222) right away.",
+    "do_not_use": "in children under 12 years of age, pregnant wormen, bedridden patients or aged, or if you have difficulty swallowing if you are presently taking a stool softener laxative for longer than 1 week",
+    "ask_doctor": "Ask a doctor before use if you have abdominal pain, nausea or vomiting noticed a sudden change in bowel habits that persists over a period of 2 weeks",
+    "when_using": "this product do not take with meals take only at bedtime",
+    "stop_use": "and ask a doctor if you have rectal bleeding or failure to have a bowel movement after use. These could be signs of a serious condition.",
+    "pregnancy_or_breast_feeding": "If pregnant or breast feeding, ask a health professional before use. As with any drug, if you are nursing a baby, seek the advice of a health professional before using this product",
+    "keep_out_of_reach_of_children": "In case of overdose, get medical help or contact a Poison Control center (1-800-222-1222) right away."
+  },
+  "MINERAL OIL LIGHT": {
+    "ingredient": "MINERAL OIL LIGHT",
+    "usanQuery": "mineral oil light",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "MINOXIDIL": {
+    "ingredient": "MINOXIDIL",
+    "usanQuery": "minoxidil",
+    "labelCount": 284,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "MINOXIDIL"
+    ],
+    "purpose": "Hair regrowth treatment for men",
+    "indications_and_usage": "to regrow hair on the top of the scalp (vertex only, see pictures on side of carton)",
+    "warnings": "For external use only. For use by men only. Flammable: Keep away from fire or flame Do not use if • you are a woman • your amount of hair loss is different than that shown on the side of this carton or your hair loss is on the front of the scalp. Minoxidil topical solution 5% is not intended for frontal baldness or receding hairline. • you have no family history of hair loss • your hair loss is sudden and/or patchy • you do not know the reason for your hair loss • you are under 18 years of age. Do not use on babies and children. • your scalp is red, inflamed, infected, irritated, or painful • you use other medicines on the scalp Ask a doctor before use if you have heart disease When using this product • do not apply on other parts of the body • avoid contact with the eyes. In case of accidental contact, rinse eyes with large amounts of cool tap water. • some people have experienced changes in hair color and/or texture • it takes time to regrow hair. Results may occur at 2 months with twice a day usage. For some men, you may need to use this product for at least 4 months before you see results. • the amount of hair regrowth is different for each person. This product will not work for all men. Stop use and ask a doctor if • chest pain, rapid heartbeat, faintness, or dizziness occurs • sudden, unexplained weight gain occurs • your hands or feet swell • scalp irritation or redness occurs • unwanted facial hair growth occurs • you do not see hair regrowth in 4 months May be harmful if used when pregnant or breast-feeding. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. (1-800-222-1222)",
+    "do_not_use": "if • you are a woman • your amount of hair loss is different than that shown on the side of this carton or your hair loss is on the front of the scalp. Minoxidil topical solution 5% is not intended for frontal baldness or receding hairline. • you have no family history of hair loss • your hair loss is sudden and/or patchy • you do not know the reason for your hair loss • you are under 18 years of age. Do not use on babies and children. • your scalp is red, inflamed, infected, irritated, or painful • you use other medicines on the scalp",
+    "ask_doctor": "Ask a doctor before use if you have heart disease",
+    "when_using": "this product • do not apply on other parts of the body • avoid contact with the eyes. In case of accidental contact, rinse eyes with large amounts of cool tap water. • some people have experienced changes in hair color and/or texture • it takes time to regrow hair. Results may occur at 2 months with twice a day usage. For some men, you may need to use this product for at least 4 months before you see results. • the amount of hair regrowth is different for each person. This product will not work for all men.",
+    "stop_use": "and ask a doctor if • chest pain, rapid heartbeat, faintness, or dizziness occurs • sudden, unexplained weight gain occurs • your hands or feet swell • scalp irritation or redness occurs • unwanted facial hair growth occurs • you do not see hair regrowth in 4 months",
+    "pregnancy_or_breast_feeding": "May be harmful if used when pregnant or breast-feeding.",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+  },
+  "MUPIROCIN": {
+    "ingredient": "MUPIROCIN",
+    "usanQuery": "mupirocin",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "NAPHAZOLINE": {
+    "ingredient": "NAPHAZOLINE",
+    "usanQuery": "naphazoline",
+    "labelCount": 63,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "NAPHAZOLINE HYDROCHLORIDE"
+    ],
+    "purpose": "For the temporary relief of nasal congestion due to the common cold, hay fever, or sinusitis. Temporarily relieves a stuffy nose. Helps clear nasal passages.",
+    "indications_and_usage": "Naphazoline hydrochloride 0.05% nasal drops are indicated for the temporary relief of nasal congestion due to the common cold, hay fever, or sinusitis. Temporarily relieves a stuffy nose. Helps clear nasal passages.",
+    "warnings": "Do not exceed recommended dosage. This product may cause temporary discomfort such as burning, stinging, sneezing, or an increase in nasal discharge. The use of this container by more than one person may spread infection. Do not use this product for more than 3 days. Use only as directed. Frequent or prolonged use may cause nasal congestion to recur or worsen. If symptoms persist, consult a doctor. Do not use this product if you have heart disease, high blood pressure, thyroid disease, diabetes, or difficulty in urination due to enlargement of the prostate gland unless directed by a doctor. Do not use this product in children under 12 years of age because it may cause sedation if swallowed. When using this product avoid contact with the eyes.",
+    "do_not_use": "If you are pregnant or breast-feeding consult a health care professional before using this product. Do not use this product if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you are uncertain whether your prescription drug contains an MAOI, consult a health professional before taking this product. Do not use this product for more than 3 days. Use only as directed. Frequent or prolonged use may cause nasal congestion to recur or worsen. If symptoms persist, consult a doctor. Do not use this product if you have heart disease, high blood pressure, thyroid disease, diabetes, or difficulty in urination due to enlargement of the prostate gland unless directed by a doctor. Do not use this product in children under 12 years of age because it may cause sedation if swallowed. Do not use this product in a child who has heart disease, high blood pressure, thyroid disease, or diabetes unless directed by a doctor. This product is for nasal use only. When using this product avoid contact with the eyes. In case of contact with eyes, rinse eyes thoroughly with water.",
+    "when_using": "Use for the temporary relief of nasal congestion due to the common cold, hay fever, or sinusitis.",
+    "keep_out_of_reach_of_children": ". In case of accidental overdose, get medical help or contact a Poison Control Center right away. Stop using this product after 3 days. If symptoms persist, stop, and consult a doctor."
+  },
+  "NAPROXEN": {
+    "ingredient": "NAPROXEN",
+    "usanQuery": "naproxen",
+    "labelCount": 267,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "NAPROXEN SODIUM"
+    ],
+    "purpose": "Pain reliever/fever reducer",
+    "indications_and_usage": "temporarily relieves minor aches and pains due to: minor pain of arthritis muscular aches backache menstrual cramps headache toothache the common cold temporarily reduces fever",
+    "warnings": "Allergy alert: Naproxen sodium may cause a severe allergic reaction, especially in people allergic to aspirin. Symptoms may include hives facial swelling asthma (wheezing) shock skin reddening rash blisters If an allergic reaction occurs, stop use and seek medical help right away. Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you are age 60 or older have had stomach ulcers or bleeding problems take a blood thinning (anticoagulant) or steroid drug take other drugs containing prescription or nonprescription NSAIDs (aspirin, ibuprofen, naproxen, or others) have 3 or more alcoholic drinks every day while using this product take more or for a longer time than directed. Heart attack and stroke warning: NSAIDs, except aspirin, increase the risk of heart attack, heart failure, and stroke. These can be fatal. The risk is higher if you use more than directed or for longer than directed. Do not use if you have ever had an allergic reaction to any other pain reliever/fever reducer right before or after heart surgery Ask a doctor before use if the stomach bleeding warning applies to you you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis, or kidney disease you are taking a diuretic you have problems or serious side effects from taking pain relievers or fever reducers you have asthma Ask a doctor or pharmacist before use if you are under a doctor’s care for any serious condition taking any other drug When using this product take with food or milk if stomach upset occurs the risk of heart attack or stroke may increase if you use more than directed or for longer than directed Stop use and ask a doctor if you experience any of the following signs of stomach bleeding: feel faint vomit blood have bloody or black stools have stomach pain that does not get better you have symptoms of heart problems or stroke: chest pain trouble breathing weakness in one part or side of body slurred speech leg swelling pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days you have difficulty swallowing it feels like the pill is stuck in your throat redness or swelling is present in the painful area any new symptoms appear If pregnant or breast-feeding, If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use naproxen sodium during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery. Keep out of reach of children Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.",
+    "do_not_use": "if you have ever had an allergic reaction to any other pain reliever/fever reducer right before or after heart surgery",
+    "ask_doctor": "Ask a doctor before use if the stomach bleeding warning applies to you you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis, or kidney disease you are taking a diuretic you have problems or serious side effects from taking pain relievers or fever reducers you have asthma",
+    "ask_doctor_or_pharmacist": "Ask a doctor or pharmacist before use if you are under a doctor’s care for any serious condition taking any other drug",
+    "when_using": "this product take with food or milk if stomach upset occurs the risk of heart attack or stroke may increase if you use more than directed or for longer than directed",
+    "stop_use": "and ask a doctor if you experience any of the following signs of stomach bleeding: feel faint vomit blood have bloody or black stools have stomach pain that does not get better you have symptoms of heart problems or stroke: chest pain trouble breathing weakness in one part or side of body slurred speech leg swelling pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days you have difficulty swallowing it feels like the pill is stuck in your throat redness or swelling is present in the painful area any new symptoms appear",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use naproxen sodium during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.",
+    "keep_out_of_reach_of_children": "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  },
+  "NYSTATIN": {
+    "ingredient": "NYSTATIN",
+    "usanQuery": "nystatin",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "OMEPRAZOLE": {
+    "ingredient": "OMEPRAZOLE",
+    "usanQuery": "omeprazole",
+    "labelCount": 190,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "OMEPRAZOLE"
+    ],
+    "purpose": "Acid reducer",
+    "indications_and_usage": "• treats frequent heartburn (occurs 2 or more days a week) • not intended for immediate relief of heartburn; this drug may take 1 to 4 days for full effect",
+    "warnings": "Allergy alert: • do not use if you are allergic to omeprazole. • omeprazole may cause severe skin reactions. Symptoms may include: • skin reddening • blisters • rash If an allergic reaction occurs, stop use and seek medical help right away. Do not use if you have: • trouble or pain swallowing food, vomiting with blood, or bloody or black stools • heartburn with lightheadedness, sweating or dizziness • chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness • frequent chest pain These may be signs of a serious condition. See your doctor. Ask a doctor before use if you have: • had heartburn over 3 months. This may be a sign of a more serious condition. • frequent wheezing, particularly with heartburn • unexplained weight loss • nausea or vomiting • stomach pain Ask a doctor or pharmacist before use if you are taking a prescription drug. Acid reducers may interact with certain prescription drugs. Stop use and ask a doctor if: • your heartburn continues or worsens • you need to take this product for more than 14 days • you need to take more than 1 course of treatment every 4 months • you get diarrhea • you develop a rash or joint pain If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).",
+    "do_not_use": "if you have: • trouble or pain swallowing food, vomiting with blood, or bloody or black stools • heartburn with lightheadedness, sweating or dizziness • chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness • frequent chest pain These may be signs of a serious condition. See your doctor.",
+    "ask_doctor": "Ask a doctor before use if you have: • had heartburn over 3 months. This may be a sign of a more serious condition. • frequent wheezing, particularly with heartburn • unexplained weight loss • nausea or vomiting • stomach pain",
+    "ask_doctor_or_pharmacist": "Ask a doctor or pharmacist before use if you are taking a prescription drug. Acid reducers may interact with certain prescription drugs.",
+    "stop_use": "and ask a doctor if: • your heartburn continues or worsens • you need to take this product for more than 14 days • you need to take more than 1 course of treatment every 4 months • you get diarrhea • you develop a rash or joint pain",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  },
+  "OXYMETAZOLINE": {
+    "ingredient": "OXYMETAZOLINE",
+    "usanQuery": "oxymetazoline",
+    "labelCount": 193,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "OXYMETAZOLINE HYDROCHLORIDE"
+    ],
+    "purpose": "Nasal decongestant",
+    "indications_and_usage": "temporarily relieves nasal congestion due to a cold, hay fever, or other upper respiratory allergies sinus congestion and pressure",
+    "warnings": "For external use only; avoid contact with eyes. Do not use by mouth in nostrils on wounds or damaged skin with tight bandages Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes trouble urinating due to enlarged prostate gland When using this product, do not do not exceed recommended dosage do not use this product for more than 3 days. Use only as directed. Frequent or prolonged use may cause nasal congestion to recur or worsen temporary discomfort such as burning, stinging, sneezing, or increased nasal discharge may occur use of this container by more than one person may spread infection Stop use and ask a doctor if symptoms persist. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+    "ask_doctor": "Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes trouble urinating due to enlarged prostate gland",
+    "when_using": "this product, do not do not exceed recommended dosage do not use this product for more than 3 days. Use only as directed. Frequent or prolonged use may cause nasal congestion to recur or worsen temporary discomfort such as burning, stinging, sneezing, or increased nasal discharge may occur use of this container by more than one person may spread infection",
+    "stop_use": "and ask a doctor if symptoms persist.",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "PAMABROM": {
+    "ingredient": "PAMABROM",
+    "usanQuery": "pamabrom",
+    "labelCount": 25,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "PAMABROM"
+    ],
+    "purpose": "Diuretic",
+    "indications_and_usage": "For the relief of temporary water weight gain bloating swelling full feeling associated with the premenstrual and menstrual periods.",
+    "warnings": "Ask a doctor or pharmacist before use if you are taking any other medication.",
+    "do_not_use": "Stop use and ask a doctor if symptoms last for more than ten consecutive days.",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding ask a health professional before use.",
+    "keep_out_of_reach_of_children": "Keep out of reach of chlidren In case of overdose, get medical help or contact a Poison Control Center right away."
+  },
+  "PETROLATUM": {
+    "ingredient": "PETROLATUM",
+    "usanQuery": "petrolatum",
+    "labelCount": 508,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "WHITE PETROLATUM"
+    ],
+    "purpose": "Skin protectant",
+    "indications_and_usage": "temporarily protects minor cuts, scrapes and burns helps prevent and temporarily protects and helps relieve chapped or cracked skin helps treat and prevent diaper rash. Protects minor skin irritation associated with diaper rash and helps seal out wetness",
+    "warnings": "For external use only Do not use on deep or puncture wounds animal bites serious burns When using this product do not get into eyes Stop use and ask a doctor if condition worsens symptoms last for more than 7 days or clear up and occur again within a few days Keep out of reach of children. In case of accidental ingestion, get medical help or contact a Poison Control Center right away.",
+    "do_not_use": "on deep or puncture wounds animal bites serious burns",
+    "when_using": "this product do not get into eyes",
+    "stop_use": "and ask a doctor if condition worsens symptoms last for more than 7 days or clear up and occur again within a few days",
+    "keep_out_of_reach_of_children": ". In case of accidental ingestion, get medical help or contact a Poison Control Center right away."
+  },
+  "PHENIRAMINE": {
+    "ingredient": "PHENIRAMINE",
+    "usanQuery": "pheniramine",
+    "labelCount": 14,
+    "singleIngredient": false,
+    "labelSubstances": [
+      "NAPHAZOLINE HYDROCHLORIDE",
+      "PHENIRAMINE MALEATE"
+    ],
+    "purpose": "Active ingredients Purpose Naphazoline HCl 0.025% Redness reliever Pheniramine maleate 0.3% Antihistamine",
+    "indications_and_usage": "Temporarily relieves itchy, red eyes due to: pollen ragweed grass animal hair and dander",
+    "warnings": "For external use only Do not use if you are sensitive to any ingredient in this product. Ask a doctor before use if you have heart disease high blood pressure narrow angle glaucoma trouble urinating When using this product pupils may become enlarged temporarily causing light sensitivity do not touch tip of container to any surface to avoid contamination replace cap after each use remove contact lenses before using do not use if this solution changes color or becomes cloudy overuse may cause more eye redness some users may experience a brief tingling sensation Stop use and ask a doctor if you feel eye pain changes in vision occur redness or irritation of the eye lasts condition worsens or lasts more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Accidental swallowing by infants and children may lead to coma and marked reduction in body temperature.",
+    "do_not_use": "if you are sensitive to any ingredient in this product.",
+    "ask_doctor": "Ask a doctor before use if you have heart disease high blood pressure narrow angle glaucoma trouble urinating",
+    "when_using": "this product pupils may become enlarged temporarily causing light sensitivity do not touch tip of container to any surface to avoid contamination replace cap after each use remove contact lenses before using do not use if this solution changes color or becomes cloudy overuse may cause more eye redness some users may experience a brief tingling sensation",
+    "stop_use": "and ask a doctor if you feel eye pain changes in vision occur redness or irritation of the eye lasts condition worsens or lasts more than 72 hours",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center right away. Accidental swallowing by infants and children may lead to coma and marked reduction in body temperature."
+  },
+  "PHENYLEPHRINE": {
+    "ingredient": "PHENYLEPHRINE",
+    "usanQuery": "phenylephrine",
+    "labelCount": 1661,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "PHENYLEPHRINE HYDROCHLORIDE"
+    ],
+    "purpose": "Nasal decongestant",
+    "indications_and_usage": "temporarily relieves sinus congestion and pressure temporarily relieves nasal congestion due to the common cold, hay fever or other upper respiratory allergies",
+    "warnings": "Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have heart disease diabetes thyroid disease high blood pressure difficulty in urination due to enlargement of the prostate gland When using this product do not exceed recommended dosage. Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur symptoms do not improve within 7 days or occur with fever If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.",
+    "do_not_use": "if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.",
+    "ask_doctor": "Ask a doctor before use if you have heart disease diabetes thyroid disease high blood pressure difficulty in urination due to enlargement of the prostate gland",
+    "when_using": "this product do not exceed recommended dosage.",
+    "stop_use": "and ask a doctor if nervousness, dizziness, or sleeplessness occur symptoms do not improve within 7 days or occur with fever",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away."
+  },
+  "POLYETHYLENE GLYCOL 3350": {
+    "ingredient": "POLYETHYLENE GLYCOL 3350",
+    "usanQuery": "polyethylene glycol 3350",
+    "labelCount": 100,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "POLYETHYLENE GLYCOL 3350"
+    ],
+    "purpose": "Osmotic Laxative",
+    "indications_and_usage": "• relieves occasional constipation (irregularity) • generally produces a bowel movement in 1 to 3 days",
+    "warnings": "Allergy alert: Do not use if you are allergic to polyethylene glycol Do not use if you have kidney disease, except under the advice and supervision of a doctor Ask a doctor before use if you have • nausea, vomiting or abdominal pain • a sudden change in bowel habits that lasts over 2 weeks • irritable bowel syndrome Ask a doctor or pharmacist before use if you are taking a prescription drug When using this product you may have loose, watery, more frequent stools Stop use and ask a doctor if • you have rectal bleeding or your nausea, bloating, cramping or abdominal pain gets worse. These may be signs of a serious condition. • you get diarrhea • you need to use a laxative for longer than 1 week If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).",
+    "do_not_use": "if you have kidney disease, except under the advice and supervision of a doctor",
+    "ask_doctor": "Ask a doctor before use if you have • nausea, vomiting or abdominal pain • a sudden change in bowel habits that lasts over 2 weeks • irritable bowel syndrome",
+    "ask_doctor_or_pharmacist": "Ask a doctor or pharmacist before use if you are taking a prescription drug",
+    "when_using": "this product you may have loose, watery, more frequent stools",
+    "stop_use": "and ask a doctor if • you have rectal bleeding or your nausea, bloating, cramping or abdominal pain gets worse. These may be signs of a serious condition. • you get diarrhea • you need to use a laxative for longer than 1 week",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  },
+  "POLYETHYLENE GLYCOL 400": {
+    "ingredient": "POLYETHYLENE GLYCOL 400",
+    "usanQuery": "polyethylene glycol 400",
+    "labelCount": 110,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "POLYETHYLENE GLYCOL 400"
+    ],
+    "purpose": "Lubricant",
+    "indications_and_usage": "for protection against further irritation for temporary relief of burning and irritation due to dryness of the eye",
+    "warnings": "For external use only Do not use this product if solution changes color or becomes cloudy When using this product to avoid contamination, do not touch tip of container to any surface. Replace cap after using. remove contact lenses before using Stop use and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.",
+    "do_not_use": "this product if solution changes color or becomes cloudy",
+    "when_using": "this product to avoid contamination, do not touch tip of container to any surface. Replace cap after using. remove contact lenses before using",
+    "stop_use": "and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  },
+  "POLYMYXIN B": {
+    "ingredient": "POLYMYXIN B",
+    "usanQuery": "polymyxin b",
+    "labelCount": 274,
+    "singleIngredient": false,
+    "labelSubstances": [
+      "BACITRACIN ZINC",
+      "NEOMYCIN SULFATE",
+      "POLYMYXIN B SULFATE"
+    ],
+    "purpose": "first aid antibiotic",
+    "indications_and_usage": "First aid to help prevent infection in minor cuts, scrapes and burns",
+    "warnings": "For external use only.",
+    "do_not_use": "in eyes over large areas of the body if you are allergic to any of the ingredients longer than 1 week unless directed by a doctor",
+    "ask_doctor": "Ask a doctor before use if you have deep or puncture wounds animal bites serious burns",
+    "stop_use": "and ask a doctor if if the condition persists or gets worse a rash or other allergic reaction develops.",
+    "keep_out_of_reach_of_children": "If swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "POLYSORBATE 80": {
+    "ingredient": "POLYSORBATE 80",
+    "usanQuery": "polysorbate 80",
+    "labelCount": 9,
+    "singleIngredient": false,
+    "labelSubstances": [
+      "CARBOXYMETHYLCELLULOSE SODIUM",
+      "GLYCERIN",
+      "POLYSORBATE 80"
+    ],
+    "purpose": "Lubricant",
+    "indications_and_usage": "For the temporary relief of discomfort due to minor irritations of the eye or to exposure to wind or sun For use as a protectant against further irritation",
+    "warnings": "For external use only Do not use if solution changes color When using this product • Do not touch tip of the container to any surface to avoid contamination • Replace cap after each use Stop use and ask a doctor if • If you feel eye pain • Changes in vision occur • Redness or irritation of the eye lasts • Condition worsens or lasts more than 72 hours Keep out of reach of children • If swallowed, get medical help or contact a Poison Control Center right away"
+  },
+  "POLYVINYL ALCOHOL": {
+    "ingredient": "POLYVINYL ALCOHOL",
+    "usanQuery": "polyvinyl alcohol",
+    "labelCount": 35,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "POLYVINYL ALCOHOL, UNSPECIFIED"
+    ],
+    "purpose": "Lubricant",
+    "indications_and_usage": "for use as a protectant against further irritation or to relieve dryness of the eye for the temporary relief of discomfort due to minor irritations of the eye, or to exposure to wind or sun",
+    "warnings": "For external use only Do not use this product if solution changes color or becomes cloudy When using this product remove contact lenses before using to avoid contamination, do not touch tip of container to any surface replace cap after using. Keep container tightly closed. Stop use and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye or if the condition worsens or persists for more than 72 hours Keep out of the reach of children. If accidentally swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) immediately.",
+    "do_not_use": "this product if solution changes color or becomes cloudy",
+    "when_using": "this product remove contact lenses before using to avoid contamination, do not touch tip of container to any surface replace cap after using. Keep container tightly closed.",
+    "stop_use": "and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye or if the condition worsens or persists for more than 72 hours",
+    "keep_out_of_reach_of_children": "Keep out of the reach of children. If accidentally swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) immediately."
+  },
+  "POVIDONE": {
+    "ingredient": "POVIDONE",
+    "usanQuery": "povidone",
+    "labelCount": 301,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "POVIDONE-IODINE"
+    ],
+    "purpose": "First aid Antiseptic",
+    "indications_and_usage": "First aid to help prevent infection in minor cuts scrapes burns",
+    "warnings": "For external use only",
+    "do_not_use": "in the eyes over large areas of the body If you are allergic to povidone-iodine or any other ingredients in this preparation",
+    "ask_doctor": "Ask a doctor before use if you have deep or puncture wounds serious burns animal bites",
+    "stop_use": "and ask a doctor if the condition persists or gets worse you need to use this product for more than 1 week",
+    "keep_out_of_reach_of_children": "If swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "PRAMOXINE": {
+    "ingredient": "PRAMOXINE",
+    "usanQuery": "pramoxine",
+    "labelCount": 226,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "PRAMOXINE HYDROCHLORIDE"
+    ],
+    "purpose": "Pain and itch relief spray for scalp irritation caused by lice bites and lice treatments.",
+    "indications_and_usage": "for the temporary relief of itching associated with insect bites minor skin irritations",
+    "warnings": "For external use only",
+    "when_using": "this product avoid contact with eyes",
+    "stop_use": "and ask a doctor if condition worstens symptoms last more than 7 days or clear up and occur again within a few days",
+    "keep_out_of_reach_of_children": "If swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "PROMETHAZINE": {
+    "ingredient": "PROMETHAZINE",
+    "usanQuery": "promethazine",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "PROPYLENE GLYCOL": {
+    "ingredient": "PROPYLENE GLYCOL",
+    "usanQuery": "propylene glycol",
+    "labelCount": 88,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "PROPYLENE GLYCOL"
+    ],
+    "purpose": "Active Ingredients Purpose Propylene Glycol 0.6% Lubricant",
+    "indications_and_usage": "for the temporary relief of burning and irritation due to dryness of the eye for the temporary relief of discomfort due to minor irritations of the eye or to exposure to wind or sun for use as a protectant against further irritation or to relieve dryness of the eye for use as a lubricant to prevent further irritation or to relieve dryness of the eye",
+    "warnings": "For external use only",
+    "do_not_use": "if this product changes color if you are sensitive to any ingredient in this product",
+    "when_using": "this product do not touch tip of container to any surface to avoid contamination replace cap after each use",
+    "stop_use": "and ask a doctor if you experience any of the following: eye pain changes in vision continued redness or irritation of the eye condition worsens or persists for more than 72 hours",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "PSEUDOEPHEDRINE": {
+    "ingredient": "PSEUDOEPHEDRINE",
+    "usanQuery": "pseudoephedrine",
+    "labelCount": 327,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "PSEUDOEPHEDRINE HYDROCHLORIDE"
+    ],
+    "purpose": "Nasal decongestant",
+    "indications_and_usage": "temporarily relieves nasal congestion due to the common cold, hay fever or other upper respiratory allergies temporarily relieves sinus congestion and pressure",
+    "warnings": "Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland When using this product do not exceed recommended dosage Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur symptoms do not improve within 7 days or occur with a fever If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)",
+    "do_not_use": "if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.",
+    "ask_doctor": "Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland",
+    "when_using": "this product do not exceed recommended dosage",
+    "stop_use": "and ask a doctor if nervousness, dizziness, or sleeplessness occur symptoms do not improve within 7 days or occur with a fever",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+  },
+  "PYRILAMINE": {
+    "ingredient": "PYRILAMINE",
+    "usanQuery": "pyrilamine",
+    "labelCount": 84,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "PYRILAMINE MALEATE"
+    ],
+    "purpose": "Antihistamine",
+    "indications_and_usage": "■ temporarily relieves runny nose and alleviates sneezing, itching of the nose or throat, and itchy, watery eyes due to hay fever or other upper respiratory allergies.",
+    "warnings": "Ask a doctor before use if the child has ■ a breathing problem such as emphysema or chronic bronchitis ■ glaucoma Ask a doctor before use if the child is taking sedatives or tranquilizers When using this product ■ marked drowsiness may occur ■ sedatives and tranquilizers may increase drowsiness ■ excitability may occur, especially in children Stop use and ask a doctor if new symptoms occur Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.",
+    "ask_doctor": "Ask a doctor before use if the child has ■ a breathing problem such as emphysema or chronic bronchitis ■ glaucoma",
+    "when_using": "this product ■ marked drowsiness may occur ■ sedatives and tranquilizers may increase drowsiness ■ excitability may occur, especially in children",
+    "stop_use": "and ask a doctor if new symptoms occur",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away."
+  },
+  "PYRITHIONE ZINC": {
+    "ingredient": "PYRITHIONE ZINC",
+    "usanQuery": "pyrithione zinc",
+    "labelCount": 318,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "PYRITHIONE ZINC"
+    ],
+    "purpose": "Anti-dandruff",
+    "indications_and_usage": "fights recurrence of the symptoms of dandruff.",
+    "warnings": "For external use only. When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed. Keep this and all drugs out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+    "when_using": "this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water.",
+    "stop_use": "and ask a doctor if condition worsens or does not improve after regular use of this product as directed.",
+    "keep_out_of_reach_of_children": "Keep this and all drugs out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "RANITIDINE": {
+    "ingredient": "RANITIDINE",
+    "usanQuery": "ranitidine",
+    "labelCount": 4,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "RANITIDINE HYDROCHLORIDE"
+    ],
+    "purpose": "Acid reducer",
+    "indications_and_usage": "(s) relieves heartburn associated with acid indigestion and sour stomach prevents heartburn associated with acid indigestion and sour stomach brought on by eating or drinking certain foods and beverages",
+    "warnings": "Allergy alert: Do not use if you are allergic to ranitidine or other acid reducers Do not use if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools.These may be signs of a serious condition. See your doctor. with other acid reducers Ask a doctor before use if you have had heartburn over 3 months. This may be a sign of a more serious condition. heartburn with lightheadedness, sweating or dizziness chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness frequent chest pain frequent wheezing, particularly with heartburn unexplained weight loss nausea or vomiting stomach pain kidney disease Ask a doctor or pharmacist before use if you are • taking a prescription drug. Acid reducers may interact with certain prescription drugs. Stop use and ask doctor if your heartburn continues or worsens you need to take this product for more than 14 days If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).",
+    "do_not_use": "if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools.These may be signs of a serious condition. See your doctor. with other acid reducers",
+    "ask_doctor": "Ask a doctor before use if you have had heartburn over 3 months. This may be a sign of a more serious condition. heartburn with lightheadedness, sweating or dizziness chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness frequent chest pain frequent wheezing, particularly with heartburn unexplained weight loss nausea or vomiting stomach pain kidney disease",
+    "stop_use": "and ask doctor if your heartburn continues or worsens you need to take this product for more than 14 days",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  },
+  "SALICYLIC ACID": {
+    "ingredient": "SALICYLIC ACID",
+    "usanQuery": "salicylic acid",
+    "labelCount": 1225,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "SALICYLIC ACID"
+    ],
+    "purpose": "Acne medication",
+    "indications_and_usage": "for the treatment of acne",
+    "warnings": "For external use only",
+    "when_using": "this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time.",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "SENNOSIDES": {
+    "ingredient": "SENNOSIDES",
+    "usanQuery": "sennosides",
+    "labelCount": 242,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "SENNOSIDES"
+    ],
+    "purpose": "Laxative",
+    "indications_and_usage": "relieves occasional constipation (irregularity) generally causes bowel movement in 6 to 12 hours",
+    "warnings": "Do not use laxative products for longer than 1 week unless directed by a doctor. Ask a doctor or pharmacis before use if you have stomach pain, nausea or vomiting noticed a change in bowel habits that lasts over two weeks. Stop use and ask a doctor if you have rectal bleeding or failure to have a bowel movement after use of a laxative. These may indicate a serious condition.",
+    "keep_out_of_reach_of_children": ". In case of accidental overdose, get medical help or contact a Poison Control Center immediately."
+  },
+  "SIMETHICONE": {
+    "ingredient": "SIMETHICONE",
+    "usanQuery": "simethicone",
+    "labelCount": 377,
+    "singleIngredient": false,
+    "labelSubstances": [
+      "DIMETHICONE"
+    ],
+    "purpose": "Antigas",
+    "indications_and_usage": "For the relief of pressure and bloating commonly referred to as gas",
+    "warnings": "If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children.",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": "."
+  },
+  "TETRAHYDROZOLINE": {
+    "ingredient": "TETRAHYDROZOLINE",
+    "usanQuery": "tetrahydrozoline",
+    "labelCount": 90,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "TETRAHYDROZOLINE HYDROCHLORIDE"
+    ],
+    "purpose": "Redness reliever",
+    "indications_and_usage": "relieves redness of the eye due to minor eye irritations",
+    "warnings": "For external use only Ask a doctor before use if you have narrow angle glaucoma When using this product pupils may become enlarged temporarily to avoid contamination, do not touch tip of container to any surface. Replace cap after using. if solution changes color or becomes cloudy, do not use overuse may produce increased redness of the eye remove contact lenses before using Stop use and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.",
+    "ask_doctor": "Ask a doctor before use if you have narrow angle glaucoma",
+    "when_using": "this product pupils may become enlarged temporarily to avoid contamination, do not touch tip of container to any surface. Replace cap after using. if solution changes color or becomes cloudy, do not use overuse may produce increased redness of the eye remove contact lenses before using",
+    "stop_use": "and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away."
+  },
+  "TOLNAFTATE": {
+    "ingredient": "TOLNAFTATE",
+    "usanQuery": "tolnaftate",
+    "labelCount": 286,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "TOLNAFTATE"
+    ],
+    "purpose": "Antifungal",
+    "indications_and_usage": "For effective treatment of most athlete's foot and ringworm. Relieves itching, scaling, cracking, burning, redness, soreness, irritation, and discomfort. Helps prevent most athlete's foot (dermatophytosis) with daily use.",
+    "warnings": "For external use only. Do not use on children under 2 years of age unless directed by a doctor. When using this product avoid contact with eyes. Stop use and ask a doctor if: irritation occurs, there is no improvement within 4 weeks (for athlete's foot and ringworm).",
+    "keep_out_of_reach_of_children": "If swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "TRIAMCINOLONE ACETONIDE": {
+    "ingredient": "TRIAMCINOLONE ACETONIDE",
+    "usanQuery": "triamcinolone acetonide",
+    "labelCount": 30,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "TRIAMCINOLONE ACETONIDE"
+    ],
+    "purpose": "Allergy symptom reliever",
+    "indications_and_usage": "temporarily relieves these symptoms of hay fever or other upper respiratory allergies: • nasal congestion • runny nose • sneezing • itchy nose",
+    "warnings": "Do not use • in children under 2 years of age • if you have ever had an allergic reaction to any of the ingredients Ask a doctor before use if you • have had recent nose ulcers or nose surgery • have had a nose injury that has not healed • are using a steroid medicine for asthma, allergies or skin rash • have an eye infection • have or had glaucoma or cataracts When using this product • the growth rate of some children may be slower • some symptoms may get better on the first day of treatment. It may take up to one week of daily use to feel the most symptom relief. • do not share this bottle with anyone else as this may spread germs • remember to tell your doctor about all the medicines you take, including this one Stop use and ask a doctor if • you have, or come into contact with someone who has, chickenpox, measles or tuberculosis • you have or develop symptoms of an infection such as a persistent fever • you have any change in vision • you have severe or frequent nosebleeds If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).",
+    "do_not_use": "• in children under 2 years of age • if you have ever had an allergic reaction to any of the ingredients",
+    "ask_doctor": "Ask a doctor before use if you • have had recent nose ulcers or nose surgery • have had a nose injury that has not healed • are using a steroid medicine for asthma, allergies or skin rash • have an eye infection • have or had glaucoma or cataracts",
+    "when_using": "this product • the growth rate of some children may be slower • some symptoms may get better on the first day of treatment. It may take up to one week of daily use to feel the most symptom relief. • do not share this bottle with anyone else as this may spread germs • remember to tell your doctor about all the medicines you take, including this one",
+    "stop_use": "and ask a doctor if • you have, or come into contact with someone who has, chickenpox, measles or tuberculosis • you have or develop symptoms of an infection such as a persistent fever • you have any change in vision • you have severe or frequent nosebleeds",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding, ask a health professional before use.",
+    "keep_out_of_reach_of_children": ". In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222)."
+  },
+  "TROLAMINE SALICYLATE": {
+    "ingredient": "TROLAMINE SALICYLATE",
+    "usanQuery": "trolamine salicylate",
+    "labelCount": 23,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "TROLAMINE SALICYLATE"
+    ],
+    "purpose": "Use Temporarily relieves minor aches and pains of muscles and joints associated with arthritis, simple backache, lumbago, neuralgia, strains, bruises, and sprains.",
+    "indications_and_usage": "For temporarily relief of minor aches and pains of muscles and joints associated with arthritis, simple backache, lumbago, neuralgia, strains, bruises, and sprains",
+    "warnings": "For external use only. Use only as directed",
+    "do_not_use": "on or near the eyes on broken, damaged, or irritated skin",
+    "ask_doctor": "Stop use and ask a doctor if condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days.",
+    "pregnancy_or_breast_feeding": "If pregnant or breast-feeding , ask a health professional before use.",
+    "keep_out_of_reach_of_children": "Keep this and all drugs out of reach of children. In case of ingestion, get medical help or contact a poison control center immediately."
+  },
+  "WHITE PETROLATUM": {
+    "ingredient": "WHITE PETROLATUM",
+    "usanQuery": "white petrolatum",
+    "labelCount": 190,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "WHITE PETROLATUM"
+    ],
+    "purpose": "Skin protectant",
+    "indications_and_usage": "temporarily protects minor cuts, scrapes and burns helps prevent and temporarily protects and helps relieve chapped or cracked skin helps treat and prevent diaper rash. Protects minor skin irritation associated with diaper rash and helps seal out wetness",
+    "warnings": "For external use only Do not use on deep or puncture wounds animal bites serious burns When using this product do not get into eyes Stop use and ask a doctor if condition worsens symptoms last for more than 7 days or clear up and occur again within a few days Keep out of reach of children. In case of accidental ingestion, get medical help or contact a Poison Control Center right away.",
+    "do_not_use": "on deep or puncture wounds animal bites serious burns",
+    "when_using": "this product do not get into eyes",
+    "stop_use": "and ask a doctor if condition worsens symptoms last for more than 7 days or clear up and occur again within a few days",
+    "keep_out_of_reach_of_children": ". In case of accidental ingestion, get medical help or contact a Poison Control Center right away."
+  },
+  "XYLOMETAZOLINE": {
+    "ingredient": "XYLOMETAZOLINE",
+    "usanQuery": "xylometazoline",
+    "labelCount": 1,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "XYLOMETAZOLINE HYDROCHLORIDE"
+    ],
+    "purpose": "■ relieve your cold symptoms cold Rhinitis",
+    "indications_and_usage": "Adults and children 7 years and older: Spray into the nose 3 times a day",
+    "warnings": "■ When using this product Stop use and ask a doctor if nervousness, diziness, or sleepness occur. Pain, nasal congestion or cough gets worse or lasts more than 7 days. fever gets worse or lasts more than 3 days New symtoms occur. keep out of reach of children. In case of overdose, get medical help or contact a poison contral center right away. If pregnant or breast-feeding, ask a health professional before use."
+  },
+  "ZINC": {
+    "ingredient": "ZINC",
+    "usanQuery": "zinc",
+    "labelCount": 4748,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "ZINC OXIDE"
+    ],
+    "purpose": "Skin protectant - Diaper rash treatment",
+    "indications_and_usage": "Helps prevent diaper rash. Protects chafed irritated skin due to diaper rash. Helps protect from wetness that causes diaper rash. Temporarily protects and helps relieve minor skin irritation due to diaper rash. Helps treat/heal diaper rash.",
+    "warnings": "Allergens: almond For external use only. When using this product avoid contact with eyes. If contact occurs, rinse thoroughly with water. Stop use and consult a doctor if symptoms worsen or last for more than 7 days. Keep out of reach of children. If swallowed, call a poison control centre or get edical help right away.",
+    "when_using": "this product avoid contact with eyes. If contact occurs, rinse thoroughly with water.",
+    "stop_use": "and consult a doctor if symptoms worsen or last for more than 7 days.",
+    "keep_out_of_reach_of_children": ". If swallowed, call a poison control centre or get edical help right away."
+  },
+  "ALCOHOL": {
+    "ingredient": "ALCOHOL",
+    "usanQuery": "alcohol",
+    "labelCount": 3422,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "purpose": "First aid antiseptic",
+    "indications_and_usage": "first aid to help prevent the risk of infection in: minor cuts scrapes burns",
+    "warnings": "For external use only Flammable Keep away from fire or flame, heat, spark, electrical Do not use as a fuel source",
+    "ask_doctor": "Ask a doctor before use for deep or puncture wounds, animal bites or serious burns",
+    "when_using": "this product do not get into eyes do not inhale do not apply over large areas of the body do not use longer than 1 week use only as directed",
+    "stop_use": "and ask a doctor if condition persists or gets worse",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "BENZALKONIUM CHLORIDE": {
+    "ingredient": "BENZALKONIUM CHLORIDE",
+    "usanQuery": "benzalkonium chloride",
+    "labelCount": 994,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "BENZALKONIUM CHLORIDE"
+    ],
+    "purpose": "Antibacterial",
+    "indications_and_usage": "For handwashing to decrease bacteria on the skin",
+    "warnings": "For external use only: hands only",
+    "when_using": "this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water.",
+    "stop_use": "and ask a doctor if irritation and redness develop condition persists for more than 72 hours",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "BENZETHONIUM CHLORIDE": {
+    "ingredient": "BENZETHONIUM CHLORIDE",
+    "usanQuery": "benzethonium chloride",
+    "labelCount": 100,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "BENZETHONIUM CHLORIDE"
+    ],
+    "purpose": "First aid Antiseptic",
+    "indications_and_usage": "First aid to help prevent the risk of bacterial contamination in minor cuts, scrapes and burns.",
+    "warnings": "For external use only Do not use in the eyes or apply over large areas of the body longer than 1 week, unless directed by a doctor for single patient use only Ask a doctor before use if you have deep or punture wounds, animal bites or serious burns When using this product do not puncture or incinerate contents under pressure Stop use and consult a doctor if condition persists or gets worse Keep out of reach of children",
+    "do_not_use": "in the eyes or apply over large areas of the body longer than 1 week, unless directed by a doctor for single patient use only",
+    "ask_doctor": "Ask a doctor before use if you have deep or punture wounds, animal bites or serious burns",
+    "when_using": "this product do not puncture or incinerate contents under pressure",
+    "stop_use": "and consult a doctor if condition persists or gets worse"
+  },
+  "BENZYL ALCOHOL": {
+    "ingredient": "BENZYL ALCOHOL",
+    "usanQuery": "benzyl alcohol",
+    "labelCount": 22,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "BENZYL ALCOHOL"
+    ],
+    "purpose": "Cold sore/fever blister treatment, Oral pain reliever",
+    "indications_and_usage": "temporarily relieves pain caused by: cold sores/fever blisters canker sores, mouth sores gum irritations",
+    "warnings": "Flammable: keep away from fire or flame Stop use and ask a physician if sore mouth symptoms do not improve in 7 days condition worsens or symptoms clear up and occur again within a few days swelling, rash or fever develops irritation, pain or redness persists or worsens apply only to affected area do not exceed recommended dosage avoid contact with the eyes do not use for more than 7 days unless directed by a physician or dentist Keep out of reach of children . If swallowed, get medical help or contact a poison control center immediately.",
+    "stop_use": "and ask a physician if sore mouth symptoms do not improve in 7 days condition worsens or symptoms clear up and occur again within a few days swelling, rash or fever develops irritation, pain or redness persists or worsens apply only to affected area do not exceed recommended dosage avoid contact with the eyes do not use for more than 7 days unless directed by a physician or dentist",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a poison control center immediately."
+  },
+  "CALAMINE": {
+    "ingredient": "CALAMINE",
+    "usanQuery": "calamine",
+    "labelCount": 66,
+    "singleIngredient": false,
+    "labelSubstances": [
+      "FERRIC OXIDE RED",
+      "PRAMOXINE HYDROCHLORIDE",
+      "ZINC OXIDE"
+    ],
+    "purpose": "Skin protectant External analgesic",
+    "indications_and_usage": "temporarily relieves pain and itching associated with: insect bites rashes minor skin irritations minor cuts dries the oozing and weeping of poison ivy, poison oak and poison sumac",
+    "warnings": "For external use only. Flammable: Do not use while smoking or near heat or flame. Do not puncture or incinerate. Contents under pressure. Do not store at temperatures above 120°F. Intentional misuse by deliberately concentrating and inhaling contents can be harmful or fatal. When using this product do not get into eyes ask a doctor before using on children under 2 years of age Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again in a few days Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+    "when_using": "this product do not get into eyes ask a doctor before using on children under 2 years of age",
+    "keep_out_of_reach_of_children": "Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "CETRIMONIUM BROMIDE": {
+    "ingredient": "CETRIMONIUM BROMIDE",
+    "usanQuery": "cetrimonium bromide",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "CHLORHEXIDINE GLUCONATE": {
+    "ingredient": "CHLORHEXIDINE GLUCONATE",
+    "usanQuery": "chlorhexidine gluconate",
+    "labelCount": 105,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "CHLORHEXIDINE GLUCONATE"
+    ],
+    "purpose": "Antiseptic",
+    "indications_and_usage": "healthcare personnel handwash: helps reduce bacteria that potentially can cause disease",
+    "warnings": "For external use only Allergy alert: This product may cause a severe allergic reaction. Symptoms may include: wheezing/difficulty breathing shock facial swelling hives rash If an allergic reaction occurs, stop use and seek medical help right away. Do not use if you are allergic to chlorhexidine gluconate or any other ingredient in this product When using this product keep out of eyes, ears, and mouth. May cause serious and permanent eye injury if permitted to enter and remain in the eye or may cause deafness when instilled in the middle ear through perforated eardrums. if solution should contact these areas, rinse out promptly and thoroughly with water do not use routinely if you have wounds which involve more than the superficial layers of the skin Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+    "do_not_use": "if you are allergic to chlorhexidine gluconate or any other ingredient in this product",
+    "when_using": "this product keep out of eyes, ears, and mouth. May cause serious and permanent eye injury if permitted to enter and remain in the eye or may cause deafness when instilled in the middle ear through perforated eardrums. if solution should contact these areas, rinse out promptly and thoroughly with water do not use routinely if you have wounds which involve more than the superficial layers of the skin",
+    "stop_use": "and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition.",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "CHLOROXYLENOL": {
+    "ingredient": "CHLOROXYLENOL",
+    "usanQuery": "chloroxylenol",
+    "labelCount": 213,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "CHLOROXYLENOL"
+    ],
+    "purpose": "Drug Facts Box OTC-Purpose Section Antiseptic",
+    "indications_and_usage": "Drug Facts Box OTC-Indications & Usage Section for hand-washing to decrease bacteria on the skin",
+    "warnings": "Drug Facts Box OTC-Warnings Section For external use only",
+    "when_using": "Drug Facts Box OTC-When Using Section do not get into eyes if contact occurs, rinse eyes thoroughly with water",
+    "stop_use": "Drug Facts Box OTC-Stop Use Section irritation and redness develop",
+    "keep_out_of_reach_of_children": "Drug Facts Box OTC-Keep Out of Reach of Children Section if swallowed, get medical help or contact a Poison Control Center right away"
+  },
+  "EPINEPHRINE": {
+    "ingredient": "EPINEPHRINE",
+    "usanQuery": "epinephrine",
+    "labelCount": 19,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "EPINEPHRINE HYDROCHLORIDE"
+    ],
+    "purpose": "Purpose",
+    "indications_and_usage": "Uses",
+    "warnings": "Warnings",
+    "stop_use": "Do not use Do not use",
+    "keep_out_of_reach_of_children": "Keep out of reach if children Keep out of reach if children"
+  },
+  "FLUCONAZOLE": {
+    "ingredient": "FLUCONAZOLE",
+    "usanQuery": "fluconazole",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "ISOPROPYL ALCOHOL": {
+    "ingredient": "ISOPROPYL ALCOHOL",
+    "usanQuery": "isopropyl alcohol",
+    "labelCount": 616,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "ISOPROPYL ALCOHOL"
+    ],
+    "purpose": "First aid antiseptic",
+    "indications_and_usage": "first aid to help prevent the risk of infection in: minor cuts scrapes burns",
+    "warnings": "For external use only Flammable Keep away from fire or flame, heat, spark, electrical Do not use as a fuel source",
+    "ask_doctor": "Ask a doctor before use for deep or puncture wounds, animal bites or serious burns",
+    "when_using": "this product do not get into eyes do not inhale do not apply over large areas of the body do not use longer than 1 week use only as directed",
+    "stop_use": "and ask a doctor if condition persists or gets worse",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center right away."
+  },
+  "METHOCARBAMOL": {
+    "ingredient": "METHOCARBAMOL",
+    "usanQuery": "methocarbamol",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "ORPHENADRINE": {
+    "ingredient": "ORPHENADRINE",
+    "usanQuery": "orphenadrine",
+    "labelCount": 0,
+    "singleIngredient": false
+  },
+  "TRICLOSAN": {
+    "ingredient": "TRICLOSAN",
+    "usanQuery": "triclosan",
+    "labelCount": 11,
+    "singleIngredient": true,
+    "labelSubstances": [
+      "TRICLOSAN"
+    ],
+    "purpose": "Antiseptic handwash",
+    "indications_and_usage": "for handwashing to decrease bacteria on the skin",
+    "warnings": "For external use only Do not use in eyes When using this product if in eyes, rinse promptly and thoroughly with water discontinue use if irritation and redness develop Stop use and ask a doctor if skin irritation or redness occurs for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.",
+    "do_not_use": "in eyes",
+    "ask_doctor": "Stop use and ask a doctor if skin irritation or redness occurs for more than 72 hours",
+    "when_using": "this product if in eyes, rinse promptly and thoroughly with water discontinue use if irritation and redness develop",
+    "keep_out_of_reach_of_children": ". If swallowed, get medical help or contact a Poison Control Center right away."
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "edition": {
+    "edition": 43,
+    "createDate": "2026-08-26",
+    "url": "https://www.ontario.ca/files/2026-08/moh-ontario-drug-benefit-odb-formulary-edition-43-data-extract-en-2026-08-27.xml",
+    "licence": "Open Government Licence – Ontario 1.0"
+  },
+  "citable": [
+    {
+      "ingredient": "FLUCONAZOLE",
+      "strength": "150mg",
+      "dosageForm": "Cap",
+      "brandName": "Diflucan-150",
+      "brandPricePerUnit": 15.65,
+      "genericName": "Apo-Fluconazole-150",
+      "genericPricePerUnit": 3.9424,
+      "ratioPct": 25.2,
+      "brandSideIsBranded": true
+    },
+    {
+      "ingredient": "BISACODYL",
+      "strength": "10mg",
+      "dosageForm": "Sup",
+      "brandName": "Dulcolax",
+      "brandPricePerUnit": 1.2267,
+      "genericName": "Bisacodyl Suppository",
+      "genericPricePerUnit": 0.4206,
+      "ratioPct": 34.3,
+      "brandSideIsBranded": true
+    },
+    {
+      "ingredient": "CLOTRIMAZOLE",
+      "strength": "20mg/g",
+      "dosageForm": "Vag Cr-App",
+      "brandName": "Canesten 3 Cream",
+      "brandPricePerUnit": 0.4424,
+      "genericName": "Clotrimaderm Vaginal Cream",
+      "genericPricePerUnit": 0.3624,
+      "ratioPct": 81.9,
+      "brandSideIsBranded": true
+    },
+    {
+      "ingredient": "ACETAMINOPHEN",
+      "strength": "500mg",
+      "dosageForm": "",
+      "brandName": "Novo-Gesic Forte Tab",
+      "brandPricePerUnit": 0.0149,
+      "genericName": "Apo-Acetaminophen Tab",
+      "genericPricePerUnit": 0.0149,
+      "ratioPct": 100,
+      "brandSideIsBranded": true
+    },
+    {
+      "ingredient": "DOCUSATE",
+      "strength": "100mg",
+      "dosageForm": "Cap",
+      "brandName": "Soflax",
+      "brandPricePerUnit": 0.0328,
+      "genericName": "Docusate Sodium",
+      "genericPricePerUnit": 0.0328,
+      "ratioPct": 100,
+      "brandSideIsBranded": true
+    }
+  ],
+  "generatedFrom": [
+    {
+      "ingredient": "FLUCONAZOLE",
+      "strength": "150mg",
+      "dosageForm": "Cap",
+      "brandName": "Diflucan-150",
+      "brandPricePerUnit": 15.65,
+      "genericName": "Apo-Fluconazole-150",
+      "genericPricePerUnit": 3.9424,
+      "ratioPct": 25.2,
+      "brandSideIsBranded": true
+    },
+    {
+      "ingredient": "BISACODYL",
+      "strength": "10mg",
+      "dosageForm": "Sup",
+      "brandName": "Dulcolax",
+      "brandPricePerUnit": 1.2267,
+      "genericName": "Bisacodyl Suppository",
+      "genericPricePerUnit": 0.4206,
+      "ratioPct": 34.3,
+      "brandSideIsBranded": true
+    },
+    {
+      "ingredient": "CLOTRIMAZOLE",
+      "strength": "20mg/g",
+      "dosageForm": "Vag Cr-App",
+      "brandName": "Canesten 3 Cream",
+      "brandPricePerUnit": 0.4424,
+      "genericName": "Clotrimaderm Vaginal Cream",
+      "genericPricePerUnit": 0.3624,
+      "ratioPct": 81.9,
+      "brandSideIsBranded": true
+    },
+    {
+      "ingredient": "CETIRIZINE",
+      "strength": "10mg",
+      "dosageForm": "Tab",
+      "brandName": "Apo-Cetirizine",
+      "brandPricePerUnit": 0.4083,
+      "genericName": "Extra Strength Allergy Relief",
+      "genericPricePerUnit": 0.3938,
+      "ratioPct": 96.4,
+      "brandSideIsBranded": false
+    },
+    {
+      "ingredient": "IBUPROFEN",
+      "strength": "200mg",
+      "dosageForm": "Tab",
+      "brandName": "Apo-Ibuprofen",
+      "brandPricePerUnit": 0.0309,
+      "genericName": "Ibuprofen",
+      "genericPricePerUnit": 0.0309,
+      "ratioPct": 100,
+      "brandSideIsBranded": false
+    },
+    {
+      "ingredient": "ACETAMINOPHEN",
+      "strength": "500mg",
+      "dosageForm": "",
+      "brandName": "Novo-Gesic Forte Tab",
+      "brandPricePerUnit": 0.0149,
+      "genericName": "Apo-Acetaminophen Tab",
+      "genericPricePerUnit": 0.0149,
+      "ratioPct": 100,
+      "brandSideIsBranded": true
+    },
+    {
+      "ingredient": "LOPERAMIDE",
+      "strength": "2mg",
+      "dosageForm": "Caplet",
+      "brandName": "Teva-Loperamide",
+      "brandPricePerUnit": 0.0952,
+      "genericName": "Apo-Loperamide",
+      "genericPricePerUnit": 0.0952,
+      "ratioPct": 100,
+      "brandSideIsBranded": false
+    },
+    {
+      "ingredient": "DOCUSATE",
+      "strength": "100mg",
+      "dosageForm": "Cap",
+      "brandName": "Soflax",
+      "brandPricePerUnit": 0.0328,
+      "genericName": "Docusate Sodium",
+      "genericPricePerUnit": 0.0328,
+      "ratioPct": 100,
+      "brandSideIsBranded": true
+    },
+    {
+      "ingredient": "LACTULOSE",
+      "strength": "667mg/mL",
+      "dosageForm": "O/L",
+      "brandName": "Ratio-Lactulose",
+      "brandPricePerUnit": 0.0145,
+      "genericName": "Apo-Lactulose Solution",
+      "genericPricePerUnit": 0.0145,
+      "ratioPct": 100,
+      "brandSideIsBranded": false
+    }
+  ],
+  "all": [
+    {
+      "ingredient": "CETIRIZINE",
+      "strength": "10mg",
+      "dosageForm": "Tab",
+      "brandName": "Apo-Cetirizine",
+      "brandPricePerUnit": 0.4083,
+      "genericName": "Extra Strength Allergy Relief",
+      "genericPricePerUnit": 0.3938,
+      "ratioPct": 96.4,
+      "brandSideIsBranded": false
+    },
+    {
+      "ingredient": "IBUPROFEN",
+      "strength": "200mg",
+      "dosageForm": "Tab",
+      "brandName": "Apo-Ibuprofen",
+      "brandPricePerUnit": 0.0309,
+      "genericName": "Ibuprofen",
+      "genericPricePerUnit": 0.0309,
+      "ratioPct": 100,
+      "brandSideIsBranded": false
+    },
+    {
+      "ingredient": "IBUPROFEN",
+      "strength": "400mg",
+      "dosageForm": "Tab",
+      "brandName": "Motrin",
+      "brandPricePerUnit": 0.1871,
+      "genericName": "Apo-Ibuprofen",
+      "genericPricePerUnit": 0.0468,
+      "ratioPct": 25,
+      "brandSideIsBranded": false
+    },
+    {
+      "ingredient": "ACETAMINOPHEN",
+      "strength": "325mg",
+      "dosageForm": "",
+      "brandName": "Novo-Gesic Tab",
+      "brandPricePerUnit": 0.0114,
+      "genericName": "Apo-Acetaminophen Tab",
+      "genericPricePerUnit": 0.0114,
+      "ratioPct": 100,
+      "brandSideIsBranded": true
+    },
+    {
+      "ingredient": "ACETAMINOPHEN",
+      "strength": "500mg",
+      "dosageForm": "",
+      "brandName": "Novo-Gesic Forte Tab",
+      "brandPricePerUnit": 0.0149,
+      "genericName": "Apo-Acetaminophen Tab",
+      "genericPricePerUnit": 0.0149,
+      "ratioPct": 100,
+      "brandSideIsBranded": true
+    },
+    {
+      "ingredient": "LOPERAMIDE",
+      "strength": "2mg",
+      "dosageForm": "Caplet",
+      "brandName": "Teva-Loperamide",
+      "brandPricePerUnit": 0.0952,
+      "genericName": "Apo-Loperamide",
+      "genericPricePerUnit": 0.0952,
+      "ratioPct": 100,
+      "brandSideIsBranded": false
+    },
+    {
+      "ingredient": "BISACODYL",
+      "strength": "10mg",
+      "dosageForm": "Sup",
+      "brandName": "Dulcolax",
+      "brandPricePerUnit": 1.2267,
+      "genericName": "Bisacodyl Suppository",
+      "genericPricePerUnit": 0.4206,
+      "ratioPct": 34.3,
+      "brandSideIsBranded": true
+    },
+    {
+      "ingredient": "DOCUSATE",
+      "strength": "100mg",
+      "dosageForm": "Cap",
+      "brandName": "Soflax",
+      "brandPricePerUnit": 0.0328,
+      "genericName": "Docusate Sodium",
+      "genericPricePerUnit": 0.0328,
+      "ratioPct": 100,
+      "brandSideIsBranded": true
+    },
+    {
+      "ingredient": "LACTULOSE",
+      "strength": "667mg/mL",
+      "dosageForm": "O/L",
+      "brandName": "Ratio-Lactulose",
+      "brandPricePerUnit": 0.0145,
+      "genericName": "Apo-Lactulose Solution",
+      "genericPricePerUnit": 0.0145,
+      "ratioPct": 100,
+      "brandSideIsBranded": false
+    },
+    {
+      "ingredient": "CLOTRIMAZOLE",
+      "strength": "10mg/g",
+      "dosageForm": "Vag Cr-App",
+      "brandName": "Canesten 6 Cream",
+      "brandPricePerUnit": 0.2212,
+      "genericName": "Clotrimaderm Vaginal Cream",
+      "genericPricePerUnit": 0.1812,
+      "ratioPct": 81.9,
+      "brandSideIsBranded": true
+    },
+    {
+      "ingredient": "CLOTRIMAZOLE",
+      "strength": "20mg/g",
+      "dosageForm": "Vag Cr-App",
+      "brandName": "Canesten 3 Cream",
+      "brandPricePerUnit": 0.4424,
+      "genericName": "Clotrimaderm Vaginal Cream",
+      "genericPricePerUnit": 0.3624,
+      "ratioPct": 81.9,
+      "brandSideIsBranded": true
+    },
+    {
+      "ingredient": "FLUCONAZOLE",
+      "strength": "150mg",
+      "dosageForm": "Cap",
+      "brandName": "Diflucan-150",
+      "brandPricePerUnit": 15.65,
+      "genericName": "Apo-Fluconazole-150",
+      "genericPricePerUnit": 3.9424,
+      "ratioPct": 25.2,
+      "brandSideIsBranded": true
+    }
+  ]
+}

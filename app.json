@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "scaffold",
-    "slug": "scaffold",
+    "name": "MediSense",
+    "slug": "medisense",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -9,7 +9,11 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "MediSense uses the camera to read the barcode on a medicine package. Nothing is recorded or uploaded.",
+        "NSLocationWhenInUseUsageDescription": "MediSense uses your location to show pharmacies near you. Your location stays on your device."
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -19,11 +23,17 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "permissions": [
+        "CAMERA",
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION"
+      ]
     },
     "web": {
-      "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "output": "single",
+      "favicon": "./assets/images/favicon.png",
+      "bundler": "metro"
     },
     "plugins": [
       "expo-router",
@@ -38,11 +48,13 @@
             "backgroundColor": "#000000"
           }
         }
-      ]
+      ],
+      "expo-asset"
     ],
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "description": "Find what the same over-the-counter medicine costs under another name."
   }
 }

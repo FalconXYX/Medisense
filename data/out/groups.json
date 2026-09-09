@@ -1,0 +1,6262 @@
+[
+  {
+    "key": "0108634001|OPHTHALMIC|SOLUTION|HYPROMELLOSE 0.5%",
+    "aiGroupNo": "0108634001",
+    "route": "OPHTHALMIC",
+    "form": "SOLUTION",
+    "ingredientLabel": "HYPROMELLOSE 0.5%",
+    "members": [
+      793
+    ],
+    "brandAnchor": 793,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0108634002|OPHTHALMIC|SOLUTION|HYPROMELLOSE 1%",
+    "aiGroupNo": "0108634002",
+    "route": "OPHTHALMIC",
+    "form": "SOLUTION",
+    "ingredientLabel": "HYPROMELLOSE 1%",
+    "members": [
+      794
+    ],
+    "brandAnchor": 794,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0101506002|RECTAL|SUPPOSITORY|BISACODYL 10MG",
+    "aiGroupNo": "0101506002",
+    "route": "RECTAL",
+    "form": "SUPPOSITORY",
+    "ingredientLabel": "BISACODYL 10MG",
+    "members": [
+      1555,
+      64686,
+      100967,
+      84651,
+      97915
+    ],
+    "brandAnchor": 1555,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0102747003|RECTAL|SUPPOSITORY|DIMENHYDRINATE 100MG",
+    "aiGroupNo": "0102747003",
+    "route": "RECTAL",
+    "form": "SUPPOSITORY",
+    "ingredientLabel": "DIMENHYDRINATE 100MG",
+    "members": [
+      193,
+      2890
+    ],
+    "brandAnchor": 193,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0131347009|ORAL|DROPS|SIMETHICONE 40MG",
+    "aiGroupNo": "0131347009",
+    "route": "ORAL",
+    "form": "DROPS",
+    "ingredientLabel": "SIMETHICONE 40MG",
+    "members": [
+      69597,
+      198
+    ],
+    "brandAnchor": 69597,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0102747004|ORAL|TABLET|DIMENHYDRINATE 50MG",
+    "aiGroupNo": "0102747004",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "DIMENHYDRINATE 50MG",
+    "members": [
+      3944,
+      98056,
+      65184,
+      5572,
+      69468
+    ],
+    "brandAnchor": 3944,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0100615003|ORAL|TABLET|CHLORPHENIRAMINE 4MG",
+    "aiGroupNo": "0100615003",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "CHLORPHENIRAMINE 4MG",
+    "members": [
+      579
+    ],
+    "brandAnchor": 579,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0215780001|ORAL|TABLET|DOCUSATE 50MG + SENNOSIDES 8.6MG",
+    "aiGroupNo": "0215780001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "DOCUSATE 50MG + SENNOSIDES 8.6MG",
+    "members": [
+      2133,
+      100558,
+      71178,
+      71374,
+      104191
+    ],
+    "brandAnchor": 2133,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0108681002|RECTAL|SUPPOSITORY|BISMUTH DIPROPYLACETATE 135MG",
+    "aiGroupNo": "0108681002",
+    "route": "RECTAL",
+    "form": "SUPPOSITORY",
+    "ingredientLabel": "BISMUTH DIPROPYLACETATE 135MG",
+    "members": [
+      1090
+    ],
+    "brandAnchor": 1090,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0204581001|TOPICAL|CREAM|CLIOQUINOL 3% + HYDROCORTISONE 1%",
+    "aiGroupNo": "0204581001",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "CLIOQUINOL 3% + HYDROCORTISONE 1%",
+    "members": [
+      810
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0136741002|RECTAL|ENEMA|MINERAL OIL 100%",
+    "aiGroupNo": "0136741002",
+    "route": "RECTAL",
+    "form": "ENEMA",
+    "ingredientLabel": "MINERAL OIL 100%",
+    "members": [
+      721
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0250431001|OPHTHALMIC|OINTMENT|MINERAL OIL 42.5% + WHITE PETROLATUM 57.3%",
+    "aiGroupNo": "0250431001",
+    "route": "OPHTHALMIC",
+    "form": "OINTMENT",
+    "ingredientLabel": "MINERAL OIL 42.5% + WHITE PETROLATUM 57.3%",
+    "members": [
+      9820
+    ],
+    "brandAnchor": 9820,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102747007|ORAL|SYRUP|DIMENHYDRINATE 15MG/5ML",
+    "aiGroupNo": "0102747007",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DIMENHYDRINATE 15MG / 5ML",
+    "members": [
+      1256
+    ],
+    "brandAnchor": 1256,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0101506001|ORAL|TABLET ENTERIC-COATED|BISACODYL 5MG",
+    "aiGroupNo": "0101506001",
+    "route": "ORAL",
+    "form": "TABLET ENTERIC-COATED",
+    "ingredientLabel": "BISACODYL 5MG",
+    "members": [
+      1553
+    ],
+    "brandAnchor": 1553,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0108865001|TOPICAL|SOLUTION|TRICLOSAN 0.5%",
+    "aiGroupNo": "0108865001",
+    "route": "TOPICAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "TRICLOSAN 0.5%",
+    "members": [
+      1668
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0131347002|ORAL|TABLET|SIMETHICONE 80MG",
+    "aiGroupNo": "0131347002",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "SIMETHICONE 80MG",
+    "members": [
+      1889
+    ],
+    "brandAnchor": 1889,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0310366003|RECTAL|SUPPOSITORY|CAMPHOR 5MG + DIPHENYLPYRALINE 1.5MG + GUAIACOL CARBONATE 600MG",
+    "aiGroupNo": "0310366003",
+    "route": "RECTAL",
+    "form": "SUPPOSITORY",
+    "ingredientLabel": "CAMPHOR 5MG + DIPHENYLPYRALINE 1.5MG + GUAIACOL CARBONATE 600MG",
+    "members": [
+      2148
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0310366002|RECTAL|SUPPOSITORY|CAMPHOR 2MG + DIPHENYLPYRALINE 0.5MG + GUAIACOL CARBONATE 200MG",
+    "aiGroupNo": "0310366002",
+    "route": "RECTAL",
+    "form": "SUPPOSITORY",
+    "ingredientLabel": "CAMPHOR 2MG + DIPHENYLPYRALINE 0.5MG + GUAIACOL CARBONATE 200MG",
+    "members": [
+      2150
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0454530002|RECTAL|SUPPOSITORY|CAMPHOR 40MG + EUCALYPTOL 370MG + GUAIACOL 180MG + GUAIACOL CARBONATE 200MG",
+    "aiGroupNo": "0454530002",
+    "route": "RECTAL",
+    "form": "SUPPOSITORY",
+    "ingredientLabel": "CAMPHOR 40MG + EUCALYPTOL 370MG + GUAIACOL 180MG + GUAIACOL CARBONATE 200MG",
+    "members": [
+      6645
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0454530001|RECTAL|SUPPOSITORY|CAMPHOR 20MG + EUCALYPTOL 185MG + GUAIACOL 90MG + GUAIACOL CARBONATE 100MG",
+    "aiGroupNo": "0454530001",
+    "route": "RECTAL",
+    "form": "SUPPOSITORY",
+    "ingredientLabel": "CAMPHOR 20MG + EUCALYPTOL 185MG + GUAIACOL 90MG + GUAIACOL CARBONATE 100MG",
+    "members": [
+      2787
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0106942019|TOPICAL|SOLUTION|CHLOROXYLENOL 4.8%",
+    "aiGroupNo": "0106942019",
+    "route": "TOPICAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "CHLOROXYLENOL 4.8%",
+    "members": [
+      41477
+    ],
+    "brandAnchor": 41477,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102009001|ORAL|TABLET|ACETAMINOPHEN 325MG",
+    "aiGroupNo": "0102009001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 325MG",
+    "members": [
+      5254,
+      8597,
+      5035,
+      4733,
+      22086,
+      48231,
+      84722,
+      5570,
+      9628,
+      19418,
+      84736,
+      103945,
+      84743,
+      14130,
+      73774
+    ],
+    "brandAnchor": 5254,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0102747004|RECTAL|SUPPOSITORY|DIMENHYDRINATE 50MG",
+    "aiGroupNo": "0102747004",
+    "route": "RECTAL",
+    "form": "SUPPOSITORY",
+    "ingredientLabel": "DIMENHYDRINATE 50MG",
+    "members": [
+      2891
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0108883004|ORAL|TABLET|IBUPROFEN 200MG",
+    "aiGroupNo": "0108883004",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "IBUPROFEN 200MG",
+    "members": [
+      13452,
+      13625,
+      19585,
+      92408,
+      10294,
+      74314,
+      80029,
+      80030,
+      85290,
+      75835,
+      75836
+    ],
+    "brandAnchor": 13452,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0108883001|ORAL|TABLET|IBUPROFEN 300MG",
+    "aiGroupNo": "0108883001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "IBUPROFEN 300MG",
+    "members": [
+      66413,
+      5433
+    ],
+    "brandAnchor": 66413,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0213722002|OPHTHALMIC|SOLUTION|NAPHAZOLINE 0.05% + PHENIRAMINE 0.3%",
+    "aiGroupNo": "0213722002",
+    "route": "OPHTHALMIC",
+    "form": "SOLUTION",
+    "ingredientLabel": "NAPHAZOLINE 0.025% + PHENIRAMINE 0.3%",
+    "members": [
+      3743
+    ],
+    "brandAnchor": 3743,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102009002|ORAL|TABLET|ACETAMINOPHEN 500MG",
+    "aiGroupNo": "0102009002",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG",
+    "members": [
+      13865,
+      5255,
+      8387,
+      5184,
+      68299,
+      22143,
+      84724,
+      9627,
+      19419,
+      77128,
+      84737,
+      103723,
+      4734,
+      84726,
+      101484,
+      48431,
+      102713,
+      73775,
+      5571,
+      104084,
+      74040
+    ],
+    "brandAnchor": 13865,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0136741002|ORAL|LIQUID|MINERAL OIL 100%",
+    "aiGroupNo": "0136741002",
+    "route": "ORAL",
+    "form": "LIQUID",
+    "ingredientLabel": "MINERAL OIL 100%",
+    "members": [
+      41698,
+      41536,
+      11629
+    ],
+    "brandAnchor": 41698,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0102639001|ORAL|CAPSULE|DIPHENHYDRAMINE 50MG",
+    "aiGroupNo": "0102639001",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "DIPHENHYDRAMINE 50MG",
+    "members": [
+      60487,
+      62073,
+      3775,
+      68166,
+      89394,
+      10875,
+      80667
+    ],
+    "brandAnchor": 60487,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0108883002|ORAL|TABLET|IBUPROFEN 400MG",
+    "aiGroupNo": "0108883002",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "IBUPROFEN 400MG",
+    "members": [
+      84091,
+      68562,
+      66438,
+      5432,
+      85942,
+      80286,
+      80031,
+      86271,
+      85291
+    ],
+    "brandAnchor": 84091,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0104351002|ORAL|CAPSULE|DOCUSATE 100MG",
+    "aiGroupNo": "0104351002",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "DOCUSATE 100MG",
+    "members": [
+      97454,
+      29540,
+      6258,
+      14487,
+      52463,
+      8974,
+      76671,
+      84243,
+      91138,
+      7365,
+      102519,
+      92166
+    ],
+    "brandAnchor": 97454,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0100807001|ORAL|SYRUP|DEXTROMETHORPHAN 15MG/5ML",
+    "aiGroupNo": "0100807001",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DEXTROMETHORPHAN 15MG / 5ML",
+    "members": [
+      11848,
+      11847,
+      12788,
+      4590
+    ],
+    "brandAnchor": 11848,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0101169001|ORAL|TABLET|ACETYLSALICYLIC ACID 325MG",
+    "aiGroupNo": "0101169001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETYLSALICYLIC ACID 325MG",
+    "members": [
+      19474,
+      4272,
+      103995
+    ],
+    "brandAnchor": 19474,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0210943001|TOPICAL|SUSPENSION|CALAMINE 8% + DIPHENHYDRAMINE 1%",
+    "aiGroupNo": "0210943001",
+    "route": "TOPICAL",
+    "form": "SUSPENSION",
+    "ingredientLabel": "CALAMINE 8% + DIPHENHYDRAMINE 1%",
+    "members": [
+      41558,
+      65100
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0215107001|NASAL|GEL|MACROGOL 15% + PROPYLENE GLYCOL 20%",
+    "aiGroupNo": "0215107001",
+    "route": "NASAL",
+    "form": "GEL",
+    "ingredientLabel": "MACROGOL 15% + PROPYLENE GLYCOL 20%",
+    "members": [
+      4885,
+      83795
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0106204002|ORAL|TABLET|PROMETHAZINE 50MG",
+    "aiGroupNo": "0106204002",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "PROMETHAZINE 50MG",
+    "members": [
+      5369
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102537001|TOPICAL|CREAM|TOLNAFTATE 1%",
+    "aiGroupNo": "0102537001",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "TOLNAFTATE 1%",
+    "members": [
+      41608,
+      106417,
+      78123,
+      37941
+    ],
+    "brandAnchor": 41608,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0102537001|TOPICAL|POWDER|TOLNAFTATE 1%",
+    "aiGroupNo": "0102537001",
+    "route": "TOPICAL",
+    "form": "POWDER",
+    "ingredientLabel": "TOLNAFTATE 1%",
+    "members": [
+      41611
+    ],
+    "brandAnchor": 41611,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102537001|TOPICAL|AEROSOL+POWDER|TOLNAFTATE 1%",
+    "aiGroupNo": "0102537001",
+    "route": "TOPICAL",
+    "form": "AEROSOL+POWDER",
+    "ingredientLabel": "TOLNAFTATE 1%",
+    "members": [
+      41612,
+      80475,
+      41933
+    ],
+    "brandAnchor": 41612,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0102639001|ORAL|TABLET|DIPHENHYDRAMINE 50MG",
+    "aiGroupNo": "0102639001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "DIPHENHYDRAMINE 50MG",
+    "members": [
+      95910,
+      62594,
+      12743,
+      5187,
+      11762,
+      96950,
+      48413,
+      61146,
+      17781,
+      49476,
+      98867,
+      74280,
+      89397,
+      98098
+    ],
+    "brandAnchor": 95910,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0105859002|TOPICAL|OINTMENT|BACITRACIN 500UNIT",
+    "aiGroupNo": "0105859002",
+    "route": "TOPICAL",
+    "form": "OINTMENT",
+    "ingredientLabel": "BACITRACIN 500UNIT",
+    "members": [
+      5863
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0136741013|ORAL|GEL|MINERAL OIL 78%",
+    "aiGroupNo": "0136741013",
+    "route": "ORAL",
+    "form": "GEL",
+    "ingredientLabel": "MINERAL OIL 78%",
+    "members": [
+      5792
+    ],
+    "brandAnchor": 5792,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0106834002|BUCCAL|MOUTHWASH|CETYLPYRIDINIUM CHLORIDE 0.05%",
+    "aiGroupNo": "0106834002",
+    "route": "BUCCAL",
+    "form": "MOUTHWASH",
+    "ingredientLabel": "CETYLPYRIDINIUM CHLORIDE 0.05%",
+    "members": [
+      67489,
+      5812,
+      97708
+    ],
+    "brandAnchor": 67489,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0103181002|ORAL|SYRUP|GUAIFENESIN 100MG/5ML",
+    "aiGroupNo": "0103181002",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "GUAIFENESIN 100MG / 5ML",
+    "members": [
+      41989,
+      30557
+    ],
+    "brandAnchor": 41989,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0205854001|TOPICAL|OINTMENT|BACITRACIN 500UNIT + POLYMYXIN B 10000UNIT",
+    "aiGroupNo": "0205854001",
+    "route": "TOPICAL",
+    "form": "OINTMENT",
+    "ingredientLabel": "BACITRACIN 500UNIT + POLYMYXIN B 10000UNIT",
+    "members": [
+      8398
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0301453001|ORAL|SUSPENSION|ALUMINUM HYDROXIDE 200MG/5ML + DIMETHICONE 25MG/5ML + MAGNESIUM HYDROXIDE 200MG/5ML",
+    "aiGroupNo": "0301453001",
+    "route": "ORAL",
+    "form": "SUSPENSION",
+    "ingredientLabel": "ALUMINUM HYDROXIDE 200MG / 5ML + DIMETHICONE 25MG / 5ML + MAGNESIUM HYDROXIDE 200MG / 5ML",
+    "members": [
+      10217,
+      44552
+    ],
+    "brandAnchor": 10217,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0106680029|ORAL|SUSPENSION|CHARCOAL ACTIVATED 50G/225ML",
+    "aiGroupNo": "0106680029",
+    "route": "ORAL",
+    "form": "SUSPENSION",
+    "ingredientLabel": "CHARCOAL ACTIVATED 50G / 225ML",
+    "members": [
+      6317
+    ],
+    "brandAnchor": 6317,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0106680002|ORAL|SUSPENSION|CHARCOAL ACTIVATED 50G/250ML",
+    "aiGroupNo": "0106680002",
+    "route": "ORAL",
+    "form": "SUSPENSION",
+    "ingredientLabel": "CHARCOAL ACTIVATED 50G / 250ML",
+    "members": [
+      7267
+    ],
+    "brandAnchor": 7267,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0107655001|NASAL|SPRAY|XYLOMETAZOLINE 0.1%",
+    "aiGroupNo": "0107655001",
+    "route": "NASAL",
+    "form": "SPRAY",
+    "ingredientLabel": "XYLOMETAZOLINE 0.1%",
+    "members": [
+      81710,
+      41684,
+      36767,
+      93922,
+      93927
+    ],
+    "brandAnchor": 81710,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107629002|TOPICAL|SOLUTION|CHLORHEXIDINE GLUCONATE 20%",
+    "aiGroupNo": "0107629002",
+    "route": "TOPICAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 20%",
+    "members": [
+      9824,
+      10767
+    ],
+    "brandAnchor": 9824,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0255030001|OPHTHALMIC|DROPS|METHYLENE BLUE 0.2MG + NAPHAZOLINE 0.5MG",
+    "aiGroupNo": "0255030001",
+    "route": "OPHTHALMIC",
+    "form": "DROPS",
+    "ingredientLabel": "METHYLENE BLUE 0.2MG + NAPHAZOLINE 0.5MG",
+    "members": [
+      7203
+    ],
+    "brandAnchor": 7203,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0114429001|TOPICAL|SOLUTION|MINOXIDIL 20MG",
+    "aiGroupNo": "0114429001",
+    "route": "TOPICAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "MINOXIDIL 20MG",
+    "members": [
+      7084,
+      84173
+    ],
+    "brandAnchor": 7084,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0105858001|TOPICAL|CREAM|NYSTATIN 100000UNIT",
+    "aiGroupNo": "0105858001",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "NYSTATIN 100000UNIT",
+    "members": [
+      8977
+    ],
+    "brandAnchor": 8977,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0101481001|NASAL|SOLUTION|OXYMETAZOLINE 0.05%",
+    "aiGroupNo": "0101481001",
+    "route": "NASAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "OXYMETAZOLINE 0.05%",
+    "members": [
+      67620,
+      41903
+    ],
+    "brandAnchor": 67620,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0228553001|OPHTHALMIC|DROPS|DEXTRAN 70 0.1% + HYPROMELLOSE 0.3%",
+    "aiGroupNo": "0228553001",
+    "route": "OPHTHALMIC",
+    "form": "DROPS",
+    "ingredientLabel": "DEXTRAN 70 0.1% + HYPROMELLOSE 0.3%",
+    "members": [
+      10032,
+      13167
+    ],
+    "brandAnchor": 10032,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0213722001|OPHTHALMIC|DROPS|NAPHAZOLINE 0.05% + PHENIRAMINE 0.3%",
+    "aiGroupNo": "0213722001",
+    "route": "OPHTHALMIC",
+    "form": "DROPS",
+    "ingredientLabel": "NAPHAZOLINE 0.02675% + PHENIRAMINE 0.315%",
+    "members": [
+      8155
+    ],
+    "brandAnchor": 8155,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102639002|ORAL|CAPSULE|DIPHENHYDRAMINE 25MG",
+    "aiGroupNo": "0102639002",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "DIPHENHYDRAMINE 25MG",
+    "members": [
+      78954,
+      86902,
+      10874,
+      85056,
+      79190
+    ],
+    "brandAnchor": 78954,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0220065001|TOPICAL|CREAM|HYDROCORTISONE 1% + PRAMOXINE 1%",
+    "aiGroupNo": "0220065001",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "HYDROCORTISONE 1% + PRAMOXINE 1%",
+    "members": [
+      10052
+    ],
+    "brandAnchor": 10052,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0108865003|TOPICAL|LIQUID|TRICLOSAN 0.3%",
+    "aiGroupNo": "0108865003",
+    "route": "TOPICAL",
+    "form": "LIQUID",
+    "ingredientLabel": "TRICLOSAN 0.3%",
+    "members": [
+      62780,
+      11537,
+      67995
+    ],
+    "brandAnchor": 62780,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0120416001|ORAL|TABLET|LORATADINE 10MG",
+    "aiGroupNo": "0120416001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "LORATADINE 10MG",
+    "members": [
+      10533,
+      85127,
+      67821,
+      86145,
+      76583
+    ],
+    "brandAnchor": 10533,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0102747006|RECTAL|SUPPOSITORY|DIMENHYDRINATE 25MG",
+    "aiGroupNo": "0102747006",
+    "route": "RECTAL",
+    "form": "SUPPOSITORY",
+    "ingredientLabel": "DIMENHYDRINATE 25MG",
+    "members": [
+      9585
+    ],
+    "brandAnchor": 9585,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0106680015|ORAL|CAPSULE|CHARCOAL ACTIVATED 260MG",
+    "aiGroupNo": "0106680015",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "CHARCOAL ACTIVATED 260MG",
+    "members": [
+      90843,
+      22917
+    ],
+    "brandAnchor": 90843,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0102009005|ORAL|SOLUTION|ACETAMINOPHEN 160MG/5ML",
+    "aiGroupNo": "0102009005",
+    "route": "ORAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "ACETAMINOPHEN 160MG / 5ML",
+    "members": [
+      42135,
+      10450
+    ],
+    "brandAnchor": 42135,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0220841001|TOPICAL|SHAMPOO|MENTHOL 0.3% + PYRITHIONE ZINC 2%",
+    "aiGroupNo": "0220841001",
+    "route": "TOPICAL",
+    "form": "SHAMPOO",
+    "ingredientLabel": "MENTHOL 0.3% + PYRITHIONE ZINC 2%",
+    "members": [
+      10999
+    ],
+    "brandAnchor": 10999,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0110231001|VAGINAL|CREAM|CLOTRIMAZOLE 1%",
+    "aiGroupNo": "0110231001",
+    "route": "VAGINAL",
+    "form": "CREAM",
+    "ingredientLabel": "CLOTRIMAZOLE 1%",
+    "members": [
+      19483,
+      9926,
+      47168
+    ],
+    "brandAnchor": 19483,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0110231003|VAGINAL|CREAM|CLOTRIMAZOLE 2%",
+    "aiGroupNo": "0110231003",
+    "route": "VAGINAL",
+    "form": "CREAM",
+    "ingredientLabel": "CLOTRIMAZOLE 2%",
+    "members": [
+      19484,
+      9927,
+      47180,
+      99284
+    ],
+    "brandAnchor": 19484,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0110231001|TOPICAL|CREAM|CLOTRIMAZOLE 1%",
+    "aiGroupNo": "0110231001",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "CLOTRIMAZOLE 1%",
+    "members": [
+      19487,
+      62905,
+      11893,
+      47181,
+      95015
+    ],
+    "brandAnchor": 19487,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107629001|TOPICAL|SOLUTION|CHLORHEXIDINE GLUCONATE 4%",
+    "aiGroupNo": "0107629001",
+    "route": "TOPICAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 4%",
+    "members": [
+      10668,
+      62715
+    ],
+    "brandAnchor": 10668,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107629004|TOPICAL|SOLUTION|CHLORHEXIDINE GLUCONATE 2%",
+    "aiGroupNo": "0107629004",
+    "route": "TOPICAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 2%",
+    "members": [
+      62430,
+      10669,
+      63965
+    ],
+    "brandAnchor": 62430,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107629005|TOPICAL|SOLUTION|CHLORHEXIDINE GLUCONATE 0.05%",
+    "aiGroupNo": "0107629005",
+    "route": "TOPICAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 0.05%",
+    "members": [
+      17006
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0217793001|ORAL|POWDER FOR SOLUTION|ACETAMINOPHEN 650MG + PHENYLEPHRINE 10MG",
+    "aiGroupNo": "0217793001",
+    "route": "ORAL",
+    "form": "POWDER FOR SOLUTION",
+    "ingredientLabel": "ACETAMINOPHEN 650MG + PHENYLEPHRINE 10MG",
+    "members": [
+      10188
+    ],
+    "brandAnchor": 10188,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0113020001|ORAL|SOLUTION|LACTULOSE 667MG",
+    "aiGroupNo": "0113020001",
+    "route": "ORAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "LACTULOSE 667MG",
+    "members": [
+      81724,
+      12699,
+      89682,
+      78124,
+      95818
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107332002|OPHTHALMIC|DROPS|CARBOXYMETHYLCELLULOSE 1%",
+    "aiGroupNo": "0107332002",
+    "route": "OPHTHALMIC",
+    "form": "DROPS",
+    "ingredientLabel": "CARBOXYMETHYLCELLULOSE 1%",
+    "members": [
+      11138
+    ],
+    "brandAnchor": 11138,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0104351003|ORAL|SYRUP|DOCUSATE 20MG/5ML",
+    "aiGroupNo": "0104351003",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DOCUSATE 20MG / 5ML",
+    "members": [
+      28280,
+      11520,
+      61679
+    ],
+    "brandAnchor": 28280,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0106863001|TOPICAL|TINCTURE|CETRIMONIUM BROMIDE 0.5%",
+    "aiGroupNo": "0106863001",
+    "route": "TOPICAL",
+    "form": "TINCTURE",
+    "ingredientLabel": "CETRIMONIUM BROMIDE 0.5%",
+    "members": [
+      10565
+    ],
+    "brandAnchor": 10565,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0106863001|TOPICAL|CREAM|CETRIMONIUM BROMIDE 0.5%",
+    "aiGroupNo": "0106863001",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "CETRIMONIUM BROMIDE 0.5%",
+    "members": [
+      12864
+    ],
+    "brandAnchor": 12864,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0124466001|ORAL|LOZENGE|HEXYLRESORCINOL 3.5MG",
+    "aiGroupNo": "0124466001",
+    "route": "ORAL",
+    "form": "LOZENGE",
+    "ingredientLabel": "HEXYLRESORCINOL 3.5MG",
+    "members": [
+      11321
+    ],
+    "brandAnchor": 11321,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0131347001|ORAL|TABLET CHEWABLE|SIMETHICONE 125MG",
+    "aiGroupNo": "0131347001",
+    "route": "ORAL",
+    "form": "TABLET CHEWABLE",
+    "ingredientLabel": "SIMETHICONE 125MG",
+    "members": [
+      13362,
+      81363
+    ],
+    "brandAnchor": 13362,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0103565005|TOPICAL|SPRAY METERED-DOSE|LIDOCAINE 9.6%",
+    "aiGroupNo": "0103565005",
+    "route": "TOPICAL",
+    "form": "SPRAY METERED-DOSE",
+    "ingredientLabel": "LIDOCAINE 9.6%",
+    "members": [
+      46020
+    ],
+    "brandAnchor": 46020,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102009003|ORAL|TABLET CHEWABLE|ACETAMINOPHEN 80MG",
+    "aiGroupNo": "0102009003",
+    "route": "ORAL",
+    "form": "TABLET CHEWABLE",
+    "ingredientLabel": "ACETAMINOPHEN 80MG",
+    "members": [
+      11794,
+      14206
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0101481001|NASAL|SPRAY|OXYMETAZOLINE 0.05%",
+    "aiGroupNo": "0101481001",
+    "route": "NASAL",
+    "form": "SPRAY",
+    "ingredientLabel": "OXYMETAZOLINE 0.05%",
+    "members": [
+      41954,
+      41970,
+      86596,
+      69676,
+      98807,
+      69670,
+      69673,
+      98808,
+      94094
+    ],
+    "brandAnchor": 41954,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0200826001|ORAL|SYRUP|DEXTROMETHORPHAN 15MG/5ML + GUAIFENESIN 100MG/5ML",
+    "aiGroupNo": "0200826001",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DEXTROMETHORPHAN 15MG / 5ML + GUAIFENESIN 100MG / 5ML",
+    "members": [
+      13296,
+      12449,
+      103049
+    ],
+    "brandAnchor": 13296,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107480003|ORAL|TABLET|METHOCARBAMOL 750MG",
+    "aiGroupNo": "0107480003",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "METHOCARBAMOL 750MG",
+    "members": [
+      13624
+    ],
+    "brandAnchor": 13624,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0107629003|TOPICAL|SOLUTION|CHLORHEXIDINE GLUCONATE 0.5%",
+    "aiGroupNo": "0107629003",
+    "route": "TOPICAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 0.5%",
+    "members": [
+      22030
+    ],
+    "brandAnchor": 22030,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0216113003|ORAL|TABLET|ACETAMINOPHEN 500MG + PSEUDOEPHEDRINE 30MG",
+    "aiGroupNo": "0216113003",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + PSEUDOEPHEDRINE 30MG",
+    "members": [
+      83343,
+      13120,
+      87089,
+      85382
+    ],
+    "brandAnchor": 83343,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0213979003|TOPICAL|SOLUTION|CHLORHEXIDINE GLUCONATE 4% + ISOPROPYL ALCOHOL 4%",
+    "aiGroupNo": "0213979003",
+    "route": "TOPICAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 4% + ISOPROPYL ALCOHOL 4%",
+    "members": [
+      13290
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0213979001|TOPICAL|SOLUTION|CHLORHEXIDINE GLUCONATE 2% + ISOPROPYL ALCOHOL 4%",
+    "aiGroupNo": "0213979001",
+    "route": "TOPICAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 2% + ISOPROPYL ALCOHOL 4%",
+    "members": [
+      13289,
+      71177
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107629001|TOPICAL HOSPITAL/HC FACILITIES|SPONGE|CHLORHEXIDINE GLUCONATE 4%",
+    "aiGroupNo": "0107629001",
+    "route": "TOPICAL HOSPITAL/HC FACILITIES",
+    "form": "SPONGE",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 4%",
+    "members": [
+      13003
+    ],
+    "brandAnchor": 13003,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0107579001|OPHTHALMIC|DROPS|TETRAHYDROZOLINE 0.05%",
+    "aiGroupNo": "0107579001",
+    "route": "OPHTHALMIC",
+    "form": "DROPS",
+    "ingredientLabel": "TETRAHYDROZOLINE 0.05%",
+    "members": [
+      42015
+    ],
+    "brandAnchor": 42015,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0100807001|ORAL|SYRUP|DEXTROMETHORPHAN 30MG/10ML",
+    "aiGroupNo": "0100807001",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DEXTROMETHORPHAN 30MG / 10ML",
+    "members": [
+      12411,
+      102364
+    ],
+    "brandAnchor": 12411,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0214697002|ORAL|SYRUP|DEXTROMETHORPHAN 7.5MG/5ML + PSEUDOEPHEDRINE 15MG/5ML",
+    "aiGroupNo": "0214697002",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DEXTROMETHORPHAN 7.5MG / 5ML + PSEUDOEPHEDRINE 15MG / 5ML",
+    "members": [
+      14551,
+      12504,
+      102260
+    ],
+    "brandAnchor": 14551,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0245861002|ORAL|TABLET IMMEDIATE- AND EXTENDED-RELEASE|LORATADINE 5MG + PSEUDOEPHEDRINE 120MG",
+    "aiGroupNo": "0245861002",
+    "route": "ORAL",
+    "form": "TABLET IMMEDIATE- AND EXTENDED-RELEASE",
+    "ingredientLabel": "LORATADINE 5MG + PSEUDOEPHEDRINE 120MG",
+    "members": [
+      11974
+    ],
+    "brandAnchor": 11974,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0214197001|RECTAL|SUPPOSITORY|PRAMOXINE 20MG + ZINC 10MG",
+    "aiGroupNo": "0214197001",
+    "route": "RECTAL",
+    "form": "SUPPOSITORY",
+    "ingredientLabel": "PRAMOXINE 20MG + ZINC 10MG",
+    "members": [
+      12763
+    ],
+    "brandAnchor": 12763,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0214197002|RECTAL+TOPICAL|OINTMENT|PRAMOXINE 1% + ZINC 0.5%",
+    "aiGroupNo": "0214197002",
+    "route": "RECTAL+TOPICAL",
+    "form": "OINTMENT",
+    "ingredientLabel": "PRAMOXINE 1% + ZINC 0.5%",
+    "members": [
+      12764
+    ],
+    "brandAnchor": 12764,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0220065001|TOPICAL|LOTION|HYDROCORTISONE 1% + PRAMOXINE 1%",
+    "aiGroupNo": "0220065001",
+    "route": "TOPICAL",
+    "form": "LOTION",
+    "ingredientLabel": "HYDROCORTISONE 1% + PRAMOXINE 1%",
+    "members": [
+      15948
+    ],
+    "brandAnchor": 15948,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0103534001|ORAL|SYRUP|CLOFEDANOL 25MG/5ML",
+    "aiGroupNo": "0103534001",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "CLOFEDANOL 25MG / 5ML",
+    "members": [
+      13907
+    ],
+    "brandAnchor": 13907,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0106942007|TOPICAL|LIQUID|CHLOROXYLENOL 0.6%",
+    "aiGroupNo": "0106942007",
+    "route": "TOPICAL",
+    "form": "LIQUID",
+    "ingredientLabel": "CHLOROXYLENOL 0.6%",
+    "members": [
+      18208,
+      12639
+    ],
+    "brandAnchor": 18208,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0312435001|ORAL|TABLET|ACETAMINOPHEN 500MG + CHLORPHENIRAMINE 2MG + PSEUDOEPHEDRINE 30MG",
+    "aiGroupNo": "0312435001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + CHLORPHENIRAMINE 2MG + PSEUDOEPHEDRINE 30MG",
+    "members": [
+      83344,
+      17113,
+      34150
+    ],
+    "brandAnchor": 83344,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0102009006|ORAL|TABLET CHEWABLE|ACETAMINOPHEN 160MG",
+    "aiGroupNo": "0102009006",
+    "route": "ORAL",
+    "form": "TABLET CHEWABLE",
+    "ingredientLabel": "ACETAMINOPHEN 160MG",
+    "members": [
+      64993,
+      101916,
+      91942,
+      14449,
+      60900,
+      93341,
+      14450
+    ],
+    "brandAnchor": 64993,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0310136002|ORAL|SYRUP|DEXTROMETHORPHAN 15MG/5ML + GUAIFENESIN 200MG/5ML + PSEUDOEPHEDRINE 30MG/5ML",
+    "aiGroupNo": "0310136002",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DEXTROMETHORPHAN 15MG / 5ML + GUAIFENESIN 200MG / 5ML + PSEUDOEPHEDRINE 30MG / 5ML",
+    "members": [
+      19060,
+      13440,
+      102948
+    ],
+    "brandAnchor": 19060,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0101169013|ORAL|TABLET CHEWABLE|ACETYLSALICYLIC ACID 80MG",
+    "aiGroupNo": "0101169013",
+    "route": "ORAL",
+    "form": "TABLET CHEWABLE",
+    "ingredientLabel": "ACETYLSALICYLIC ACID 80MG",
+    "members": [
+      91435,
+      79707,
+      18349,
+      75453,
+      36346
+    ],
+    "brandAnchor": 91435,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0108810004|OPHTHALMIC|SOLUTION|CROMOLYN 2%",
+    "aiGroupNo": "0108810004",
+    "route": "OPHTHALMIC",
+    "form": "SOLUTION",
+    "ingredientLabel": "CROMOLYN 2%",
+    "members": [
+      13857
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0111332002|ORAL|SOLUTION|LOPERAMIDE 0.2MG",
+    "aiGroupNo": "0111332002",
+    "route": "ORAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "LOPERAMIDE 0.2MG",
+    "members": [
+      14567
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102639002|ORAL|TABLET|DIPHENHYDRAMINE 25MG",
+    "aiGroupNo": "0102639002",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "DIPHENHYDRAMINE 25MG",
+    "members": [
+      13782,
+      83395,
+      48414,
+      17794,
+      31477,
+      47391,
+      97036,
+      74279
+    ],
+    "brandAnchor": 13782,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0102639004|ORAL|SOLUTION|DIPHENHYDRAMINE 6.25MG/5ML",
+    "aiGroupNo": "0102639004",
+    "route": "ORAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "DIPHENHYDRAMINE 6.25MG / 5ML",
+    "members": [
+      15880,
+      73230,
+      96896
+    ],
+    "brandAnchor": 15880,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0102639003|ORAL|SOLUTION|DIPHENHYDRAMINE 12.5MG/5ML",
+    "aiGroupNo": "0102639003",
+    "route": "ORAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "DIPHENHYDRAMINE 12.5MG / 5ML",
+    "members": [
+      15516,
+      73231,
+      95330
+    ],
+    "brandAnchor": 15516,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0212017001|ORAL|TABLET|ACETAMINOPHEN 325MG + METHOCARBAMOL 400MG",
+    "aiGroupNo": "0212017001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 325MG + METHOCARBAMOL 400MG",
+    "members": [
+      14509,
+      50062
+    ],
+    "brandAnchor": 14509,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0102009003|ORAL|DROPS|ACETAMINOPHEN 80MG",
+    "aiGroupNo": "0102009003",
+    "route": "ORAL",
+    "form": "DROPS",
+    "ingredientLabel": "ACETAMINOPHEN 80MG",
+    "members": [
+      42341,
+      87537,
+      42136
+    ],
+    "brandAnchor": 42341,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0222394001|ORAL|TABLET|IBUPROFEN 200MG + PSEUDOEPHEDRINE 30MG",
+    "aiGroupNo": "0222394001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "IBUPROFEN 200MG + PSEUDOEPHEDRINE 30MG",
+    "members": [
+      14492,
+      75302,
+      65897,
+      83757
+    ],
+    "brandAnchor": 14492,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0414717004|ORAL|TABLET|ACETAMINOPHEN 500MG + CHLORPHENIRAMINE 2MG + DEXTROMETHORPHAN 15MG + PSEUDOEPHEDRINE 30MG",
+    "aiGroupNo": "0414717004",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + CHLORPHENIRAMINE 2MG + DEXTROMETHORPHAN 15MG + PSEUDOEPHEDRINE 30MG",
+    "members": [
+      65249,
+      17887
+    ],
+    "brandAnchor": 65249,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0312435003|ORAL|SUSPENSION|ACETAMINOPHEN 160MG/5ML + CHLORPHENIRAMINE 1MG/5ML + PSEUDOEPHEDRINE 15MG/5ML",
+    "aiGroupNo": "0312435003",
+    "route": "ORAL",
+    "form": "SUSPENSION",
+    "ingredientLabel": "ACETAMINOPHEN 160MG / 5ML + CHLORPHENIRAMINE 1MG / 5ML + PSEUDOEPHEDRINE 15MG / 5ML",
+    "members": [
+      26863
+    ],
+    "brandAnchor": 26863,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0414717001|ORAL|SUSPENSION|ACETAMINOPHEN 160MG/5ML + CHLORPHENIRAMINE 1MG/5ML + DEXTROMETHORPHAN 7.5MG/5ML + PSEUDOEPHEDRINE 15MG/5ML",
+    "aiGroupNo": "0414717001",
+    "route": "ORAL",
+    "form": "SUSPENSION",
+    "ingredientLabel": "ACETAMINOPHEN 160MG / 5ML + CHLORPHENIRAMINE 1MG / 5ML + DEXTROMETHORPHAN 7.5MG / 5ML + PSEUDOEPHEDRINE 15MG / 5ML",
+    "members": [
+      26864,
+      86193,
+      79105
+    ],
+    "brandAnchor": 26864,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0102009005|ORAL|SUSPENSION|ACETAMINOPHEN 160MG/5ML",
+    "aiGroupNo": "0102009005",
+    "route": "ORAL",
+    "form": "SUSPENSION",
+    "ingredientLabel": "ACETAMINOPHEN 160MG / 5ML",
+    "members": [
+      42388,
+      87539,
+      97700
+    ],
+    "brandAnchor": 42388,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0411174003|ORAL|POWDER FOR SOLUTION|ACETAMINOPHEN 325MG + ASCORBIC ACID 50MG + PHENIRAMINE 20MG + PHENYLEPHRINE 10MG",
+    "aiGroupNo": "0411174003",
+    "route": "ORAL",
+    "form": "POWDER FOR SOLUTION",
+    "ingredientLabel": "ACETAMINOPHEN 325MG + ASCORBIC ACID 50MG + PHENIRAMINE 20MG + PHENYLEPHRINE 10MG",
+    "members": [
+      32780
+    ],
+    "brandAnchor": 32780,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0107332003|OPHTHALMIC|DROPS|CARBOXYMETHYLCELLULOSE 0.5%",
+    "aiGroupNo": "0107332003",
+    "route": "OPHTHALMIC",
+    "form": "DROPS",
+    "ingredientLabel": "CARBOXYMETHYLCELLULOSE 0.5%",
+    "members": [
+      27183,
+      50289
+    ],
+    "brandAnchor": 27183,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0106680029|ORAL|SUSPENSION|CHARCOAL ACTIVATED 222MG",
+    "aiGroupNo": "0106680029",
+    "route": "ORAL",
+    "form": "SUSPENSION",
+    "ingredientLabel": "CHARCOAL ACTIVATED 222MG",
+    "members": [
+      16533
+    ],
+    "brandAnchor": 16533,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0213979002|TOPICAL HOSPITAL/HC FACILITIES|WIPE|CHLORHEXIDINE GLUCONATE 0.5% + ISOPROPYL ALCOHOL 70%",
+    "aiGroupNo": "0213979002",
+    "route": "TOPICAL HOSPITAL/HC FACILITIES",
+    "form": "WIPE",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 0.5% + ISOPROPYL ALCOHOL 70%",
+    "members": [
+      16494
+    ],
+    "brandAnchor": 16494,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0107629005|TOPICAL HOSPITAL/HC FACILITIES|SPONGE|CHLORHEXIDINE GLUCONATE 0.05%",
+    "aiGroupNo": "0107629005",
+    "route": "TOPICAL HOSPITAL/HC FACILITIES",
+    "form": "SPONGE",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 0.05%",
+    "members": [
+      27903
+    ],
+    "brandAnchor": 27903,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0103740002|TOPICAL|CREAM|TROLAMINE SALICYLATE 15%",
+    "aiGroupNo": "0103740002",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "TROLAMINE SALICYLATE 15%",
+    "members": [
+      42373,
+      33476,
+      100605,
+      89554
+    ],
+    "brandAnchor": 42373,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0319503001|ORAL|TABLET|ACETAMINOPHEN 500MG + DEXTROMETHORPHAN 15MG + PSEUDOEPHEDRINE 30MG",
+    "aiGroupNo": "0319503001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + DEXTROMETHORPHAN 15MG + PSEUDOEPHEDRINE 30MG",
+    "members": [
+      65250,
+      72935,
+      17880
+    ],
+    "brandAnchor": 65250,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0110272001|VAGINAL|CREAM|MICONAZOLE 2%",
+    "aiGroupNo": "0110272001",
+    "route": "VAGINAL",
+    "form": "CREAM",
+    "ingredientLabel": "MICONAZOLE 2%",
+    "members": [
+      16608,
+      69637,
+      50876
+    ],
+    "brandAnchor": 16608,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0110272001|TOPICAL|CREAM|MICONAZOLE 2%",
+    "aiGroupNo": "0110272001",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "MICONAZOLE 2%",
+    "members": [
+      17832,
+      16609
+    ],
+    "brandAnchor": 17832,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0104351004|ORAL|SOLUTION|DOCUSATE 10MG",
+    "aiGroupNo": "0104351004",
+    "route": "ORAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "DOCUSATE 10MG",
+    "members": [
+      28453
+    ],
+    "brandAnchor": 28453,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0111864001|ORAL|SUSPENSION|BISMUTH SUBSALICYLATE 17.6MG",
+    "aiGroupNo": "0111864001",
+    "route": "ORAL",
+    "form": "SUSPENSION",
+    "ingredientLabel": "BISMUTH SUBSALICYLATE 17.6MG",
+    "members": [
+      42395
+    ],
+    "brandAnchor": 42395,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0107638001|ORAL|LOZENGE|DEQUALINIUM CHLORIDE 0.25MG",
+    "aiGroupNo": "0107638001",
+    "route": "ORAL",
+    "form": "LOZENGE",
+    "ingredientLabel": "DEQUALINIUM CHLORIDE 0.25MG",
+    "members": [
+      28979
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0213979002|TOPICAL HOSPITAL/HC FACILITIES|SWAB|CHLORHEXIDINE GLUCONATE 0.5% + ISOPROPYL ALCOHOL 70%",
+    "aiGroupNo": "0213979002",
+    "route": "TOPICAL HOSPITAL/HC FACILITIES",
+    "form": "SWAB",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 0.5% + ISOPROPYL ALCOHOL 70%",
+    "members": [
+      30398
+    ],
+    "brandAnchor": 30398,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0236766004|OPHTHALMIC|OINTMENT|MINERAL OIL 20% + PETROLATUM 80%",
+    "aiGroupNo": "0236766004",
+    "route": "OPHTHALMIC",
+    "form": "OINTMENT",
+    "ingredientLabel": "MINERAL OIL 20% + PETROLATUM 80%",
+    "members": [
+      16777
+    ],
+    "brandAnchor": 16777,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0217970002|TOPICAL+VAGINAL|CREAM+SUPPOSITORY|MICONAZOLE 100MG + MICONAZOLE 2%",
+    "aiGroupNo": "0217970002",
+    "route": "TOPICAL+VAGINAL",
+    "form": "CREAM+SUPPOSITORY",
+    "ingredientLabel": "MICONAZOLE 100MG + MICONAZOLE 2%",
+    "members": [
+      16611
+    ],
+    "brandAnchor": 16611,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0111332001|ORAL|TABLET|LOPERAMIDE 2MG",
+    "aiGroupNo": "0111332001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "LOPERAMIDE 2MG",
+    "members": [
+      18071,
+      43419,
+      61604,
+      73379,
+      74169,
+      43486
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107589001|OPHTHALMIC|DROPS|POLYVINYL ALCOHOL 1.4%",
+    "aiGroupNo": "0107589001",
+    "route": "OPHTHALMIC",
+    "form": "DROPS",
+    "ingredientLabel": "POLYVINYL ALCOHOL 1.4%",
+    "members": [
+      18791
+    ],
+    "brandAnchor": 18791,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0122529004|ORAL|CAPSULE|FLUCONAZOLE 150MG",
+    "aiGroupNo": "0122529004",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "FLUCONAZOLE 150MG",
+    "members": [
+      79724,
+      17789,
+      104462,
+      83738,
+      94989,
+      101044,
+      74071,
+      104234,
+      65565,
+      91325,
+      91806,
+      103678
+    ],
+    "brandAnchor": 79724,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0200826003|ORAL|SYRUP|DEXTROMETHORPHAN 15MG/5ML + GUAIFENESIN 200MG/5ML",
+    "aiGroupNo": "0200826003",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DEXTROMETHORPHAN 15MG / 5ML + GUAIFENESIN 200MG / 5ML",
+    "members": [
+      19026,
+      103050,
+      102957
+    ],
+    "brandAnchor": 19026,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0103181003|ORAL|SYRUP|GUAIFENESIN 200MG/5ML",
+    "aiGroupNo": "0103181003",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "GUAIFENESIN 200MG / 5ML",
+    "members": [
+      19044,
+      102365
+    ],
+    "brandAnchor": 19044,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0101280001|TOPICAL|JELLY|LIDOCAINE 20MG",
+    "aiGroupNo": "0101280001",
+    "route": "TOPICAL",
+    "form": "JELLY",
+    "ingredientLabel": "LIDOCAINE 20MG",
+    "members": [
+      31563
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0214226001|OPHTHALMIC|DROPS|TETRAHYDROZOLINE 0.05% + ZINC 0.25%",
+    "aiGroupNo": "0214226001",
+    "route": "OPHTHALMIC",
+    "form": "DROPS",
+    "ingredientLabel": "TETRAHYDROZOLINE 0.05% + ZINC 0.25%",
+    "members": [
+      82425,
+      42685
+    ],
+    "brandAnchor": 82425,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0101169012|ORAL|TABLET|ACETYLSALICYLIC ACID 500MG",
+    "aiGroupNo": "0101169012",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETYLSALICYLIC ACID 500MG",
+    "members": [
+      19475
+    ],
+    "brandAnchor": 19475,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0201287001|TOPICAL|SPRAY|BENZALKONIUM CHLORIDE 0.15% + LIDOCAINE 2.5%",
+    "aiGroupNo": "0201287001",
+    "route": "TOPICAL",
+    "form": "SPRAY",
+    "ingredientLabel": "BENZALKONIUM CHLORIDE 0.13% + LIDOCAINE 2.5%",
+    "members": [
+      19488
+    ],
+    "brandAnchor": 19488,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0101169001|ORAL|TABLET DELAYED-RELEASE|ACETYLSALICYLIC ACID 325MG",
+    "aiGroupNo": "0101169001",
+    "route": "ORAL",
+    "form": "TABLET DELAYED-RELEASE",
+    "ingredientLabel": "ACETYLSALICYLIC ACID 325MG",
+    "members": [
+      19489
+    ],
+    "brandAnchor": 19489,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0110231004|VAGINAL|VAGINAL TABLET|CLOTRIMAZOLE 200MG",
+    "aiGroupNo": "0110231004",
+    "route": "VAGINAL",
+    "form": "VAGINAL TABLET",
+    "ingredientLabel": "CLOTRIMAZOLE 200MG",
+    "members": [
+      19479
+    ],
+    "brandAnchor": 19479,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0110231005|VAGINAL|VAGINAL TABLET|CLOTRIMAZOLE 500MG",
+    "aiGroupNo": "0110231005",
+    "route": "VAGINAL",
+    "form": "VAGINAL TABLET",
+    "ingredientLabel": "CLOTRIMAZOLE 500MG",
+    "members": [
+      19480
+    ],
+    "brandAnchor": 19480,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0110231006|VAGINAL|CREAM|CLOTRIMAZOLE 10%",
+    "aiGroupNo": "0110231006",
+    "route": "VAGINAL",
+    "form": "CREAM",
+    "ingredientLabel": "CLOTRIMAZOLE 10%",
+    "members": [
+      44016
+    ],
+    "brandAnchor": 44016,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0103740003|TOPICAL|CREAM|TROLAMINE SALICYLATE 10%",
+    "aiGroupNo": "0103740003",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "TROLAMINE SALICYLATE 10%",
+    "members": [
+      42699
+    ],
+    "brandAnchor": 42699,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0107205001|TOPICAL|GEL|BENZOYL PEROXIDE 5%",
+    "aiGroupNo": "0107205001",
+    "route": "TOPICAL",
+    "form": "GEL",
+    "ingredientLabel": "BENZOYL PEROXIDE 5%",
+    "members": [
+      92488,
+      98034,
+      34258,
+      102751,
+      89660,
+      100691
+    ],
+    "brandAnchor": 92488,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107205001|TOPICAL|SOLUTION|BENZOYL PEROXIDE 5%",
+    "aiGroupNo": "0107205001",
+    "route": "TOPICAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "BENZOYL PEROXIDE 5%",
+    "members": [
+      20299
+    ],
+    "brandAnchor": 20299,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0110272002|VAGINAL|SUPPOSITORY|MICONAZOLE 400MG",
+    "aiGroupNo": "0110272002",
+    "route": "VAGINAL",
+    "form": "SUPPOSITORY",
+    "ingredientLabel": "MICONAZOLE 400MG",
+    "members": [
+      19677
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0111864003|ORAL|TABLET|BISMUTH SUBSALICYLATE 262MG",
+    "aiGroupNo": "0111864003",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "BISMUTH SUBSALICYLATE 262MG",
+    "members": [
+      42736,
+      94421,
+      81194
+    ],
+    "brandAnchor": 42736,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0231324001|TOPICAL|OINTMENT|BACITRACIN ZINC 500UNIT + POLYMYXIN B 10000UNIT",
+    "aiGroupNo": "0231324001",
+    "route": "TOPICAL",
+    "form": "OINTMENT",
+    "ingredientLabel": "BACITRACIN ZINC 500UNIT + POLYMYXIN B 10000UNIT",
+    "members": [
+      20134,
+      48982
+    ],
+    "brandAnchor": 20134,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0116793002|TOPICAL|SHAMPOO|KETOCONAZOLE 2%",
+    "aiGroupNo": "0116793002",
+    "route": "TOPICAL",
+    "form": "SHAMPOO",
+    "ingredientLabel": "KETOCONAZOLE 2%",
+    "members": [
+      44259
+    ],
+    "brandAnchor": 44259,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0118722003|ORAL|TABLET|FAMOTIDINE 10MG",
+    "aiGroupNo": "0118722003",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "FAMOTIDINE 10MG",
+    "members": [
+      42879
+    ],
+    "brandAnchor": 42879,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0101169013|ORAL|TABLET|ACETYLSALICYLIC ACID 80MG",
+    "aiGroupNo": "0101169013",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETYLSALICYLIC ACID 80MG",
+    "members": [
+      36347
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0228450001|RECTAL+TOPICAL|GEL|HAMAMELIS VIRGINIANA 50% + PHENYLEPHRINE 0.25%",
+    "aiGroupNo": "0228450001",
+    "route": "RECTAL+TOPICAL",
+    "form": "GEL",
+    "ingredientLabel": "HAMAMELIS VIRGINIANA 50% + PHENYLEPHRINE 0.25%",
+    "members": [
+      36788
+    ],
+    "brandAnchor": 36788,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0113261001|TOPICAL|CREAM|CLOBETASONE BUTYRATE 0.05%",
+    "aiGroupNo": "0113261001",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "CLOBETASONE BUTYRATE 0.05%",
+    "members": [
+      37001
+    ],
+    "brandAnchor": 37001,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0327704004|ORAL|TABLET|ACETAMINOPHEN 500MG + DIPHENHYDRAMINE 25MG + PSEUDOEPHEDRINE 30MG",
+    "aiGroupNo": "0327704004",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + DIPHENHYDRAMINE 25MG + PSEUDOEPHEDRINE 30MG",
+    "members": [
+      85064,
+      73592,
+      74181,
+      37037,
+      78913,
+      79084,
+      73064,
+      88980
+    ],
+    "brandAnchor": 85064,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0100807004|ORAL|SOLUTION|DEXTROMETHORPHAN 7.5MG/5ML",
+    "aiGroupNo": "0100807004",
+    "route": "ORAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "DEXTROMETHORPHAN 7.5MG / 5ML",
+    "members": [
+      37038
+    ],
+    "brandAnchor": 37038,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0312118007|ORAL|POWDER FOR SOLUTION|ACETAMINOPHEN 650MG + PHENIRAMINE 20MG + PHENYLEPHRINE 10MG",
+    "aiGroupNo": "0312118007",
+    "route": "ORAL",
+    "form": "POWDER FOR SOLUTION",
+    "ingredientLabel": "ACETAMINOPHEN 650MG + PHENIRAMINE 20MG + PHENYLEPHRINE 10MG",
+    "members": [
+      37051
+    ],
+    "brandAnchor": 37051,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0414717011|ORAL|POWDER FOR SOLUTION|ACETAMINOPHEN 1000MG + CHLORPHENIRAMINE 4MG + DEXTROMETHORPHAN 30MG + PSEUDOEPHEDRINE 60MG",
+    "aiGroupNo": "0414717011",
+    "route": "ORAL",
+    "form": "POWDER FOR SOLUTION",
+    "ingredientLabel": "ACETAMINOPHEN 1000MG + CHLORPHENIRAMINE 4MG + DEXTROMETHORPHAN 30MG + PSEUDOEPHEDRINE 60MG",
+    "members": [
+      37105,
+      104430
+    ],
+    "brandAnchor": 37105,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0421980007|ORAL|TABLET|ACETAMINOPHEN 500MG + DEXTROMETHORPHAN 15MG + GUAIFENESIN 100MG + PSEUDOEPHEDRINE 30MG",
+    "aiGroupNo": "0421980007",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + DEXTROMETHORPHAN 15MG + GUAIFENESIN 100MG + PSEUDOEPHEDRINE 30MG",
+    "members": [
+      83304,
+      85062,
+      37150,
+      83303,
+      77185,
+      86625,
+      76681
+    ],
+    "brandAnchor": 83304,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0101506001|ORAL|TABLET|BISACODYL 5MG",
+    "aiGroupNo": "0101506001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "BISACODYL 5MG",
+    "members": [
+      37161,
+      70170,
+      61546,
+      90204,
+      93629,
+      98888,
+      67779,
+      103975
+    ],
+    "brandAnchor": 37161,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0122686002|ORAL|TABLET|CETIRIZINE 5MG",
+    "aiGroupNo": "0122686002",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "CETIRIZINE 5MG",
+    "members": [
+      43369
+    ],
+    "brandAnchor": 43369,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0122686001|ORAL|TABLET|CETIRIZINE 10MG",
+    "aiGroupNo": "0122686001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "CETIRIZINE 10MG",
+    "members": [
+      43370,
+      50975,
+      63803,
+      98634,
+      93812,
+      80148,
+      102919
+    ],
+    "brandAnchor": 43370,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0216113008|ORAL|SUSPENSION|ACETAMINOPHEN 160MG/5ML + PSEUDOEPHEDRINE 15MG/5ML",
+    "aiGroupNo": "0216113008",
+    "route": "ORAL",
+    "form": "SUSPENSION",
+    "ingredientLabel": "ACETAMINOPHEN 160MG / 5ML + PSEUDOEPHEDRINE 15MG / 5ML",
+    "members": [
+      47448
+    ],
+    "brandAnchor": 47448,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0111864004|ORAL|SUSPENSION|BISMUTH SUBSALICYLATE 35.2MG",
+    "aiGroupNo": "0111864004",
+    "route": "ORAL",
+    "form": "SUSPENSION",
+    "ingredientLabel": "BISMUTH SUBSALICYLATE 35.2MG",
+    "members": [
+      47656,
+      96658
+    ],
+    "brandAnchor": 47656,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0110272001|TOPICAL|AEROSOL|MICONAZOLE 2%",
+    "aiGroupNo": "0110272001",
+    "route": "TOPICAL",
+    "form": "AEROSOL",
+    "ingredientLabel": "MICONAZOLE 2%",
+    "members": [
+      49064
+    ],
+    "brandAnchor": 49064,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102009007|RECTAL|SUPPOSITORY|ACETAMINOPHEN 120MG",
+    "aiGroupNo": "0102009007",
+    "route": "RECTAL",
+    "form": "SUPPOSITORY",
+    "ingredientLabel": "ACETAMINOPHEN 120MG",
+    "members": [
+      49357
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102009006|RECTAL|SUPPOSITORY|ACETAMINOPHEN 160MG",
+    "aiGroupNo": "0102009006",
+    "route": "RECTAL",
+    "form": "SUPPOSITORY",
+    "ingredientLabel": "ACETAMINOPHEN 160MG",
+    "members": [
+      49359
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102009001|RECTAL|SUPPOSITORY|ACETAMINOPHEN 325MG",
+    "aiGroupNo": "0102009001",
+    "route": "RECTAL",
+    "form": "SUPPOSITORY",
+    "ingredientLabel": "ACETAMINOPHEN 325MG",
+    "members": [
+      49360
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102009008|RECTAL|SUPPOSITORY|ACETAMINOPHEN 650MG",
+    "aiGroupNo": "0102009008",
+    "route": "RECTAL",
+    "form": "SUPPOSITORY",
+    "ingredientLabel": "ACETAMINOPHEN 650MG",
+    "members": [
+      49361
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0219813004|TOPICAL+VAGINAL|CREAM+KIT|CLOTRIMAZOLE 1% + CLOTRIMAZOLE 10%",
+    "aiGroupNo": "0219813004",
+    "route": "TOPICAL+VAGINAL",
+    "form": "CREAM+KIT",
+    "ingredientLabel": "CLOTRIMAZOLE 1% + CLOTRIMAZOLE 10%",
+    "members": [
+      49563
+    ],
+    "brandAnchor": 49563,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0111332001|ORAL|TABLET ORALLY-DISINTEGRATING|LOPERAMIDE 2MG",
+    "aiGroupNo": "0111332001",
+    "route": "ORAL",
+    "form": "TABLET ORALLY-DISINTEGRATING",
+    "ingredientLabel": "LOPERAMIDE 2MG",
+    "members": [
+      49614,
+      98925
+    ],
+    "brandAnchor": 49614,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0205849002|TOPICAL|CREAM|GRAMICIDIN 0.25MG + POLYMYXIN B 10000UNIT",
+    "aiGroupNo": "0205849002",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "GRAMICIDIN 0.25MG + POLYMYXIN B 10000UNIT",
+    "members": [
+      50105
+    ],
+    "brandAnchor": 50105,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0222484002|ORAL|SYRUP|DIPHENHYDRAMINE 12.5MG/5ML + MENTHOL 22MG/5ML",
+    "aiGroupNo": "0222484002",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DIPHENHYDRAMINE 12.5MG / 5ML + MENTHOL 22MG / 5ML",
+    "members": [
+      50217
+    ],
+    "brandAnchor": 50217,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0201273002|ORAL|TABLET|ACETYLSALICYLIC ACID 500MG + METHOCARBAMOL 400MG",
+    "aiGroupNo": "0201273002",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETYLSALICYLIC ACID 500MG + METHOCARBAMOL 400MG",
+    "members": [
+      50227,
+      91119,
+      73710
+    ],
+    "brandAnchor": 50227,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0212017002|ORAL|TABLET|ACETAMINOPHEN 500MG + METHOCARBAMOL 400MG",
+    "aiGroupNo": "0212017002",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + METHOCARBAMOL 400MG",
+    "members": [
+      77584,
+      84247,
+      50484,
+      93755,
+      62597
+    ],
+    "brandAnchor": 77584,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0131730001|ORAL|TABLET|FEXOFENADINE 60MG",
+    "aiGroupNo": "0131730001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "FEXOFENADINE 60MG",
+    "members": [
+      101047,
+      50779
+    ],
+    "brandAnchor": 101047,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0108883005|ORAL|SUSPENSION|IBUPROFEN 100MG/5ML",
+    "aiGroupNo": "0108883005",
+    "route": "ORAL",
+    "form": "SUSPENSION",
+    "ingredientLabel": "IBUPROFEN 100MG / 5ML",
+    "members": [
+      51742,
+      81396,
+      66076,
+      76585,
+      104264
+    ],
+    "brandAnchor": 51742,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107205001|TOPICAL|LOTION|BENZOYL PEROXIDE 5%",
+    "aiGroupNo": "0107205001",
+    "route": "TOPICAL",
+    "form": "LOTION",
+    "ingredientLabel": "BENZOYL PEROXIDE 5%",
+    "members": [
+      59870,
+      82243,
+      60085,
+      80728
+    ],
+    "brandAnchor": 59870,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0106680029|ORAL|CAPSULE|CHARCOAL ACTIVATED 225MG",
+    "aiGroupNo": "0106680029",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "CHARCOAL ACTIVATED 225MG",
+    "members": [
+      59931,
+      90525,
+      88060
+    ],
+    "brandAnchor": 59931,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0331316001|TOPICAL|OINTMENT|BACITRACIN 500UNIT + LIDOCAINE 40MG + POLYMYXIN B 10000UNIT",
+    "aiGroupNo": "0331316001",
+    "route": "TOPICAL",
+    "form": "OINTMENT",
+    "ingredientLabel": "BACITRACIN 500UNIT + LIDOCAINE 40MG + POLYMYXIN B 10000UNIT",
+    "members": [
+      60209
+    ],
+    "brandAnchor": 60209,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0231324001|TOPICAL|OINTMENT+PAD|BACITRACIN ZINC 500UNIT + POLYMYXIN B 10000UNIT",
+    "aiGroupNo": "0231324001",
+    "route": "TOPICAL",
+    "form": "OINTMENT+PAD",
+    "ingredientLabel": "BACITRACIN ZINC 500UNIT + POLYMYXIN B 10000UNIT",
+    "members": [
+      60248
+    ],
+    "brandAnchor": 60248,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0219439002|TOPICAL|CREAM|MENTHOL 1% + PRAMOXINE 1%",
+    "aiGroupNo": "0219439002",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "MENTHOL 1% + PRAMOXINE 1%",
+    "members": [
+      60289
+    ],
+    "brandAnchor": 60289,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0331818001|TOPICAL|OINTMENT|BACITRACIN ZINC 500UNIT + GRAMICIDIN 0.25MG + POLYMYXIN B 10000UNIT",
+    "aiGroupNo": "0331818001",
+    "route": "TOPICAL",
+    "form": "OINTMENT",
+    "ingredientLabel": "BACITRACIN ZINC 500UNIT + GRAMICIDIN 0.25MG + POLYMYXIN B 10000UNIT",
+    "members": [
+      60545,
+      70888
+    ],
+    "brandAnchor": 60545,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0231305001|TOPICAL|OINTMENT|BACITRACIN ZINC 500UNIT + POLYMYXIN B 10000UNIT",
+    "aiGroupNo": "0231305001",
+    "route": "TOPICAL",
+    "form": "OINTMENT",
+    "ingredientLabel": "BACITRACIN ZINC 500UNIT + POLYMYXIN B 10000UNIT",
+    "members": [
+      60546
+    ],
+    "brandAnchor": 60546,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0211863002|ORAL|TABLET CHEWABLE|BISMUTH SUBSALICYLATE 262MG + CALCIUM CARBONATE 350MG",
+    "aiGroupNo": "0211863002",
+    "route": "ORAL",
+    "form": "TABLET CHEWABLE",
+    "ingredientLabel": "BISMUTH SUBSALICYLATE 262MG + CALCIUM CARBONATE 350MG",
+    "members": [
+      60637,
+      87472
+    ],
+    "brandAnchor": 60637,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0131347005|ORAL|CAPSULE|SIMETHICONE 180MG",
+    "aiGroupNo": "0131347005",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "SIMETHICONE 180MG",
+    "members": [
+      61044,
+      78612,
+      62764,
+      68167
+    ],
+    "brandAnchor": 61044,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0101169013|ORAL|TABLET ENTERIC-COATED|ACETYLSALICYLIC ACID 81MG",
+    "aiGroupNo": "0101169013",
+    "route": "ORAL",
+    "form": "TABLET ENTERIC-COATED",
+    "ingredientLabel": "ACETYLSALICYLIC ACID 81MG",
+    "members": [
+      61080,
+      91173
+    ],
+    "brandAnchor": 61080,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0120416001|ORAL|TABLET ORALLY-DISINTEGRATING|LORATADINE 10MG",
+    "aiGroupNo": "0120416001",
+    "route": "ORAL",
+    "form": "TABLET ORALLY-DISINTEGRATING",
+    "ingredientLabel": "LORATADINE 10MG",
+    "members": [
+      61088
+    ],
+    "brandAnchor": 61088,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0233808001|ORAL|TABLET|ACETAMINOPHEN 500MG + DIPHENHYDRAMINE 25MG",
+    "aiGroupNo": "0233808001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + DIPHENHYDRAMINE 25MG",
+    "members": [
+      87122,
+      61574
+    ],
+    "brandAnchor": 87122,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0122686004|ORAL|SYRUP|CETIRIZINE 5MG/5ML",
+    "aiGroupNo": "0122686004",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "CETIRIZINE 5MG / 5ML",
+    "members": [
+      61744,
+      97710
+    ],
+    "brandAnchor": 61744,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0101169013|ORAL|TABLET DELAYED-RELEASE|ACETYLSALICYLIC ACID 80MG",
+    "aiGroupNo": "0101169013",
+    "route": "ORAL",
+    "form": "TABLET DELAYED-RELEASE",
+    "ingredientLabel": "ACETYLSALICYLIC ACID 80MG",
+    "members": [
+      79706,
+      76948,
+      97547,
+      61971
+    ],
+    "brandAnchor": 79706,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0108883007|ORAL|DROPS|IBUPROFEN 40MG",
+    "aiGroupNo": "0108883007",
+    "route": "ORAL",
+    "form": "DROPS",
+    "ingredientLabel": "IBUPROFEN 40MG",
+    "members": [
+      66270,
+      62054
+    ],
+    "brandAnchor": 66270,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0102009008|ORAL|TABLET EXTENDED-RELEASE|ACETAMINOPHEN 650MG",
+    "aiGroupNo": "0102009008",
+    "route": "ORAL",
+    "form": "TABLET EXTENDED-RELEASE",
+    "ingredientLabel": "ACETAMINOPHEN 650MG",
+    "members": [
+      70191,
+      62325,
+      102375,
+      100888,
+      75800,
+      85632,
+      94236
+    ],
+    "brandAnchor": 70191,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0411174017|ORAL|POWDER FOR SOLUTION|ACETAMINOPHEN 650MG + ASCORBIC ACID 50MG + PHENIRAMINE 20MG + PHENYLEPHRINE 10MG",
+    "aiGroupNo": "0411174017",
+    "route": "ORAL",
+    "form": "POWDER FOR SOLUTION",
+    "ingredientLabel": "ACETAMINOPHEN 650MG + ASCORBIC ACID 50MG + PHENIRAMINE 20MG + PHENYLEPHRINE 10MG",
+    "members": [
+      62330
+    ],
+    "brandAnchor": 62330,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0216113001|ORAL|TABLET|ACETAMINOPHEN 500MG + PSEUDOEPHEDRINE 60MG",
+    "aiGroupNo": "0216113001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + PSEUDOEPHEDRINE 60MG",
+    "members": [
+      96884,
+      62615,
+      73003
+    ],
+    "brandAnchor": 96884,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0301291001|TOPICAL|CREAM|GRAMICIDIN 0.25MG + LIDOCAINE 50MG + POLYMYXIN B 10000UNIT",
+    "aiGroupNo": "0301291001",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "GRAMICIDIN 0.25MG + LIDOCAINE 50MG + POLYMYXIN B 10000UNIT",
+    "members": [
+      72525,
+      62658
+    ],
+    "brandAnchor": 72525,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0104993016|TOPICAL|LIQUID|BENZALKONIUM CHLORIDE 0.15%",
+    "aiGroupNo": "0104993016",
+    "route": "TOPICAL",
+    "form": "LIQUID",
+    "ingredientLabel": "BENZALKONIUM CHLORIDE 0.13%",
+    "members": [
+      62787
+    ],
+    "brandAnchor": 62787,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0236381001|ORAL|TABLET IMMEDIATE- AND EXTENDED-RELEASE|FEXOFENADINE 60MG + PSEUDOEPHEDRINE 120MG",
+    "aiGroupNo": "0236381001",
+    "route": "ORAL",
+    "form": "TABLET IMMEDIATE- AND EXTENDED-RELEASE",
+    "ingredientLabel": "FEXOFENADINE 60MG + PSEUDOEPHEDRINE 120MG",
+    "members": [
+      63341
+    ],
+    "brandAnchor": 63341,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0225523001|TOPICAL|LOTION|CALAMINE 3% + PRAMOXINE 1%",
+    "aiGroupNo": "0225523001",
+    "route": "TOPICAL",
+    "form": "LOTION",
+    "ingredientLabel": "CALAMINE 3% + PRAMOXINE 1%",
+    "members": [
+      63620
+    ],
+    "brandAnchor": 63620,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0437904001|TOPICAL|OINTMENT|BACITRACIN ZINC 500UNIT + GRAMICIDIN 0.25MG + LIDOCAINE 50MG + POLYMYXIN B 10000UNIT",
+    "aiGroupNo": "0437904001",
+    "route": "TOPICAL",
+    "form": "OINTMENT",
+    "ingredientLabel": "BACITRACIN ZINC 500UNIT + GRAMICIDIN 0.25MG + LIDOCAINE 50MG + POLYMYXIN B 10000UNIT",
+    "members": [
+      64139
+    ],
+    "brandAnchor": 64139,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0213979002|TOPICAL|LIQUID|CHLORHEXIDINE GLUCONATE 0.5% + ISOPROPYL ALCOHOL 70%",
+    "aiGroupNo": "0213979002",
+    "route": "TOPICAL",
+    "form": "LIQUID",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 0.5% + ISOPROPYL ALCOHOL 70%",
+    "members": [
+      64263
+    ],
+    "brandAnchor": 64263,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0120416002|ORAL|SYRUP|LORATADINE 5MG/5ML",
+    "aiGroupNo": "0120416002",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "LORATADINE 5MG / 5ML",
+    "members": [
+      65175
+    ],
+    "brandAnchor": 65175,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0108883004|ORAL|CAPSULE|IBUPROFEN 200MG",
+    "aiGroupNo": "0108883004",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "IBUPROFEN 200MG",
+    "members": [
+      97565,
+      65432,
+      78292,
+      98438,
+      84240,
+      86208,
+      103444
+    ],
+    "brandAnchor": 97565,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107332004|OPHTHALMIC|DROPS|CARBOXYMETHYLCELLULOSE 0.25%",
+    "aiGroupNo": "0107332004",
+    "route": "OPHTHALMIC",
+    "form": "DROPS",
+    "ingredientLabel": "CARBOXYMETHYLCELLULOSE 0.25%",
+    "members": [
+      65756
+    ],
+    "brandAnchor": 65756,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0101169013|ORAL|TABLET DELAYED-RELEASE|ACETYLSALICYLIC ACID 81MG",
+    "aiGroupNo": "0101169013",
+    "route": "ORAL",
+    "form": "TABLET DELAYED-RELEASE",
+    "ingredientLabel": "ACETYLSALICYLIC ACID 81MG",
+    "members": [
+      91745,
+      65982,
+      68992,
+      85732,
+      90486,
+      76929,
+      84814
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0201347002|OPHTHALMIC|SOLUTION|GLYCERINE 0.3% + PROPYLENE GLYCOL 1%",
+    "aiGroupNo": "0201347002",
+    "route": "OPHTHALMIC",
+    "form": "SOLUTION",
+    "ingredientLabel": "GLYCERINE 0.3% + PROPYLENE GLYCOL 1%",
+    "members": [
+      66081
+    ],
+    "brandAnchor": 66081,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0213722002|OPHTHALMIC|DROPS|NAPHAZOLINE 0.05% + PHENIRAMINE 0.3%",
+    "aiGroupNo": "0213722002",
+    "route": "OPHTHALMIC",
+    "form": "DROPS",
+    "ingredientLabel": "NAPHAZOLINE 0.025% + PHENIRAMINE 0.3%",
+    "members": [
+      66582
+    ],
+    "brandAnchor": 66582,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0131730002|ORAL|TABLET|FEXOFENADINE 120MG",
+    "aiGroupNo": "0131730002",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "FEXOFENADINE 120MG",
+    "members": [
+      66647
+    ],
+    "brandAnchor": 66647,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0104993004|TOPICAL|LIQUID|BENZALKONIUM CHLORIDE 0.1%",
+    "aiGroupNo": "0104993004",
+    "route": "TOPICAL",
+    "form": "LIQUID",
+    "ingredientLabel": "BENZALKONIUM CHLORIDE 0.1%",
+    "members": [
+      70601,
+      66672
+    ],
+    "brandAnchor": 70601,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0106942005|TOPICAL|LIQUID|CHLOROXYLENOL 1%",
+    "aiGroupNo": "0106942005",
+    "route": "TOPICAL",
+    "form": "LIQUID",
+    "ingredientLabel": "CHLOROXYLENOL 1%",
+    "members": [
+      66677
+    ],
+    "brandAnchor": 66677,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0341105001|ORAL|TABLET CHEWABLE|CALCIUM CARBONATE 800MG + FAMOTIDINE 10MG + MAGNESIUM HYDROXIDE 165MG",
+    "aiGroupNo": "0341105001",
+    "route": "ORAL",
+    "form": "TABLET CHEWABLE",
+    "ingredientLabel": "CALCIUM CARBONATE 800MG + FAMOTIDINE 10MG + MAGNESIUM HYDROXIDE 165MG",
+    "members": [
+      66915
+    ],
+    "brandAnchor": 66915,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102078001|ORAL|TABLET EXTENDED-RELEASE|ORPHENADRINE 100MG",
+    "aiGroupNo": "0102078001",
+    "route": "ORAL",
+    "form": "TABLET EXTENDED-RELEASE",
+    "ingredientLabel": "ORPHENADRINE 100MG",
+    "members": [
+      67477
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0124466002|ORAL|LOZENGE|HEXYLRESORCINOL 2.4MG",
+    "aiGroupNo": "0124466002",
+    "route": "ORAL",
+    "form": "LOZENGE",
+    "ingredientLabel": "HEXYLRESORCINOL 2.4MG",
+    "members": [
+      67829
+    ],
+    "brandAnchor": 67829,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0143961001|ORAL|TABLET|DESLORATADINE 5MG",
+    "aiGroupNo": "0143961001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "DESLORATADINE 5MG",
+    "members": [
+      67861,
+      103474,
+      78346
+    ],
+    "brandAnchor": 67861,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0101169013|ORAL|TABLET CHEWABLE|ACETYLSALICYLIC ACID 81MG",
+    "aiGroupNo": "0101169013",
+    "route": "ORAL",
+    "form": "TABLET CHEWABLE",
+    "ingredientLabel": "ACETYLSALICYLIC ACID 81MG",
+    "members": [
+      77528,
+      67917,
+      87994
+    ],
+    "brandAnchor": 77528,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0110272004|VAGINAL|CREAM|MICONAZOLE 4%",
+    "aiGroupNo": "0110272004",
+    "route": "VAGINAL",
+    "form": "CREAM",
+    "ingredientLabel": "MICONAZOLE 4%",
+    "members": [
+      67948
+    ],
+    "brandAnchor": 67948,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0316099002|ORAL|TABLET|ACETAMINOPHEN 325MG + CHLORPHENIRAMINE 2MG + PHENYLEPHRINE 5MG",
+    "aiGroupNo": "0316099002",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 325MG + CHLORPHENIRAMINE 2MG + PHENYLEPHRINE 5MG",
+    "members": [
+      68230
+    ],
+    "brandAnchor": 68230,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0103565009|TOPICAL|CREAM|LIDOCAINE 4%",
+    "aiGroupNo": "0103565009",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "LIDOCAINE 4%",
+    "members": [
+      103697,
+      68513
+    ],
+    "brandAnchor": 103697,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0103740004|TOPICAL|CREAM|TROLAMINE SALICYLATE 20%",
+    "aiGroupNo": "0103740004",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "TROLAMINE SALICYLATE 20%",
+    "members": [
+      68558,
+      96248,
+      89811
+    ],
+    "brandAnchor": 68558,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107332002|OPHTHALMIC|SOLUTION|CARBOXYMETHYLCELLULOSE 1%",
+    "aiGroupNo": "0107332002",
+    "route": "OPHTHALMIC",
+    "form": "SOLUTION",
+    "ingredientLabel": "CARBOXYMETHYLCELLULOSE 1%",
+    "members": [
+      68637
+    ],
+    "brandAnchor": 68637,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102537001|TOPICAL|AEROSOL|TOLNAFTATE 1%",
+    "aiGroupNo": "0102537001",
+    "route": "TOPICAL",
+    "form": "AEROSOL",
+    "ingredientLabel": "TOLNAFTATE 1%",
+    "members": [
+      80479,
+      68767
+    ],
+    "brandAnchor": 80479,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0337541001|ORAL|TABLET|ACETAMINOPHEN 500MG + DOXYLAMINE 6.25MG + PSEUDOEPHEDRINE 30MG",
+    "aiGroupNo": "0337541001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + DOXYLAMINE 6.25MG + PSEUDOEPHEDRINE 30MG",
+    "members": [
+      69017
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0231812001|ORAL|TABLET|LOPERAMIDE 2MG + SIMETHICONE 125MG",
+    "aiGroupNo": "0231812001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "LOPERAMIDE 2MG + SIMETHICONE 125MG",
+    "members": [
+      69200
+    ],
+    "brandAnchor": 69200,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0421980003|ORAL|SYRUP|ACETAMINOPHEN 500MG/15ML + DEXTROMETHORPHAN 15MG/15ML + GUAIFENESIN 100MG/15ML + PSEUDOEPHEDRINE 30MG/15ML",
+    "aiGroupNo": "0421980003",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "ACETAMINOPHEN 500MG / 15ML + DEXTROMETHORPHAN 15MG / 15ML + GUAIFENESIN 100MG / 15ML + PSEUDOEPHEDRINE 30MG / 15ML",
+    "members": [
+      85065,
+      69814,
+      85106,
+      80682
+    ],
+    "brandAnchor": 85065,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107629004|TOPICAL|WIPE|CHLORHEXIDINE GLUCONATE 2%",
+    "aiGroupNo": "0107629004",
+    "route": "TOPICAL",
+    "form": "WIPE",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 2%",
+    "members": [
+      69848
+    ],
+    "brandAnchor": 69848,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102747004|ORAL|CAPSULE|DIMENHYDRINATE 50MG",
+    "aiGroupNo": "0102747004",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "DIMENHYDRINATE 50MG",
+    "members": [
+      69984,
+      98298
+    ],
+    "brandAnchor": 69984,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0103565001|TOPICAL|CREAM|LIDOCAINE 5%",
+    "aiGroupNo": "0103565001",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "LIDOCAINE 5%",
+    "members": [
+      93551,
+      83969,
+      101485,
+      70063
+    ],
+    "brandAnchor": 93551,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0233086001|TOPICAL|LOTION|PRAMOXINE 1% + ZINC 0.1%",
+    "aiGroupNo": "0233086001",
+    "route": "TOPICAL",
+    "form": "LOTION",
+    "ingredientLabel": "PRAMOXINE 1% + ZINC 0.1%",
+    "members": [
+      70300
+    ],
+    "brandAnchor": 70300,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0247823001|ORAL|TABLET EXTENDED-RELEASE|CETIRIZINE 5MG + PSEUDOEPHEDRINE 120MG",
+    "aiGroupNo": "0247823001",
+    "route": "ORAL",
+    "form": "TABLET EXTENDED-RELEASE",
+    "ingredientLabel": "CETIRIZINE 5MG + PSEUDOEPHEDRINE 120MG",
+    "members": [
+      70312
+    ],
+    "brandAnchor": 70312,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0359110001|OPHTHALMIC|SOLUTION|DEXTRAN 70 0.1% + GLYCERINE 0.2% + HYPROMELLOSE 0.3%",
+    "aiGroupNo": "0359110001",
+    "route": "OPHTHALMIC",
+    "form": "SOLUTION",
+    "ingredientLabel": "DEXTRAN 70 0.1% + GLYCERINE 0.2% + HYPROMELLOSE 0.3%",
+    "members": [
+      70567
+    ],
+    "brandAnchor": 70567,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0108883008|ORAL|TABLET CHEWABLE|IBUPROFEN 100MG",
+    "aiGroupNo": "0108883008",
+    "route": "ORAL",
+    "form": "TABLET CHEWABLE",
+    "ingredientLabel": "IBUPROFEN 100MG",
+    "members": [
+      70575,
+      81395
+    ],
+    "brandAnchor": 70575,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0414717002|ORAL|POWDER FOR SOLUTION|ACETAMINOPHEN 650MG + CHLORPHENIRAMINE 4MG + DEXTROMETHORPHAN 20MG + PSEUDOEPHEDRINE 60MG",
+    "aiGroupNo": "0414717002",
+    "route": "ORAL",
+    "form": "POWDER FOR SOLUTION",
+    "ingredientLabel": "ACETAMINOPHEN 650MG + CHLORPHENIRAMINE 4MG + DEXTROMETHORPHAN 20MG + PSEUDOEPHEDRINE 60MG",
+    "members": [
+      83004,
+      71050
+    ],
+    "brandAnchor": 83004,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0220398001|TOPICAL HOSPITAL/HC FACILITIES|LOTION|ALCOHOL 61% + CHLORHEXIDINE GLUCONATE 1%",
+    "aiGroupNo": "0220398001",
+    "route": "TOPICAL HOSPITAL/HC FACILITIES",
+    "form": "LOTION",
+    "ingredientLabel": "ALCOHOL 61% + CHLORHEXIDINE GLUCONATE 1%",
+    "members": [
+      71113
+    ],
+    "brandAnchor": 71113,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0131347005|ORAL|TABLET|SIMETHICONE 180MG",
+    "aiGroupNo": "0131347005",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "SIMETHICONE 180MG",
+    "members": [
+      71367
+    ],
+    "brandAnchor": 71367,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0248961001|ORAL|TABLET|IBUPROFEN 200MG + METHOCARBAMOL 500MG",
+    "aiGroupNo": "0248961001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "IBUPROFEN 200MG + METHOCARBAMOL 500MG",
+    "members": [
+      90351,
+      71388,
+      90673
+    ],
+    "brandAnchor": 90351,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0143961002|ORAL|SYRUP|DESLORATADINE 0.5MG",
+    "aiGroupNo": "0143961002",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DESLORATADINE 0.5MG",
+    "members": [
+      71435
+    ],
+    "brandAnchor": 71435,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0219598002|OPHTHALMIC|SOLUTION|POLYVINYL ALCOHOL 5MG + POVIDONE 6MG",
+    "aiGroupNo": "0219598002",
+    "route": "OPHTHALMIC",
+    "form": "SOLUTION",
+    "ingredientLabel": "POLYVINYL ALCOHOL 5MG + POVIDONE 6MG",
+    "members": [
+      71788
+    ],
+    "brandAnchor": 71788,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102639006|TOPICAL|CREAM|DIPHENHYDRAMINE 2%",
+    "aiGroupNo": "0102639006",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "DIPHENHYDRAMINE 2%",
+    "members": [
+      71812
+    ],
+    "brandAnchor": 71812,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0332648002|OPHTHALMIC|LIQUID|GLYCERINE 0.25% + NAPHAZOLINE 0% + ZINC 0.25%",
+    "aiGroupNo": "0332648002",
+    "route": "OPHTHALMIC",
+    "form": "LIQUID",
+    "ingredientLabel": "GLYCERINE 0.26% + NAPHAZOLINE 0.012% + ZINC 0.25%",
+    "members": [
+      72379
+    ],
+    "brandAnchor": 72379,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0103282002|OPHTHALMIC|LIQUID|NAPHAZOLINE 0%",
+    "aiGroupNo": "0103282002",
+    "route": "OPHTHALMIC",
+    "form": "LIQUID",
+    "ingredientLabel": "NAPHAZOLINE 0.012%",
+    "members": [
+      72380
+    ],
+    "brandAnchor": 72380,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0108883002|ORAL|CAPSULE|IBUPROFEN 400MG",
+    "aiGroupNo": "0108883002",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "IBUPROFEN 400MG",
+    "members": [
+      90021,
+      106345,
+      72567,
+      86413,
+      84241,
+      86209
+    ],
+    "brandAnchor": 90021,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0124685001|NASAL|SPRAY METERED-DOSE|FLUTICASONE PROPIONATE 50MCG",
+    "aiGroupNo": "0124685001",
+    "route": "NASAL",
+    "form": "SPRAY METERED-DOSE",
+    "ingredientLabel": "FLUTICASONE PROPIONATE 50MCG",
+    "members": [
+      72648,
+      94795
+    ],
+    "brandAnchor": 72648,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0200826005|ORAL|SYRUP|DEXTROMETHORPHAN 10MG/5ML + GUAIFENESIN 100MG/5ML",
+    "aiGroupNo": "0200826005",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DEXTROMETHORPHAN 10MG / 5ML + GUAIFENESIN 100MG / 5ML",
+    "members": [
+      72923
+    ],
+    "brandAnchor": 72923,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0349765001|ORAL|TABLET|CHLORPHENIRAMINE 2MG + IBUPROFEN 200MG + PSEUDOEPHEDRINE 30MG",
+    "aiGroupNo": "0349765001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "CHLORPHENIRAMINE 2MG + IBUPROFEN 200MG + PSEUDOEPHEDRINE 30MG",
+    "members": [
+      73002,
+      75304,
+      84427
+    ],
+    "brandAnchor": 73002,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107332004|OPHTHALMIC|SOLUTION|CARBOXYMETHYLCELLULOSE 0.25%",
+    "aiGroupNo": "0107332004",
+    "route": "OPHTHALMIC",
+    "form": "SOLUTION",
+    "ingredientLabel": "CARBOXYMETHYLCELLULOSE 0.25%",
+    "members": [
+      73225
+    ],
+    "brandAnchor": 73225,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0222394001|ORAL|CAPSULE|IBUPROFEN 200MG + PSEUDOEPHEDRINE 30MG",
+    "aiGroupNo": "0222394001",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "IBUPROFEN 200MG + PSEUDOEPHEDRINE 30MG",
+    "members": [
+      73565
+    ],
+    "brandAnchor": 73565,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0213979006|TOPICAL|SOLUTION|CHLORHEXIDINE GLUCONATE 2% + ISOPROPYL ALCOHOL 70%",
+    "aiGroupNo": "0213979006",
+    "route": "TOPICAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 2% + ISOPROPYL ALCOHOL 70%",
+    "members": [
+      97469,
+      73640
+    ],
+    "brandAnchor": 97469,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0550062001|ORAL|SYRUP|ACETAMINOPHEN 500MG/15ML + CHLORPHENIRAMINE 2MG/15ML + DEXTROMETHORPHAN 15MG/15ML + GUAIFENESIN 100MG/15ML + PSEUDOEPHEDRINE 30MG/15ML",
+    "aiGroupNo": "0550062001",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "ACETAMINOPHEN 500MG / 15ML + CHLORPHENIRAMINE 2MG / 15ML + DEXTROMETHORPHAN 15MG / 15ML + GUAIFENESIN 100MG / 15ML + PSEUDOEPHEDRINE 30MG / 15ML",
+    "members": [
+      73724,
+      85049
+    ],
+    "brandAnchor": 73724,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0100807007|ORAL|CAPSULE|DEXTROMETHORPHAN 15MG",
+    "aiGroupNo": "0100807007",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "DEXTROMETHORPHAN 15MG",
+    "members": [
+      73742
+    ],
+    "brandAnchor": 73742,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102747003|ORAL|TABLET COMBINED RELEASE|DIMENHYDRINATE 100MG",
+    "aiGroupNo": "0102747003",
+    "route": "ORAL",
+    "form": "TABLET COMBINED RELEASE",
+    "ingredientLabel": "DIMENHYDRINATE 100MG",
+    "members": [
+      73930
+    ],
+    "brandAnchor": 73930,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0211744002|ORAL|TABLET|ACETAMINOPHEN 500MG + CAFFEINE 65MG",
+    "aiGroupNo": "0211744002",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + CAFFEINE 65MG",
+    "members": [
+      73935,
+      103325,
+      75038
+    ],
+    "brandAnchor": 73935,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0319503004|ORAL|CAPSULE|ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 15MG + PSEUDOEPHEDRINE 30MG",
+    "aiGroupNo": "0319503004",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 15MG + PSEUDOEPHEDRINE 30MG",
+    "members": [
+      79278,
+      74414
+    ],
+    "brandAnchor": 79278,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0419805008|ORAL|CAPSULE|ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 15MG + DOXYLAMINE 6.25MG + PSEUDOEPHEDRINE 30MG",
+    "aiGroupNo": "0419805008",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 15MG + DOXYLAMINE 6.25MG + PSEUDOEPHEDRINE 30MG",
+    "members": [
+      82084,
+      74415
+    ],
+    "brandAnchor": 82084,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0245861001|ORAL|TABLET IMMEDIATE- AND EXTENDED-RELEASE|LORATADINE 10MG + PSEUDOEPHEDRINE 240MG",
+    "aiGroupNo": "0245861001",
+    "route": "ORAL",
+    "form": "TABLET IMMEDIATE- AND EXTENDED-RELEASE",
+    "ingredientLabel": "LORATADINE 10MG + PSEUDOEPHEDRINE 240MG",
+    "members": [
+      74601
+    ],
+    "brandAnchor": 74601,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0250443001|ORAL|LOZENGE|HEXYLRESORCINOL 2.4MG + LEVOMENTHOL 4MG",
+    "aiGroupNo": "0250443001",
+    "route": "ORAL",
+    "form": "LOZENGE",
+    "ingredientLabel": "HEXYLRESORCINOL 2.4MG + LEVOMENTHOL 4MG",
+    "members": [
+      74940
+    ],
+    "brandAnchor": 74940,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0219813002|TOPICAL+VAGINAL|CREAM+KIT+VAGINAL TABLET|CLOTRIMAZOLE 1% + CLOTRIMAZOLE 200MG",
+    "aiGroupNo": "0219813002",
+    "route": "TOPICAL+VAGINAL",
+    "form": "CREAM+KIT+VAGINAL TABLET",
+    "ingredientLabel": "CLOTRIMAZOLE 1% + CLOTRIMAZOLE 200MG",
+    "members": [
+      74951
+    ],
+    "brandAnchor": 74951,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0219813001|TOPICAL+VAGINAL|CREAM+KIT+VAGINAL TABLET|CLOTRIMAZOLE 1% + CLOTRIMAZOLE 500MG",
+    "aiGroupNo": "0219813001",
+    "route": "TOPICAL+VAGINAL",
+    "form": "CREAM+KIT+VAGINAL TABLET",
+    "ingredientLabel": "CLOTRIMAZOLE 1% + CLOTRIMAZOLE 500MG",
+    "members": [
+      74952
+    ],
+    "brandAnchor": 74952,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0450661001|ORAL|SYRUP|DEXTROMETHORPHAN 15MG/5ML + GUAIFENESIN 200MG/5ML + MENTHOL 15MG/5ML + PSEUDOEPHEDRINE 30MG/5ML",
+    "aiGroupNo": "0450661001",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DEXTROMETHORPHAN 15MG / 5ML + GUAIFENESIN 200MG / 5ML + MENTHOL 15MG / 5ML + PSEUDOEPHEDRINE 30MG / 5ML",
+    "members": [
+      75087
+    ],
+    "brandAnchor": 75087,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0350662001|ORAL|SYRUP|DEXTROMETHORPHAN 15MG/5ML + GUAIFENESIN 200MG/5ML + MENTHOL 15MG/5ML",
+    "aiGroupNo": "0350662001",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DEXTROMETHORPHAN 15MG / 5ML + GUAIFENESIN 200MG / 5ML + MENTHOL 15MG / 5ML",
+    "members": [
+      75088,
+      92082,
+      80637
+    ],
+    "brandAnchor": 75088,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0250663001|ORAL|SYRUP|GUAIFENESIN 200MG/5ML + MENTHOL 15MG/5ML",
+    "aiGroupNo": "0250663001",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "GUAIFENESIN 200MG / 5ML + MENTHOL 15MG / 5ML",
+    "members": [
+      80636,
+      97024,
+      75089
+    ],
+    "brandAnchor": 80636,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107629004|TOPICAL COMMERCIAL+TOPICAL HOSPITAL/HC FACILITIES|SOLUTION|CHLORHEXIDINE GLUCONATE 2%",
+    "aiGroupNo": "0107629004",
+    "route": "TOPICAL COMMERCIAL+TOPICAL HOSPITAL/HC FACILITIES",
+    "form": "SOLUTION",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 2%",
+    "members": [
+      75254
+    ],
+    "brandAnchor": 75254,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0106834010|BUCCAL|MOUTHWASH|CETYLPYRIDINIUM CHLORIDE 0.05%",
+    "aiGroupNo": "0106834010",
+    "route": "BUCCAL",
+    "form": "MOUTHWASH",
+    "ingredientLabel": "CETYLPYRIDINIUM CHLORIDE 0.07%",
+    "members": [
+      99377,
+      100015,
+      106728,
+      75427,
+      100089,
+      98513
+    ],
+    "brandAnchor": 99377,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0104993027|TOPICAL|LIQUID|BENZALKONIUM CHLORIDE 0.15%",
+    "aiGroupNo": "0104993027",
+    "route": "TOPICAL",
+    "form": "LIQUID",
+    "ingredientLabel": "BENZALKONIUM CHLORIDE 0.15%",
+    "members": [
+      75580
+    ],
+    "brandAnchor": 75580,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0351264003|ORAL|CAPSULE|ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 10MG + PHENYLEPHRINE 5MG",
+    "aiGroupNo": "0351264003",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 10MG + PHENYLEPHRINE 5MG",
+    "members": [
+      75828
+    ],
+    "brandAnchor": 75828,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0351552003|ORAL|CAPSULE|ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 15MG + DOXYLAMINE 6.25MG",
+    "aiGroupNo": "0351552003",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 15MG + DOXYLAMINE 6.25MG",
+    "members": [
+      75829
+    ],
+    "brandAnchor": 75829,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0200625005|ORAL|SYRUP|CHLORPHENIRAMINE 2MG/15ML + DEXTROMETHORPHAN 15MG/15ML",
+    "aiGroupNo": "0200625005",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "CHLORPHENIRAMINE 2MG / 15ML + DEXTROMETHORPHAN 15MG / 15ML",
+    "members": [
+      75882
+    ],
+    "brandAnchor": 75882,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0118722001|ORAL|TABLET|FAMOTIDINE 20MG",
+    "aiGroupNo": "0118722001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "FAMOTIDINE 20MG",
+    "members": [
+      75884,
+      102708
+    ],
+    "brandAnchor": 75884,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0101506001|ORAL|TABLET DELAYED-RELEASE|BISACODYL 5MG",
+    "aiGroupNo": "0101506001",
+    "route": "ORAL",
+    "form": "TABLET DELAYED-RELEASE",
+    "ingredientLabel": "BISACODYL 5MG",
+    "members": [
+      88276,
+      75889
+    ],
+    "brandAnchor": 88276,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107579001|OPHTHALMIC|SOLUTION|TETRAHYDROZOLINE 0.05%",
+    "aiGroupNo": "0107579001",
+    "route": "OPHTHALMIC",
+    "form": "SOLUTION",
+    "ingredientLabel": "TETRAHYDROZOLINE 0.05%",
+    "members": [
+      75893
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0217793003|ORAL|TABLET|ACETAMINOPHEN 500MG + PHENYLEPHRINE 5MG",
+    "aiGroupNo": "0217793003",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + PHENYLEPHRINE 5MG",
+    "members": [
+      76168,
+      75895
+    ],
+    "brandAnchor": 76168,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0351558001|ORAL|CAPSULE|ACETAMINOPHEN 325MG + DOXYLAMINE 6.25MG + PHENYLEPHRINE 5MG",
+    "aiGroupNo": "0351558001",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "ACETAMINOPHEN 325MG + DOXYLAMINE 6.25MG + PHENYLEPHRINE 5MG",
+    "members": [
+      75929
+    ],
+    "brandAnchor": 75929,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0217793002|ORAL|CAPSULE|ACETAMINOPHEN 325MG + PHENYLEPHRINE 5MG",
+    "aiGroupNo": "0217793002",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "ACETAMINOPHEN 325MG + PHENYLEPHRINE 5MG",
+    "members": [
+      75930
+    ],
+    "brandAnchor": 75930,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0324673001|ORAL|TABLET|ACETAMINOPHEN 500MG + CAFFEINE 60MG + PYRILAMINE 15MG",
+    "aiGroupNo": "0324673001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + CAFFEINE 60MG + PYRILAMINE 15MG",
+    "members": [
+      76086
+    ],
+    "brandAnchor": 76086,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0316117002|ORAL|TABLET|ACETAMINOPHEN 500MG + PAMABROM 25MG + PYRILAMINE 15MG",
+    "aiGroupNo": "0316117002",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + PAMABROM 25MG + PYRILAMINE 15MG",
+    "members": [
+      76087
+    ],
+    "brandAnchor": 76087,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0351264005|ORAL|TABLET|ACETAMINOPHEN 500MG + DEXTROMETHORPHAN 10MG + PHENYLEPHRINE 5MG",
+    "aiGroupNo": "0351264005",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + DEXTROMETHORPHAN 10MG + PHENYLEPHRINE 5MG",
+    "members": [
+      76167,
+      76185
+    ],
+    "brandAnchor": 76167,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0316099001|ORAL|TABLET|ACETAMINOPHEN 500MG + CHLORPHENIRAMINE 2MG + PHENYLEPHRINE 5MG",
+    "aiGroupNo": "0316099001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + CHLORPHENIRAMINE 2MG + PHENYLEPHRINE 5MG",
+    "members": [
+      76170,
+      79195
+    ],
+    "brandAnchor": 76170,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0451565002|ORAL|TABLET|ACETAMINOPHEN 500MG + CHLORPHENIRAMINE 2MG + DEXTROMETHORPHAN 10MG + PHENYLEPHRINE 5MG",
+    "aiGroupNo": "0451565002",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + CHLORPHENIRAMINE 2MG + DEXTROMETHORPHAN 10MG + PHENYLEPHRINE 5MG",
+    "members": [
+      76171,
+      76192
+    ],
+    "brandAnchor": 76171,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0106942005|TOPICAL|GEL|CHLOROXYLENOL 1%",
+    "aiGroupNo": "0106942005",
+    "route": "TOPICAL",
+    "form": "GEL",
+    "ingredientLabel": "CHLOROXYLENOL 1%",
+    "members": [
+      76258
+    ],
+    "brandAnchor": 76258,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0351606001|ORAL|SUSPENSION|ACETAMINOPHEN 160MG/5ML + DEXTROMETHORPHAN 5MG/5ML + DIPHENHYDRAMINE 6.25MG/5ML",
+    "aiGroupNo": "0351606001",
+    "route": "ORAL",
+    "form": "SUSPENSION",
+    "ingredientLabel": "ACETAMINOPHEN 160MG / 5ML + DEXTROMETHORPHAN 5MG / 5ML + DIPHENHYDRAMINE 6.25MG / 5ML",
+    "members": [
+      76469,
+      90063,
+      79122
+    ],
+    "brandAnchor": 76469,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0251634001|ORAL|SOLUTION|ACETAMINOPHEN 325MG/5ML + MENTHOL 20MG/5ML",
+    "aiGroupNo": "0251634001",
+    "route": "ORAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "ACETAMINOPHEN 325MG / 5ML + MENTHOL 20MG / 5ML",
+    "members": [
+      76530
+    ],
+    "brandAnchor": 76530,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0117081001|TOPICAL|OINTMENT|MUPIROCIN 2%",
+    "aiGroupNo": "0117081001",
+    "route": "TOPICAL",
+    "form": "OINTMENT",
+    "ingredientLabel": "MUPIROCIN 2%",
+    "members": [
+      76560
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0248141001|TOPICAL|SOLUTION|DIPHENHYDRAMINE 2% + ZINC 0.1%",
+    "aiGroupNo": "0248141001",
+    "route": "TOPICAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "DIPHENHYDRAMINE 2% + ZINC 0.1%",
+    "members": [
+      76653,
+      96880
+    ],
+    "brandAnchor": 76653,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0108865003|TOPICAL|SOLUTION|TRICLOSAN 0.3%",
+    "aiGroupNo": "0108865003",
+    "route": "TOPICAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "TRICLOSAN 0.3%",
+    "members": [
+      76939
+    ],
+    "brandAnchor": 76939,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0250663002|ORAL|SYRUP|GUAIFENESIN 100MG/5ML + MENTHOL 10MG/5ML",
+    "aiGroupNo": "0250663002",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "GUAIFENESIN 100MG / 5ML + MENTHOL 10MG / 5ML",
+    "members": [
+      83190,
+      77454
+    ],
+    "brandAnchor": 83190,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107205004|TOPICAL|LOTION|BENZOYL PEROXIDE 2.5%",
+    "aiGroupNo": "0107205004",
+    "route": "TOPICAL",
+    "form": "LOTION",
+    "ingredientLabel": "BENZOYL PEROXIDE 2.5%",
+    "members": [
+      91785,
+      91786,
+      77590,
+      95111
+    ],
+    "brandAnchor": 91785,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0214226001|OPHTHALMIC|SOLUTION|TETRAHYDROZOLINE 0.05% + ZINC 0.25%",
+    "aiGroupNo": "0214226001",
+    "route": "OPHTHALMIC",
+    "form": "SOLUTION",
+    "ingredientLabel": "TETRAHYDROZOLINE 0.05% + ZINC 0.25%",
+    "members": [
+      93478,
+      77592
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0104993016|TOPICAL HOUSEHOLD|SOLUTION|BENZALKONIUM CHLORIDE 0.15%",
+    "aiGroupNo": "0104993016",
+    "route": "TOPICAL HOUSEHOLD",
+    "form": "SOLUTION",
+    "ingredientLabel": "BENZALKONIUM CHLORIDE 0.13%",
+    "members": [
+      89148,
+      95297,
+      77627,
+      95295
+    ],
+    "brandAnchor": 89148,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0414717015|ORAL|SYRUP|ACETAMINOPHEN 500MG/15ML + CHLORPHENIRAMINE 2MG/15ML + DEXTROMETHORPHAN 15MG/15ML + PSEUDOEPHEDRINE 30MG/15ML",
+    "aiGroupNo": "0414717015",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "ACETAMINOPHEN 500MG / 15ML + CHLORPHENIRAMINE 2MG / 15ML + DEXTROMETHORPHAN 15MG / 15ML + PSEUDOEPHEDRINE 30MG / 15ML",
+    "members": [
+      77675
+    ],
+    "brandAnchor": 77675,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0111332003|ORAL|SOLUTION|LOPERAMIDE 2MG/15ML",
+    "aiGroupNo": "0111332003",
+    "route": "ORAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "LOPERAMIDE 2MG / 15ML",
+    "members": [
+      77716
+    ],
+    "brandAnchor": 77716,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0107629004|TOPICAL COMMERCIAL|SOLUTION|CHLORHEXIDINE GLUCONATE 2%",
+    "aiGroupNo": "0107629004",
+    "route": "TOPICAL COMMERCIAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 2%",
+    "members": [
+      78057,
+      101576
+    ],
+    "brandAnchor": 78057,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0421980002|ORAL|CAPSULE|ACETAMINOPHEN 250MG + DEXTROMETHORPHAN 10MG + GUAIFENESIN 100MG + PSEUDOEPHEDRINE 30MG",
+    "aiGroupNo": "0421980002",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "ACETAMINOPHEN 250MG + DEXTROMETHORPHAN 10MG + GUAIFENESIN 100MG + PSEUDOEPHEDRINE 30MG",
+    "members": [
+      78062,
+      82152,
+      79088,
+      91260,
+      83481
+    ],
+    "brandAnchor": 78062,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107629001|TOPICAL COMMERCIAL|SOLUTION|CHLORHEXIDINE GLUCONATE 4%",
+    "aiGroupNo": "0107629001",
+    "route": "TOPICAL COMMERCIAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 4%",
+    "members": [
+      78102
+    ],
+    "brandAnchor": 78102,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102639003|ORAL|ELIXIR|DIPHENHYDRAMINE 12.5MG/5ML",
+    "aiGroupNo": "0102639003",
+    "route": "ORAL",
+    "form": "ELIXIR",
+    "ingredientLabel": "DIPHENHYDRAMINE 12.5MG / 5ML",
+    "members": [
+      78380
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0351264004|ORAL|LIQUID|ACETAMINOPHEN 650MG/30ML + DEXTROMETHORPHAN 20MG/30ML + PHENYLEPHRINE 10MG/30ML",
+    "aiGroupNo": "0351264004",
+    "route": "ORAL",
+    "form": "LIQUID",
+    "ingredientLabel": "ACETAMINOPHEN 650MG / 30ML + DEXTROMETHORPHAN 20MG / 30ML + PHENYLEPHRINE 10MG / 30ML",
+    "members": [
+      78620
+    ],
+    "brandAnchor": 78620,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0320960002|OPHTHALMIC|SOLUTION|POLYVINYL ALCOHOL 0.5% + POVIDONE 0.6% + TETRAHYDROZOLINE 0.05%",
+    "aiGroupNo": "0320960002",
+    "route": "OPHTHALMIC",
+    "form": "SOLUTION",
+    "ingredientLabel": "POLYVINYL ALCOHOL 0.5% + POVIDONE 0.6% + TETRAHYDROZOLINE 0.05%",
+    "members": [
+      78699
+    ],
+    "brandAnchor": 78699,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0113934003|ORAL|TABLET|NAPROXEN 220MG",
+    "aiGroupNo": "0113934003",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "NAPROXEN 220MG",
+    "members": [
+      78704,
+      84744,
+      88106
+    ],
+    "brandAnchor": 78704,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107332003|OPHTHALMIC|SOLUTION|CARBOXYMETHYLCELLULOSE 0.5%",
+    "aiGroupNo": "0107332003",
+    "route": "OPHTHALMIC",
+    "form": "SOLUTION",
+    "ingredientLabel": "CARBOXYMETHYLCELLULOSE 0.5%",
+    "members": [
+      78932
+    ],
+    "brandAnchor": 78932,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0104367009|TOPICAL|WIPE|BENZETHONIUM CHLORIDE 0.3%",
+    "aiGroupNo": "0104367009",
+    "route": "TOPICAL",
+    "form": "WIPE",
+    "ingredientLabel": "BENZETHONIUM CHLORIDE 0.3%",
+    "members": [
+      78942
+    ],
+    "brandAnchor": 78942,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0333294002|TOPICAL|CREAM|GRAMICIDIN 0.25MG + LIDOCAINE 50MG + POLYMYXIN B 10000UNIT",
+    "aiGroupNo": "0333294002",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "GRAMICIDIN 0.25MG + LIDOCAINE 50MG + POLYMYXIN B 10000UNIT",
+    "members": [
+      80057,
+      78974
+    ],
+    "brandAnchor": 80057,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0452420001|TOPICAL|OINTMENT|BACITRACIN ZINC 500UNIT + GRAMICIDIN 0.25MG + LIDOCAINE 50MG + POLYMYXIN B 10000UNIT",
+    "aiGroupNo": "0452420001",
+    "route": "TOPICAL",
+    "form": "OINTMENT",
+    "ingredientLabel": "BACITRACIN ZINC 500UNIT + GRAMICIDIN 0.25MG + LIDOCAINE 50MG + POLYMYXIN B 10000UNIT",
+    "members": [
+      78975
+    ],
+    "brandAnchor": 78975,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0233049002|TOPICAL|CREAM|LIDOCAINE 5% + MENTHOL 1%",
+    "aiGroupNo": "0233049002",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "LIDOCAINE 5% + MENTHOL 1%",
+    "members": [
+      79467
+    ],
+    "brandAnchor": 79467,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0252460001|ORAL|TABLET EXTENDED-RELEASE|DESLORATADINE 2.5MG + PSEUDOEPHEDRINE 120MG",
+    "aiGroupNo": "0252460001",
+    "route": "ORAL",
+    "form": "TABLET EXTENDED-RELEASE",
+    "ingredientLabel": "DESLORATADINE 2.5MG + PSEUDOEPHEDRINE 120MG",
+    "members": [
+      79491
+    ],
+    "brandAnchor": 79491,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0200625004|ORAL|TABLET|CHLORPHENIRAMINE 4MG + DEXTROMETHORPHAN 30MG",
+    "aiGroupNo": "0200625004",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "CHLORPHENIRAMINE 4MG + DEXTROMETHORPHAN 30MG",
+    "members": [
+      79504
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0110231001|TOPICAL+VAGINAL|CREAM|CLOTRIMAZOLE 1%",
+    "aiGroupNo": "0110231001",
+    "route": "TOPICAL+VAGINAL",
+    "form": "CREAM",
+    "ingredientLabel": "CLOTRIMAZOLE 1%",
+    "members": [
+      79727
+    ],
+    "brandAnchor": 79727,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0111864001|ORAL|SUSPENSION|BISMUTH SUBSALICYLATE 17.5MG",
+    "aiGroupNo": "0111864001",
+    "route": "ORAL",
+    "form": "SUSPENSION",
+    "ingredientLabel": "BISMUTH SUBSALICYLATE 17.5MG",
+    "members": [
+      95706,
+      79869
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0106942007|TOPICAL|SOLUTION|CHLOROXYLENOL 0.6%",
+    "aiGroupNo": "0106942007",
+    "route": "TOPICAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "CHLOROXYLENOL 0.6%",
+    "members": [
+      79962
+    ],
+    "brandAnchor": 79962,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0231247004|TOPICAL|CREAM|GRAMICIDIN 0.25MG + POLYMYXIN B 10000UNIT",
+    "aiGroupNo": "0231247004",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "GRAMICIDIN 0.25MG + POLYMYXIN B 10000UNIT",
+    "members": [
+      80317
+    ],
+    "brandAnchor": 80317,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0152488002|ORAL|POWDER FOR SOLUTION|POLYETHYLENE GLYCOL 3350 100%",
+    "aiGroupNo": "0152488002",
+    "route": "ORAL",
+    "form": "POWDER FOR SOLUTION",
+    "ingredientLabel": "POLYETHYLENE GLYCOL 3350 100%",
+    "members": [
+      80366,
+      81040,
+      83209,
+      93607,
+      84310,
+      94758,
+      85934,
+      100998,
+      103776,
+      80321,
+      93973
+    ],
+    "brandAnchor": 80366,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0352493001|TOPICAL|LOTION|DIMETHICONE 5% + MENTHOL 0.5% + PRAMOXINE 1%",
+    "aiGroupNo": "0352493001",
+    "route": "TOPICAL",
+    "form": "LOTION",
+    "ingredientLabel": "DIMETHICONE 5% + MENTHOL 0.5% + PRAMOXINE 1%",
+    "members": [
+      80397
+    ],
+    "brandAnchor": 80397,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0108628001|TOPICAL|SHAMPOO|PYRITHIONE ZINC 1%",
+    "aiGroupNo": "0108628001",
+    "route": "TOPICAL",
+    "form": "SHAMPOO",
+    "ingredientLabel": "PYRITHIONE ZINC 1%",
+    "members": [
+      93592,
+      80576,
+      94999,
+      94885,
+      97824,
+      98326,
+      103939,
+      91022,
+      96975,
+      103970,
+      106711,
+      102664,
+      103358,
+      106682,
+      103517,
+      102662,
+      104395,
+      106710,
+      95440,
+      84283,
+      95558,
+      93597,
+      93593,
+      88440,
+      88443,
+      96727,
+      101904,
+      102102,
+      98327,
+      88450,
+      88452,
+      93469,
+      96824,
+      88453,
+      88455,
+      96807,
+      101166,
+      98145,
+      88444,
+      88454,
+      96721,
+      102553,
+      101113,
+      88449,
+      102106,
+      88442,
+      88456,
+      96806,
+      96978,
+      99696,
+      102104,
+      101112,
+      96976,
+      102107,
+      98147,
+      102049,
+      102109,
+      101926,
+      93449,
+      96980
+    ],
+    "brandAnchor": 93592,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0201347002|OPHTHALMIC|DROPS|GLYCERINE 0.3% + PROPYLENE GLYCOL 1%",
+    "aiGroupNo": "0201347002",
+    "route": "OPHTHALMIC",
+    "form": "DROPS",
+    "ingredientLabel": "GLYCERINE 0.3% + PROPYLENE GLYCOL 1%",
+    "members": [
+      80709
+    ],
+    "brandAnchor": 80709,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0111864004|ORAL|SUSPENSION|BISMUTH SUBSALICYLATE 35MG",
+    "aiGroupNo": "0111864004",
+    "route": "ORAL",
+    "form": "SUSPENSION",
+    "ingredientLabel": "BISMUTH SUBSALICYLATE 35MG",
+    "members": [
+      81398
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102134002|ORAL|TABLET|CYPROHEPTADINE 4MG",
+    "aiGroupNo": "0102134002",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "CYPROHEPTADINE 4MG",
+    "members": [
+      102209,
+      81790
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0152187001|TOPICAL|GEL|DICLOFENAC DIETHYLAMINE 1.15%",
+    "aiGroupNo": "0152187001",
+    "route": "TOPICAL",
+    "form": "GEL",
+    "ingredientLabel": "DICLOFENAC DIETHYLAMINE 1.16%",
+    "members": [
+      104363,
+      95324,
+      82423
+    ],
+    "brandAnchor": 104363,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0449769001|OPHTHALMIC|SOLUTION|DEXTRAN 70 0.1% + POLYETHYLENE GLYCOL 400 1% + POVIDONE 1% + TETRAHYDROZOLINE 0.05%",
+    "aiGroupNo": "0449769001",
+    "route": "OPHTHALMIC",
+    "form": "SOLUTION",
+    "ingredientLabel": "DEXTRAN 70 0.1% + POLYETHYLENE GLYCOL 400 1% + POVIDONE 1% + TETRAHYDROZOLINE 0.05%",
+    "members": [
+      82979
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0233242001|OPHTHALMIC|SOLUTION|GLYCERINE 0.2% + HYPROMELLOSE 0.2%",
+    "aiGroupNo": "0233242001",
+    "route": "OPHTHALMIC",
+    "form": "SOLUTION",
+    "ingredientLabel": "GLYCERINE 0.2% + HYPROMELLOSE 0.2%",
+    "members": [
+      83970,
+      87535
+    ],
+    "brandAnchor": 83970,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0104993016|TOPICAL HOUSEHOLD|WIPE|BENZALKONIUM CHLORIDE 0.15%",
+    "aiGroupNo": "0104993016",
+    "route": "TOPICAL HOUSEHOLD",
+    "form": "WIPE",
+    "ingredientLabel": "BENZALKONIUM CHLORIDE 0.13%",
+    "members": [
+      92527,
+      83971,
+      88828,
+      84093
+    ],
+    "brandAnchor": 92527,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0215107002|NASAL|SPRAY METERED-DOSE|MACROGOL 15% + PROPYLENE GLYCOL 5%",
+    "aiGroupNo": "0215107002",
+    "route": "NASAL",
+    "form": "SPRAY METERED-DOSE",
+    "ingredientLabel": "MACROGOL 15% + PROPYLENE GLYCOL 5%",
+    "members": [
+      83972
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0252788001|ORAL|CAPSULE|DIPHENHYDRAMINE 25MG + IBUPROFEN 200MG",
+    "aiGroupNo": "0252788001",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "DIPHENHYDRAMINE 25MG + IBUPROFEN 200MG",
+    "members": [
+      88592,
+      84104
+    ],
+    "brandAnchor": 88592,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107629004|TOPICAL HOUSEHOLD|WIPE|CHLORHEXIDINE GLUCONATE 2%",
+    "aiGroupNo": "0107629004",
+    "route": "TOPICAL HOUSEHOLD",
+    "form": "WIPE",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 2%",
+    "members": [
+      84115
+    ],
+    "brandAnchor": 84115,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0352599003|ORAL|SYRUP|ACETAMINOPHEN 325MG/5ML + GUAIFENESIN 200MG/5ML + MENTHOL 20MG/5ML",
+    "aiGroupNo": "0352599003",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "ACETAMINOPHEN 325MG / 5ML + GUAIFENESIN 200MG / 5ML + MENTHOL 20MG / 5ML",
+    "members": [
+      84236
+    ],
+    "brandAnchor": 84236,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0107629004|TOPICAL HOUSEHOLD|SOLUTION|CHLORHEXIDINE GLUCONATE 2%",
+    "aiGroupNo": "0107629004",
+    "route": "TOPICAL HOUSEHOLD",
+    "form": "SOLUTION",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 2%",
+    "members": [
+      84308
+    ],
+    "brandAnchor": 84308,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0103740005|TOPICAL|CREAM|TROLAMINE SALICYLATE 13.3%",
+    "aiGroupNo": "0103740005",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "TROLAMINE SALICYLATE 13.3%",
+    "members": [
+      96250,
+      84320
+    ],
+    "brandAnchor": 96250,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0122686001|ORAL|TABLET ORALLY-DISINTEGRATING|CETIRIZINE 10MG",
+    "aiGroupNo": "0122686001",
+    "route": "ORAL",
+    "form": "TABLET ORALLY-DISINTEGRATING",
+    "ingredientLabel": "CETIRIZINE 10MG",
+    "members": [
+      95593,
+      84341
+    ],
+    "brandAnchor": 95593,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0231324002|OPHTHALMIC|OINTMENT|BACITRACIN ZINC 500UNIT + POLYMYXIN B 10000UNIT",
+    "aiGroupNo": "0231324002",
+    "route": "OPHTHALMIC",
+    "form": "OINTMENT",
+    "ingredientLabel": "BACITRACIN ZINC 500UNIT + POLYMYXIN B 10000UNIT",
+    "members": [
+      84489
+    ],
+    "brandAnchor": 84489,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0252847001|OPHTHALMIC|SOLUTION|GLYCERINE 0.5% + NAPHAZOLINE 0.05%",
+    "aiGroupNo": "0252847001",
+    "route": "OPHTHALMIC",
+    "form": "SOLUTION",
+    "ingredientLabel": "GLYCERINE 0.5% + NAPHAZOLINE 0.03%",
+    "members": [
+      84583
+    ],
+    "brandAnchor": 84583,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0113934003|ORAL|CAPSULE|NAPROXEN 220MG",
+    "aiGroupNo": "0113934003",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "NAPROXEN 220MG",
+    "members": [
+      84684,
+      92069,
+      85812
+    ],
+    "brandAnchor": 84684,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107205004|TOPICAL|GEL|BENZOYL PEROXIDE 2.5%",
+    "aiGroupNo": "0107205004",
+    "route": "TOPICAL",
+    "form": "GEL",
+    "ingredientLabel": "BENZOYL PEROXIDE 2.5%",
+    "members": [
+      99914,
+      87583,
+      87639,
+      84698,
+      89587,
+      87959
+    ],
+    "brandAnchor": 99914,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0550062001|ORAL|SYRUP|ACETAMINOPHEN 1000MG/30ML + CHLORPHENIRAMINE 4MG/30ML + DEXTROMETHORPHAN 30MG/30ML + GUAIFENESIN 200MG/30ML + PSEUDOEPHEDRINE 60MG/30ML",
+    "aiGroupNo": "0550062001",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "ACETAMINOPHEN 1000MG / 30ML + CHLORPHENIRAMINE 4MG / 30ML + DEXTROMETHORPHAN 30MG / 30ML + GUAIFENESIN 200MG / 30ML + PSEUDOEPHEDRINE 60MG / 30ML",
+    "members": [
+      85048
+    ],
+    "brandAnchor": 85048,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0122686001|ORAL|CAPSULE IMMEDIATE-RELEASE|CETIRIZINE 10MG",
+    "aiGroupNo": "0122686001",
+    "route": "ORAL",
+    "form": "CAPSULE IMMEDIATE-RELEASE",
+    "ingredientLabel": "CETIRIZINE 10MG",
+    "members": [
+      85288
+    ],
+    "brandAnchor": 85288,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0752931001|ORAL|KIT+TABLET|ACETAMINOPHEN 500MG + DEXTROMETHORPHAN 15MG + DIPHENHYDRAMINE 25MG + GUAIFENESIN 100MG + PSEUDOEPHEDRINE 30MG",
+    "aiGroupNo": "0752931001",
+    "route": "ORAL",
+    "form": "KIT+TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + DEXTROMETHORPHAN 15MG + DIPHENHYDRAMINE 25MG + GUAIFENESIN 100MG + PSEUDOEPHEDRINE 30MG",
+    "members": [
+      85347,
+      86992,
+      87328
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0752932001|ORAL|CAPSULE+KIT|ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 15MG + DOXYLAMINE 6.25MG + PSEUDOEPHEDRINE 30MG",
+    "aiGroupNo": "0752932001",
+    "route": "ORAL",
+    "form": "CAPSULE+KIT",
+    "ingredientLabel": "ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 15MG + DOXYLAMINE 6.25MG + PSEUDOEPHEDRINE 30MG",
+    "members": [
+      98380,
+      85348,
+      91244
+    ],
+    "brandAnchor": 98380,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0114429004|TOPICAL|AEROSOL FOAM|MINOXIDIL 5%",
+    "aiGroupNo": "0114429004",
+    "route": "TOPICAL",
+    "form": "AEROSOL FOAM",
+    "ingredientLabel": "MINOXIDIL 5%",
+    "members": [
+      85367,
+      90937,
+      104015,
+      104038,
+      104240
+    ],
+    "brandAnchor": 85367,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0104993016|TOPICAL|SPRAY|BENZALKONIUM CHLORIDE 0.15%",
+    "aiGroupNo": "0104993016",
+    "route": "TOPICAL",
+    "form": "SPRAY",
+    "ingredientLabel": "BENZALKONIUM CHLORIDE 0.13%",
+    "members": [
+      85450
+    ],
+    "brandAnchor": 85450,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0351552006|ORAL|SYRUP|ACETAMINOPHEN 650MG/30ML + DEXTROMETHORPHAN 30MG/30ML + DOXYLAMINE 12.5MG/30ML",
+    "aiGroupNo": "0351552006",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "ACETAMINOPHEN 650MG / 30ML + DEXTROMETHORPHAN 30MG / 30ML + DOXYLAMINE 12.5MG / 30ML",
+    "members": [
+      85947
+    ],
+    "brandAnchor": 85947,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0206936001|ORAL|LOZENGE|AMYLMETACRESOL 0.6MG + DICHLOROBENZYL ALCOHOL 1.2MG",
+    "aiGroupNo": "0206936001",
+    "route": "ORAL",
+    "form": "LOZENGE",
+    "ingredientLabel": "AMYLMETACRESOL 0.6MG + DICHLOROBENZYL ALCOHOL 1.2MG",
+    "members": [
+      86872,
+      88981,
+      86098
+    ],
+    "brandAnchor": 86872,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0111332001|ORAL|CAPSULE|LOPERAMIDE 2MG",
+    "aiGroupNo": "0111332001",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "LOPERAMIDE 2MG",
+    "members": [
+      86147,
+      103360,
+      104101,
+      104209
+    ],
+    "brandAnchor": 86147,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0120416001|ORAL|CAPSULE|LORATADINE 10MG",
+    "aiGroupNo": "0120416001",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "LORATADINE 10MG",
+    "members": [
+      88925,
+      87582,
+      86538
+    ],
+    "brandAnchor": 88925,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0136741002|ORAL|SOLUTION|MINERAL OIL 99.9%",
+    "aiGroupNo": "0136741002",
+    "route": "ORAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "MINERAL OIL 99.9%",
+    "members": [
+      86767
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0213979006|TOPICAL HOSPITAL/HC FACILITIES|SWAB|CHLORHEXIDINE GLUCONATE 2% + ISOPROPYL ALCOHOL 70%",
+    "aiGroupNo": "0213979006",
+    "route": "TOPICAL HOSPITAL/HC FACILITIES",
+    "form": "SWAB",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 2% + ISOPROPYL ALCOHOL 70%",
+    "members": [
+      86791,
+      101459
+    ],
+    "brandAnchor": 86791,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0213979006|TOPICAL HOSPITAL/HC FACILITIES|SOLUTION|CHLORHEXIDINE GLUCONATE 2% + ISOPROPYL ALCOHOL 70%",
+    "aiGroupNo": "0213979006",
+    "route": "TOPICAL HOSPITAL/HC FACILITIES",
+    "form": "SOLUTION",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 2% + ISOPROPYL ALCOHOL 70%",
+    "members": [
+      86799
+    ],
+    "brandAnchor": 86799,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0361191001|ORAL|LOZENGE|AMYLMETACRESOL 0.6MG + DICHLOROBENZYL ALCOHOL 1.2MG + LEVOMENTHOL 8MG",
+    "aiGroupNo": "0361191001",
+    "route": "ORAL",
+    "form": "LOZENGE",
+    "ingredientLabel": "AMYLMETACRESOL 0.6MG + DICHLOROBENZYL ALCOHOL 1.2MG + LEVOMENTHOL 8MG",
+    "members": [
+      86869
+    ],
+    "brandAnchor": 86869,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0653137001|ORAL|KIT+TABLET|ACETAMINOPHEN 500MG + DEXTROMETHORPHAN 15MG + DIPHENHYDRAMINE 25MG + PSEUDOEPHEDRINE 30MG",
+    "aiGroupNo": "0653137001",
+    "route": "ORAL",
+    "form": "KIT+TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + DEXTROMETHORPHAN 15MG + DIPHENHYDRAMINE 25MG + PSEUDOEPHEDRINE 30MG",
+    "members": [
+      86911
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0853138001|ORAL|CAPSULE+KIT|ACETAMINOPHEN 250MG + ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 10MG + DEXTROMETHORPHAN 15MG + DOXYLAMINE 6.25MG + GUAIFENESIN 100MG + PSEUDOEPHEDRINE 30MG",
+    "aiGroupNo": "0853138001",
+    "route": "ORAL",
+    "form": "CAPSULE+KIT",
+    "ingredientLabel": "ACETAMINOPHEN 250MG + ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 10MG + DEXTROMETHORPHAN 15MG + DOXYLAMINE 6.25MG + GUAIFENESIN 100MG + PSEUDOEPHEDRINE 30MG",
+    "members": [
+      86912
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0736850002|ORAL|KIT+TABLET|ACETAMINOPHEN 500MG + CHLORPHENIRAMINE 2MG + DEXTROMETHORPHAN 15MG + PSEUDOEPHEDRINE 30MG",
+    "aiGroupNo": "0736850002",
+    "route": "ORAL",
+    "form": "KIT+TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + CHLORPHENIRAMINE 2MG + DEXTROMETHORPHAN 15MG + PSEUDOEPHEDRINE 30MG",
+    "members": [
+      86913
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0553095001|ORAL|KIT+TABLET|ACETAMINOPHEN 500MG + DOXYLAMINE 6.25MG + PSEUDOEPHEDRINE 30MG",
+    "aiGroupNo": "0553095001",
+    "route": "ORAL",
+    "form": "KIT+TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + DOXYLAMINE 6.25MG + PSEUDOEPHEDRINE 30MG",
+    "members": [
+      87406,
+      86935
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0102747005|ORAL|TABLET CHEWABLE|DIMENHYDRINATE 15MG",
+    "aiGroupNo": "0102747005",
+    "route": "ORAL",
+    "form": "TABLET CHEWABLE",
+    "ingredientLabel": "DIMENHYDRINATE 15MG",
+    "members": [
+      86986
+    ],
+    "brandAnchor": 86986,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102747004|ORAL|TABLET CHEWABLE|DIMENHYDRINATE 50MG",
+    "aiGroupNo": "0102747004",
+    "route": "ORAL",
+    "form": "TABLET CHEWABLE",
+    "ingredientLabel": "DIMENHYDRINATE 50MG",
+    "members": [
+      86988
+    ],
+    "brandAnchor": 86988,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0213979006|TOPICAL HOSPITAL/HC FACILITIES|WIPE|CHLORHEXIDINE GLUCONATE 2% + ISOPROPYL ALCOHOL 70%",
+    "aiGroupNo": "0213979006",
+    "route": "TOPICAL HOSPITAL/HC FACILITIES",
+    "form": "WIPE",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 2% + ISOPROPYL ALCOHOL 70%",
+    "members": [
+      87132
+    ],
+    "brandAnchor": 87132,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0553187001|ORAL|KIT+TABLET|CHLORPHENIRAMINE 2MG + IBUPROFEN 200MG + PSEUDOEPHEDRINE 30MG",
+    "aiGroupNo": "0553187001",
+    "route": "ORAL",
+    "form": "KIT+TABLET",
+    "ingredientLabel": "CHLORPHENIRAMINE 2MG + IBUPROFEN 200MG + PSEUDOEPHEDRINE 30MG",
+    "members": [
+      88459,
+      87360
+    ],
+    "brandAnchor": 88459,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0321621001|ORAL|LOZENGE|AMYLMETACRESOL 0.6MG + DICHLOROBENZYL ALCOHOL 1.2MG + MENTHOL 8MG",
+    "aiGroupNo": "0321621001",
+    "route": "ORAL",
+    "form": "LOZENGE",
+    "ingredientLabel": "AMYLMETACRESOL 0.6MG + DICHLOROBENZYL ALCOHOL 1.2MG + MENTHOL 8MG",
+    "members": [
+      87415
+    ],
+    "brandAnchor": 87415,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0152187002|TOPICAL|GEL|DICLOFENAC DIETHYLAMINE 2.3%",
+    "aiGroupNo": "0152187002",
+    "route": "TOPICAL",
+    "form": "GEL",
+    "ingredientLabel": "DICLOFENAC DIETHYLAMINE 2.32%",
+    "members": [
+      87843,
+      95325
+    ],
+    "brandAnchor": 87843,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0344063001|ORAL|SYRUP|BROMPHENIRAMINE 2MG/5ML + DEXTROMETHORPHAN 10MG/5ML + PHENYLEPHRINE 5MG/5ML",
+    "aiGroupNo": "0344063001",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "BROMPHENIRAMINE 2MG / 5ML + DEXTROMETHORPHAN 10MG / 5ML + PHENYLEPHRINE 5MG / 5ML",
+    "members": [
+      87985
+    ],
+    "brandAnchor": 87985,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0353532001|OPHTHALMIC|SOLUTION|CARBOXYMETHYLCELLULOSE 0.5% + GLYCERINE 1% + POLYSORBATE 80 0.5%",
+    "aiGroupNo": "0353532001",
+    "route": "OPHTHALMIC",
+    "form": "SOLUTION",
+    "ingredientLabel": "CARBOXYMETHYLCELLULOSE 0.5% + GLYCERINE 1% + POLYSORBATE 80 0.5%",
+    "members": [
+      88404
+    ],
+    "brandAnchor": 88404,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0253704001|TOPICAL|KIT+LIQUID+LOTION|BENZOYL PEROXIDE 5% + SALICYLIC ACID 2%",
+    "aiGroupNo": "0253704001",
+    "route": "TOPICAL",
+    "form": "KIT+LIQUID+LOTION",
+    "ingredientLabel": "BENZOYL PEROXIDE 5% + SALICYLIC ACID 2%",
+    "members": [
+      88701
+    ],
+    "brandAnchor": 88701,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0319503010|ORAL|POWDER FOR SOLUTION|ACETAMINOPHEN 1000MG + DEXTROMETHORPHAN 30MG + PSEUDOEPHEDRINE 60MG",
+    "aiGroupNo": "0319503010",
+    "route": "ORAL",
+    "form": "POWDER FOR SOLUTION",
+    "ingredientLabel": "ACETAMINOPHEN 1000MG + DEXTROMETHORPHAN 30MG + PSEUDOEPHEDRINE 60MG",
+    "members": [
+      88979,
+      104463
+    ],
+    "brandAnchor": 88979,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0253309001|TOPICAL|GEL+KIT|BENZOYL PEROXIDE 2.5%",
+    "aiGroupNo": "0253309001",
+    "route": "TOPICAL",
+    "form": "GEL+KIT",
+    "ingredientLabel": "BENZOYL PEROXIDE 2.5%",
+    "members": [
+      89901,
+      89090
+    ],
+    "brandAnchor": 89901,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107629004|TOPICAL HOSPITAL/HC FACILITIES|SPONGE|CHLORHEXIDINE GLUCONATE 2%",
+    "aiGroupNo": "0107629004",
+    "route": "TOPICAL HOSPITAL/HC FACILITIES",
+    "form": "SPONGE",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 2%",
+    "members": [
+      89318
+    ],
+    "brandAnchor": 89318,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0451421008|ORAL|LIQUID|ACETAMINOPHEN 650MG/30ML + DEXTROMETHORPHAN 20MG/30ML + GUAIFENESIN 400MG/30ML + PHENYLEPHRINE 10MG/30ML",
+    "aiGroupNo": "0451421008",
+    "route": "ORAL",
+    "form": "LIQUID",
+    "ingredientLabel": "ACETAMINOPHEN 650MG / 30ML + DEXTROMETHORPHAN 20MG / 30ML + GUAIFENESIN 400MG / 30ML + PHENYLEPHRINE 10MG / 30ML",
+    "members": [
+      89422
+    ],
+    "brandAnchor": 89422,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0451561002|ORAL|LIQUID|ACETAMINOPHEN 650MG/30ML + DEXTROMETHORPHAN 20MG/30ML + DOXYLAMINE 12.5MG/30ML + PHENYLEPHRINE 10MG/30ML",
+    "aiGroupNo": "0451561002",
+    "route": "ORAL",
+    "form": "LIQUID",
+    "ingredientLabel": "ACETAMINOPHEN 650MG / 30ML + DEXTROMETHORPHAN 20MG / 30ML + DOXYLAMINE 12.5MG / 30ML + PHENYLEPHRINE 10MG / 30ML",
+    "members": [
+      89423,
+      97286
+    ],
+    "brandAnchor": 89423,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0349684001|ORAL|TABLET CHEWABLE|DRIED ALUMINUM HYDROXIDE GEL 200MG + MAGNESIUM HYDROXIDE 200MG + SIMETHICONE 25MG",
+    "aiGroupNo": "0349684001",
+    "route": "ORAL",
+    "form": "TABLET CHEWABLE",
+    "ingredientLabel": "DRIED ALUMINUM HYDROXIDE GEL 200MG + MAGNESIUM HYDROXIDE 200MG + SIMETHICONE 25MG",
+    "members": [
+      89449
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0107205001|TOPICAL|CREAM|BENZOYL PEROXIDE 5%",
+    "aiGroupNo": "0107205001",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "BENZOYL PEROXIDE 5%",
+    "members": [
+      89830,
+      95112
+    ],
+    "brandAnchor": 89830,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0102537001|TOPICAL|SOLUTION|TOLNAFTATE 1%",
+    "aiGroupNo": "0102537001",
+    "route": "TOPICAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "TOLNAFTATE 1%",
+    "members": [
+      89839,
+      101690
+    ],
+    "brandAnchor": 89839,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107205004|TOPICAL|GEL+LOTION|BENZOYL PEROXIDE 2.5%",
+    "aiGroupNo": "0107205004",
+    "route": "TOPICAL",
+    "form": "GEL+LOTION",
+    "ingredientLabel": "BENZOYL PEROXIDE 2.5%",
+    "members": [
+      89896
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0106310013|NASAL|SPRAY METERED-DOSE|TRIAMCINOLONE ACETONIDE 55MCG",
+    "aiGroupNo": "0106310013",
+    "route": "NASAL",
+    "form": "SPRAY METERED-DOSE",
+    "ingredientLabel": "TRIAMCINOLONE ACETONIDE 55MCG",
+    "members": [
+      90220
+    ],
+    "brandAnchor": 90220,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0101280002|TOPICAL|SOLUTION|LIDOCAINE 4%",
+    "aiGroupNo": "0101280002",
+    "route": "TOPICAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "LIDOCAINE 4%",
+    "members": [
+      90413
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102639008|ORAL|LIQUID|DIPHENHYDRAMINE 50MG/30ML",
+    "aiGroupNo": "0102639008",
+    "route": "ORAL",
+    "form": "LIQUID",
+    "ingredientLabel": "DIPHENHYDRAMINE 50MG / 30ML",
+    "members": [
+      90439
+    ],
+    "brandAnchor": 90439,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0351461005|ORAL|POWDER FOR SOLUTION|ACETAMINOPHEN 650MG + DIPHENHYDRAMINE 25MG + PHENYLEPHRINE 10MG",
+    "aiGroupNo": "0351461005",
+    "route": "ORAL",
+    "form": "POWDER FOR SOLUTION",
+    "ingredientLabel": "ACETAMINOPHEN 650MG + DIPHENHYDRAMINE 25MG + PHENYLEPHRINE 10MG",
+    "members": [
+      90552,
+      97739
+    ],
+    "brandAnchor": 90552,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0107629004|TOPICAL HOSPITAL/HC FACILITIES|SWAB|CHLORHEXIDINE GLUCONATE 2%",
+    "aiGroupNo": "0107629004",
+    "route": "TOPICAL HOSPITAL/HC FACILITIES",
+    "form": "SWAB",
+    "ingredientLabel": "CHLORHEXIDINE GLUCONATE 2%",
+    "members": [
+      91589
+    ],
+    "brandAnchor": 91589,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102639008|ORAL|SOLUTION|DIPHENHYDRAMINE 50MG/30ML",
+    "aiGroupNo": "0102639008",
+    "route": "ORAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "DIPHENHYDRAMINE 50MG / 30ML",
+    "members": [
+      103206,
+      106283,
+      96508,
+      91657,
+      95281
+    ],
+    "brandAnchor": 103206,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0300674005|ORAL|SOLUTION|DEXTROMETHORPHAN 20MG/20ML + GUAIFENESIN 400MG/20ML + PHENYLEPHRINE 10MG/20ML",
+    "aiGroupNo": "0300674005",
+    "route": "ORAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "DEXTROMETHORPHAN 20MG / 20ML + GUAIFENESIN 400MG / 20ML + PHENYLEPHRINE 10MG / 20ML",
+    "members": [
+      91764
+    ],
+    "brandAnchor": 91764,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0200826012|ORAL|SOLUTION|DEXTROMETHORPHAN 20MG/20ML + GUAIFENESIN 400MG/20ML",
+    "aiGroupNo": "0200826012",
+    "route": "ORAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "DEXTROMETHORPHAN 20MG / 20ML + GUAIFENESIN 400MG / 20ML",
+    "members": [
+      91765
+    ],
+    "brandAnchor": 91765,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0451421010|ORAL|SOLUTION|ACETAMINOPHEN 650MG/20ML + DEXTROMETHORPHAN 20MG/20ML + GUAIFENESIN 400MG/20ML + PHENYLEPHRINE 10MG/20ML",
+    "aiGroupNo": "0451421010",
+    "route": "ORAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "ACETAMINOPHEN 650MG / 20ML + DEXTROMETHORPHAN 20MG / 20ML + GUAIFENESIN 400MG / 20ML + PHENYLEPHRINE 10MG / 20ML",
+    "members": [
+      91779
+    ],
+    "brandAnchor": 91779,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0451421007|ORAL|TABLET|ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 10MG + GUAIFENESIN 200MG + PHENYLEPHRINE 5MG",
+    "aiGroupNo": "0451421007",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 10MG + GUAIFENESIN 200MG + PHENYLEPHRINE 5MG",
+    "members": [
+      91781
+    ],
+    "brandAnchor": 91781,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0351580003|ORAL|TABLET|ACETAMINOPHEN 325MG + GUAIFENESIN 200MG + PHENYLEPHRINE 5MG",
+    "aiGroupNo": "0351580003",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 325MG + GUAIFENESIN 200MG + PHENYLEPHRINE 5MG",
+    "members": [
+      91782,
+      103889
+    ],
+    "brandAnchor": 91782,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0103181008|ORAL|TABLET IMMEDIATE- AND EXTENDED-RELEASE|GUAIFENESIN 600MG",
+    "aiGroupNo": "0103181008",
+    "route": "ORAL",
+    "form": "TABLET IMMEDIATE- AND EXTENDED-RELEASE",
+    "ingredientLabel": "GUAIFENESIN 600MG",
+    "members": [
+      91903
+    ],
+    "brandAnchor": 91903,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0251696002|OPHTHALMIC|SOLUTION|CARBOXYMETHYLCELLULOSE 0.5% + GLYCERINE 0.9%",
+    "aiGroupNo": "0251696002",
+    "route": "OPHTHALMIC",
+    "form": "SOLUTION",
+    "ingredientLabel": "CARBOXYMETHYLCELLULOSE 0.5% + GLYCERINE 0.9%",
+    "members": [
+      91991
+    ],
+    "brandAnchor": 91991,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0121643001|ORAL|CAPSULE DELAYED-RELEASE|OMEPRAZOLE 20MG",
+    "aiGroupNo": "0121643001",
+    "route": "ORAL",
+    "form": "CAPSULE DELAYED-RELEASE",
+    "ingredientLabel": "OMEPRAZOLE 20MG",
+    "members": [
+      92002
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0104993016|TOPICAL|WIPE|BENZALKONIUM CHLORIDE 0.15%",
+    "aiGroupNo": "0104993016",
+    "route": "TOPICAL",
+    "form": "WIPE",
+    "ingredientLabel": "BENZALKONIUM CHLORIDE 0.13%",
+    "members": [
+      92173,
+      104403,
+      103914
+    ],
+    "brandAnchor": 92173,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0233242001|OPHTHALMIC|DROPS|GLYCERINE 0.2% + HYPROMELLOSE 0.2%",
+    "aiGroupNo": "0233242001",
+    "route": "OPHTHALMIC",
+    "form": "DROPS",
+    "ingredientLabel": "GLYCERINE 0.2% + HYPROMELLOSE 0.2%",
+    "members": [
+      92296
+    ],
+    "brandAnchor": 92296,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0106942003|TOPICAL|LIQUID|CHLOROXYLENOL 3%",
+    "aiGroupNo": "0106942003",
+    "route": "TOPICAL",
+    "form": "LIQUID",
+    "ingredientLabel": "CHLOROXYLENOL 3%",
+    "members": [
+      92481
+    ],
+    "brandAnchor": 92481,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0107205011|TOPICAL|PASTE|BENZOYL PEROXIDE 3.5%",
+    "aiGroupNo": "0107205011",
+    "route": "TOPICAL",
+    "form": "PASTE",
+    "ingredientLabel": "BENZOYL PEROXIDE 3.5%",
+    "members": [
+      92524
+    ],
+    "brandAnchor": 92524,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0104993016|TOPICAL|LOTION|BENZALKONIUM CHLORIDE 0.15%",
+    "aiGroupNo": "0104993016",
+    "route": "TOPICAL",
+    "form": "LOTION",
+    "ingredientLabel": "BENZALKONIUM CHLORIDE 0.13%",
+    "members": [
+      96159,
+      92774
+    ],
+    "brandAnchor": 96159,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0104993016|TOPICAL|SOLUTION|BENZALKONIUM CHLORIDE 0.15%",
+    "aiGroupNo": "0104993016",
+    "route": "TOPICAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "BENZALKONIUM CHLORIDE 0.13%",
+    "members": [
+      97189,
+      92785,
+      97037,
+      103872,
+      99098,
+      97086,
+      96203,
+      96208
+    ],
+    "brandAnchor": 97189,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0108883003|ORAL|TABLET EXTENDED-RELEASE|IBUPROFEN 600MG",
+    "aiGroupNo": "0108883003",
+    "route": "ORAL",
+    "form": "TABLET EXTENDED-RELEASE",
+    "ingredientLabel": "IBUPROFEN 600MG",
+    "members": [
+      92825
+    ],
+    "brandAnchor": 92825,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0106834010|BUCCAL|MOUTHWASH|CETYLPYRIDINIUM CHLORIDE 0.1%",
+    "aiGroupNo": "0106834010",
+    "route": "BUCCAL",
+    "form": "MOUTHWASH",
+    "ingredientLabel": "CETYLPYRIDINIUM CHLORIDE 0.075%",
+    "members": [
+      92853,
+      101959,
+      106431,
+      103117
+    ],
+    "brandAnchor": 92853,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0253309001|TOPICAL|KIT+LOTION|BENZOYL PEROXIDE 2.5%",
+    "aiGroupNo": "0253309001",
+    "route": "TOPICAL",
+    "form": "KIT+LOTION",
+    "ingredientLabel": "BENZOYL PEROXIDE 2.5%",
+    "members": [
+      92884
+    ],
+    "brandAnchor": 92884,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0257270001|ORAL|TABLET|DIPHENHYDRAMINE 25MG + NAPROXEN 220MG",
+    "aiGroupNo": "0257270001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "DIPHENHYDRAMINE 25MG + NAPROXEN 220MG",
+    "members": [
+      92965
+    ],
+    "brandAnchor": 92965,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0145162001|ORAL|CAPSULE DELAYED-RELEASE|ESOMEPRAZOLE 20MG",
+    "aiGroupNo": "0145162001",
+    "route": "ORAL",
+    "form": "CAPSULE DELAYED-RELEASE",
+    "ingredientLabel": "ESOMEPRAZOLE 20MG",
+    "members": [
+      92986
+    ],
+    "brandAnchor": 92986,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0106834010|DENTAL|MOUTHWASH|CETYLPYRIDINIUM CHLORIDE 0.1%",
+    "aiGroupNo": "0106834010",
+    "route": "DENTAL",
+    "form": "MOUTHWASH",
+    "ingredientLabel": "CETYLPYRIDINIUM CHLORIDE 0.075%",
+    "members": [
+      93375,
+      93376
+    ],
+    "brandAnchor": 93375,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0106942005|TOPICAL COMMERCIAL|LIQUID|CHLOROXYLENOL 1%",
+    "aiGroupNo": "0106942005",
+    "route": "TOPICAL COMMERCIAL",
+    "form": "LIQUID",
+    "ingredientLabel": "CHLOROXYLENOL 1%",
+    "members": [
+      93526,
+      93459
+    ],
+    "brandAnchor": 93526,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0105859006|TOPICAL|OINTMENT|BACITRACIN 500UNIT",
+    "aiGroupNo": "0105859006",
+    "route": "TOPICAL",
+    "form": "OINTMENT",
+    "ingredientLabel": "BACITRACIN 500UNIT",
+    "members": [
+      93727
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0108628013|TOPICAL|SHAMPOO|PYRITHIONE ZINC 0.5%",
+    "aiGroupNo": "0108628013",
+    "route": "TOPICAL",
+    "form": "SHAMPOO",
+    "ingredientLabel": "PYRITHIONE ZINC 0.5%",
+    "members": [
+      94483,
+      94487,
+      94485,
+      94486,
+      103913,
+      98150,
+      98151,
+      102048
+    ],
+    "brandAnchor": 94483,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0101481001|NASAL|SPRAY METERED-DOSE|OXYMETAZOLINE 0.05%",
+    "aiGroupNo": "0101481001",
+    "route": "NASAL",
+    "form": "SPRAY METERED-DOSE",
+    "ingredientLabel": "OXYMETAZOLINE 0.05%",
+    "members": [
+      94802,
+      94800
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0259210001|OPHTHALMIC|DROPS|MINERAL OIL 4.5% + MINERAL OIL LIGHT 1%",
+    "aiGroupNo": "0259210001",
+    "route": "OPHTHALMIC",
+    "form": "DROPS",
+    "ingredientLabel": "MINERAL OIL 4.5% + MINERAL OIL LIGHT 1%",
+    "members": [
+      95350
+    ],
+    "brandAnchor": 95350,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102134001|ORAL|SYRUP|CYPROHEPTADINE 2MG/5ML",
+    "aiGroupNo": "0102134001",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "CYPROHEPTADINE 2MG / 5ML",
+    "members": [
+      95509
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0253309004|TOPICAL|CREAM+KIT+LOTION|BENZOYL PEROXIDE 2.5% + BENZOYL PEROXIDE 5%",
+    "aiGroupNo": "0253309004",
+    "route": "TOPICAL",
+    "form": "CREAM+KIT+LOTION",
+    "ingredientLabel": "BENZOYL PEROXIDE 2.5% + BENZOYL PEROXIDE 5%",
+    "members": [
+      95852
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102009002|ORAL|CAPSULE|ACETAMINOPHEN 500MG",
+    "aiGroupNo": "0102009002",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "ACETAMINOPHEN 500MG",
+    "members": [
+      101046,
+      95882
+    ],
+    "brandAnchor": 101046,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0104367006|TOPICAL|CREAM|BENZETHONIUM CHLORIDE 0.2%",
+    "aiGroupNo": "0104367006",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "BENZETHONIUM CHLORIDE 0.2%",
+    "members": [
+      95992
+    ],
+    "brandAnchor": 95992,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0349765003|ORAL|TABLET|CHLORPHENIRAMINE 4MG + IBUPROFEN 400MG + PSEUDOEPHEDRINE 60MG",
+    "aiGroupNo": "0349765003",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "CHLORPHENIRAMINE 4MG + IBUPROFEN 400MG + PSEUDOEPHEDRINE 60MG",
+    "members": [
+      96076
+    ],
+    "brandAnchor": 96076,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0104993016|TOPICAL COMMERCIAL|LOTION|BENZALKONIUM CHLORIDE 0.15%",
+    "aiGroupNo": "0104993016",
+    "route": "TOPICAL COMMERCIAL",
+    "form": "LOTION",
+    "ingredientLabel": "BENZALKONIUM CHLORIDE 0.13%",
+    "members": [
+      96151
+    ],
+    "brandAnchor": 96151,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0152488003|ORAL|POWDER FOR SOLUTION|POLYETHYLENE GLYCOL 3350 17G",
+    "aiGroupNo": "0152488003",
+    "route": "ORAL",
+    "form": "POWDER FOR SOLUTION",
+    "ingredientLabel": "POLYETHYLENE GLYCOL 3350 17G",
+    "members": [
+      96245
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0106942004|TOPICAL COMMERCIAL|LOTION|CHLOROXYLENOL 0.5%",
+    "aiGroupNo": "0106942004",
+    "route": "TOPICAL COMMERCIAL",
+    "form": "LOTION",
+    "ingredientLabel": "CHLOROXYLENOL 0.5%",
+    "members": [
+      97106
+    ],
+    "brandAnchor": 97106,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0104993004|TOPICAL|SOLUTION|BENZALKONIUM CHLORIDE 0.1%",
+    "aiGroupNo": "0104993004",
+    "route": "TOPICAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "BENZALKONIUM CHLORIDE 0.1%",
+    "members": [
+      97147
+    ],
+    "brandAnchor": 97147,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0451421008|ORAL|SOLUTION|ACETAMINOPHEN 650MG/30ML + DEXTROMETHORPHAN 20MG/30ML + GUAIFENESIN 400MG/30ML + PHENYLEPHRINE 10MG/30ML",
+    "aiGroupNo": "0451421008",
+    "route": "ORAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "ACETAMINOPHEN 650MG / 30ML + DEXTROMETHORPHAN 20MG / 30ML + GUAIFENESIN 400MG / 30ML + PHENYLEPHRINE 10MG / 30ML",
+    "members": [
+      97287
+    ],
+    "brandAnchor": 97287,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0451561001|ORAL|CAPSULE|ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 10MG + DOXYLAMINE 6.25MG + PHENYLEPHRINE 5MG",
+    "aiGroupNo": "0451561001",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 10MG + DOXYLAMINE 6.25MG + PHENYLEPHRINE 5MG",
+    "members": [
+      97379
+    ],
+    "brandAnchor": 97379,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0451421007|ORAL|CAPSULE|ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 10MG + GUAIFENESIN 200MG + PHENYLEPHRINE 5MG",
+    "aiGroupNo": "0451421007",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 10MG + GUAIFENESIN 200MG + PHENYLEPHRINE 5MG",
+    "members": [
+      97380
+    ],
+    "brandAnchor": 97380,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0117081001|TOPICAL|CREAM|MUPIROCIN 2%",
+    "aiGroupNo": "0117081001",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "MUPIROCIN 2%",
+    "members": [
+      97385
+    ],
+    "brandAnchor": 97385,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0248141001|TOPICAL|CREAM|DIPHENHYDRAMINE 2% + ZINC 0.1%",
+    "aiGroupNo": "0248141001",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "DIPHENHYDRAMINE 2% + ZINC 0.1%",
+    "members": [
+      97511
+    ],
+    "brandAnchor": 97511,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0107479001|TOPICAL|CREAM|PRAMOXINE 1%",
+    "aiGroupNo": "0107479001",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "PRAMOXINE 1%",
+    "members": [
+      97516
+    ],
+    "brandAnchor": 97516,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0103565009|TOPICAL|GEL|LIDOCAINE 4%",
+    "aiGroupNo": "0103565009",
+    "route": "TOPICAL",
+    "form": "GEL",
+    "ingredientLabel": "LIDOCAINE 4%",
+    "members": [
+      97557
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0215723003|ORAL|SYRUP|DEXTROMETHORPHAN 30MG/20ML + DOXYLAMINE 12.5MG/20ML",
+    "aiGroupNo": "0215723003",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DEXTROMETHORPHAN 30MG / 20ML + DOXYLAMINE 12.5MG / 20ML",
+    "members": [
+      97569
+    ],
+    "brandAnchor": 97569,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0200826012|ORAL|SYRUP|DEXTROMETHORPHAN 20MG/20ML + GUAIFENESIN 400MG/20ML",
+    "aiGroupNo": "0200826012",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DEXTROMETHORPHAN 20MG / 20ML + GUAIFENESIN 400MG / 20ML",
+    "members": [
+      97576,
+      102784
+    ],
+    "brandAnchor": 97576,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0352478002|TOPICAL|LOTION|CAPSAICIN 0.05% + MENTHOL 1.25% + TROLAMINE SALICYLATE 10%",
+    "aiGroupNo": "0352478002",
+    "route": "TOPICAL",
+    "form": "LOTION",
+    "ingredientLabel": "CAPSAICIN 0.035% + MENTHOL 1.25% + TROLAMINE SALICYLATE 10%",
+    "members": [
+      97690
+    ],
+    "brandAnchor": 97690,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0107479001|TOPICAL|LOTION|PRAMOXINE 1%",
+    "aiGroupNo": "0107479001",
+    "route": "TOPICAL",
+    "form": "LOTION",
+    "ingredientLabel": "PRAMOXINE 1%",
+    "members": [
+      97705
+    ],
+    "brandAnchor": 97705,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0351264011|ORAL|POWDER FOR SOLUTION|ACETAMINOPHEN 500MG + DEXTROMETHORPHAN 20MG + PHENYLEPHRINE 10MG",
+    "aiGroupNo": "0351264011",
+    "route": "ORAL",
+    "form": "POWDER FOR SOLUTION",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + DEXTROMETHORPHAN 20MG + PHENYLEPHRINE 10MG",
+    "members": [
+      97715
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0351264009|ORAL|POWDER FOR SOLUTION|ACETAMINOPHEN 650MG + DEXTROMETHORPHAN 20MG + PHENYLEPHRINE 10MG",
+    "aiGroupNo": "0351264009",
+    "route": "ORAL",
+    "form": "POWDER FOR SOLUTION",
+    "ingredientLabel": "ACETAMINOPHEN 650MG + DEXTROMETHORPHAN 20MG + PHENYLEPHRINE 10MG",
+    "members": [
+      97743
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0261410001|ORAL|TABLET|ACETAMINOPHEN 325MG + IBUPROFEN 97.5MG",
+    "aiGroupNo": "0261410001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 325MG + IBUPROFEN 97.5MG",
+    "members": [
+      97838
+    ],
+    "brandAnchor": 97838,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0110231003|TOPICAL|CREAM|CLOTRIMAZOLE 2%",
+    "aiGroupNo": "0110231003",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "CLOTRIMAZOLE 2%",
+    "members": [
+      98096
+    ],
+    "brandAnchor": 98096,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0351552006|ORAL|SOLUTION|ACETAMINOPHEN 650MG/30ML + DEXTROMETHORPHAN 30MG/30ML + DOXYLAMINE 12.5MG/30ML",
+    "aiGroupNo": "0351552006",
+    "route": "ORAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "ACETAMINOPHEN 650MG / 30ML + DEXTROMETHORPHAN 30MG / 30ML + DOXYLAMINE 12.5MG / 30ML",
+    "members": [
+      106252,
+      98285
+    ],
+    "brandAnchor": 106252,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0853138002|ORAL|CAPSULE+KIT|ACETAMINOPHEN 250MG + ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 10MG + DEXTROMETHORPHAN 15MG + DOXYLAMINE 6.25MG + GUAIFENESIN 100MG + PSEUDOEPHEDRINE 30MG",
+    "aiGroupNo": "0853138002",
+    "route": "ORAL",
+    "form": "CAPSULE+KIT",
+    "ingredientLabel": "ACETAMINOPHEN 250MG + ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 10MG + DEXTROMETHORPHAN 15MG + DOXYLAMINE 6.25MG + GUAIFENESIN 100MG + PSEUDOEPHEDRINE 30MG",
+    "members": [
+      98404
+    ],
+    "brandAnchor": 98404,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0103565012|TOPICAL|GEL|LIDOCAINE 0.8%",
+    "aiGroupNo": "0103565012",
+    "route": "TOPICAL",
+    "form": "GEL",
+    "ingredientLabel": "LIDOCAINE 0.8%",
+    "members": [
+      98886
+    ],
+    "brandAnchor": 98886,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0111864003|ORAL|CAPSULE|BISMUTH SUBSALICYLATE 262MG",
+    "aiGroupNo": "0111864003",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "BISMUTH SUBSALICYLATE 262MG",
+    "members": [
+      98971,
+      102336
+    ],
+    "brandAnchor": 98971,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0104993016|TOPICAL COMMERCIAL|SOLUTION|BENZALKONIUM CHLORIDE 0.15%",
+    "aiGroupNo": "0104993016",
+    "route": "TOPICAL COMMERCIAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "BENZALKONIUM CHLORIDE 0.13%",
+    "members": [
+      99761,
+      98983,
+      99238,
+      102623,
+      103443
+    ],
+    "brandAnchor": 99761,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0362337001|TOPICAL|OINTMENT|MINERAL OIL 14.05% + PETROLATUM 74.9% + PHENYLEPHRINE 0.25%",
+    "aiGroupNo": "0362337001",
+    "route": "TOPICAL",
+    "form": "OINTMENT",
+    "ingredientLabel": "MINERAL OIL 14.05% + PETROLATUM 74.9% + PHENYLEPHRINE 0.25%",
+    "members": [
+      99088
+    ],
+    "brandAnchor": 99088,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0104993027|TOPICAL|SOLUTION|BENZALKONIUM CHLORIDE 0.15%",
+    "aiGroupNo": "0104993027",
+    "route": "TOPICAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "BENZALKONIUM CHLORIDE 0.15%",
+    "members": [
+      99175
+    ],
+    "brandAnchor": 99175,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0104993027|TOPICAL HOUSEHOLD|SOLUTION|BENZALKONIUM CHLORIDE 0.15%",
+    "aiGroupNo": "0104993027",
+    "route": "TOPICAL HOUSEHOLD",
+    "form": "SOLUTION",
+    "ingredientLabel": "BENZALKONIUM CHLORIDE 0.15%",
+    "members": [
+      99178,
+      99564,
+      100018
+    ],
+    "brandAnchor": 99178,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0300674006|ORAL|SYRUP|DEXTROMETHORPHAN 20MG/30ML + GUAIFENESIN 400MG/30ML + PHENYLEPHRINE 10MG/30ML",
+    "aiGroupNo": "0300674006",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DEXTROMETHORPHAN 20MG / 30ML + GUAIFENESIN 400MG / 30ML + PHENYLEPHRINE 10MG / 30ML",
+    "members": [
+      99274
+    ],
+    "brandAnchor": 99274,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0451561002|ORAL|SYRUP|ACETAMINOPHEN 650MG/30ML + DEXTROMETHORPHAN 20MG/30ML + DOXYLAMINE 12.5MG/30ML + PHENYLEPHRINE 10MG/30ML",
+    "aiGroupNo": "0451561002",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "ACETAMINOPHEN 650MG / 30ML + DEXTROMETHORPHAN 20MG / 30ML + DOXYLAMINE 12.5MG / 30ML + PHENYLEPHRINE 10MG / 30ML",
+    "members": [
+      99301
+    ],
+    "brandAnchor": 99301,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0362436002|ORAL|SYRUP|DEXTROMETHORPHAN 10MG/15ML + DOXYLAMINE 6.25MG/15ML + PHENYLEPHRINE 5MG/15ML",
+    "aiGroupNo": "0362436002",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DEXTROMETHORPHAN 10MG / 15ML + DOXYLAMINE 6.25MG / 15ML + PHENYLEPHRINE 5MG / 15ML",
+    "members": [
+      100961,
+      99307
+    ],
+    "brandAnchor": 100961,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0451421008|ORAL|SYRUP|ACETAMINOPHEN 650MG/30ML + DEXTROMETHORPHAN 20MG/30ML + GUAIFENESIN 400MG/30ML + PHENYLEPHRINE 10MG/30ML",
+    "aiGroupNo": "0451421008",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "ACETAMINOPHEN 650MG / 30ML + DEXTROMETHORPHAN 20MG / 30ML + GUAIFENESIN 400MG / 30ML + PHENYLEPHRINE 10MG / 30ML",
+    "members": [
+      99308
+    ],
+    "brandAnchor": 99308,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0107205008|TOPICAL|CREAM|BENZOYL PEROXIDE 4%",
+    "aiGroupNo": "0107205008",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "BENZOYL PEROXIDE 4%",
+    "members": [
+      99403
+    ],
+    "brandAnchor": 99403,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0106680023|ORAL|CAPSULE|CHARCOAL ACTIVATED 250MG",
+    "aiGroupNo": "0106680023",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "CHARCOAL ACTIVATED 250MG",
+    "members": [
+      99412,
+      102646
+    ],
+    "brandAnchor": 99412,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0102639007|ORAL|TABLET ORALLY-DISINTEGRATING|DIPHENHYDRAMINE 12.5MG",
+    "aiGroupNo": "0102639007",
+    "route": "ORAL",
+    "form": "TABLET ORALLY-DISINTEGRATING",
+    "ingredientLabel": "DIPHENHYDRAMINE 12.5MG",
+    "members": [
+      99502
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0107205008|TOPICAL|GEL|BENZOYL PEROXIDE 4%",
+    "aiGroupNo": "0107205008",
+    "route": "TOPICAL",
+    "form": "GEL",
+    "ingredientLabel": "BENZOYL PEROXIDE 4%",
+    "members": [
+      99809,
+      102268
+    ],
+    "brandAnchor": 99809,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0120416003|ORAL|TABLET ORALLY-DISINTEGRATING|LORATADINE 5MG",
+    "aiGroupNo": "0120416003",
+    "route": "ORAL",
+    "form": "TABLET ORALLY-DISINTEGRATING",
+    "ingredientLabel": "LORATADINE 5MG",
+    "members": [
+      99811
+    ],
+    "brandAnchor": 99811,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0104367009|TOPICAL HOUSEHOLD|WIPE|BENZETHONIUM CHLORIDE 0.3%",
+    "aiGroupNo": "0104367009",
+    "route": "TOPICAL HOUSEHOLD",
+    "form": "WIPE",
+    "ingredientLabel": "BENZETHONIUM CHLORIDE 0.3%",
+    "members": [
+      99900
+    ],
+    "brandAnchor": 99900,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0346041003|ORAL|CAPSULE|ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 10MG + GUAIFENESIN 200MG",
+    "aiGroupNo": "0346041003",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 10MG + GUAIFENESIN 200MG",
+    "members": [
+      99977
+    ],
+    "brandAnchor": 99977,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0100807001|ORAL|SOLUTION|DEXTROMETHORPHAN 15MG/5ML",
+    "aiGroupNo": "0100807001",
+    "route": "ORAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "DEXTROMETHORPHAN 15MG / 5ML",
+    "members": [
+      100054
+    ],
+    "brandAnchor": 100054,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0262725001|TOPICAL|CREAM|BENZYL ALCOHOL 10% + LIDOCAINE 4%",
+    "aiGroupNo": "0262725001",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "BENZYL ALCOHOL 10% + LIDOCAINE 4%",
+    "members": [
+      100055
+    ],
+    "brandAnchor": 100055,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0262725001|TOPICAL|SOLUTION|BENZYL ALCOHOL 10% + LIDOCAINE 4%",
+    "aiGroupNo": "0262725001",
+    "route": "TOPICAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "BENZYL ALCOHOL 10% + LIDOCAINE 4%",
+    "members": [
+      100062
+    ],
+    "brandAnchor": 100062,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0104993004|TOPICAL COMMERCIAL|SOLUTION|BENZALKONIUM CHLORIDE 0.1%",
+    "aiGroupNo": "0104993004",
+    "route": "TOPICAL COMMERCIAL",
+    "form": "SOLUTION",
+    "ingredientLabel": "BENZALKONIUM CHLORIDE 0.1%",
+    "members": [
+      100244
+    ],
+    "brandAnchor": 100244,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102009006|ORAL|POWDER|ACETAMINOPHEN 160MG",
+    "aiGroupNo": "0102009006",
+    "route": "ORAL",
+    "form": "POWDER",
+    "ingredientLabel": "ACETAMINOPHEN 160MG",
+    "members": [
+      100663
+    ],
+    "brandAnchor": 100663,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0131859004|OPHTHALMIC|SOLUTION|BRIMONIDINE 0.05%",
+    "aiGroupNo": "0131859004",
+    "route": "OPHTHALMIC",
+    "form": "SOLUTION",
+    "ingredientLabel": "BRIMONIDINE 0.025%",
+    "members": [
+      100706
+    ],
+    "brandAnchor": 100706,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0252465002|ORAL+TOPICAL|CAPSULE+CREAM|CLOTRIMAZOLE 2% + FLUCONAZOLE 150MG",
+    "aiGroupNo": "0252465002",
+    "route": "ORAL+TOPICAL",
+    "form": "CAPSULE+CREAM",
+    "ingredientLabel": "CLOTRIMAZOLE 2% + FLUCONAZOLE 150MG",
+    "members": [
+      100712
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0227167001|OPHTHALMIC|DROPS|POLYETHYLENE GLYCOL 400 1% + TETRAHYDROZOLINE 0.05%",
+    "aiGroupNo": "0227167001",
+    "route": "OPHTHALMIC",
+    "form": "DROPS",
+    "ingredientLabel": "POLYETHYLENE GLYCOL 400 1% + TETRAHYDROZOLINE 0.05%",
+    "members": [
+      100753,
+      100752
+    ],
+    "brandAnchor": 100753,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0261410002|ORAL|TABLET|ACETAMINOPHEN 250MG + IBUPROFEN 125MG",
+    "aiGroupNo": "0261410002",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 250MG + IBUPROFEN 125MG",
+    "members": [
+      106181,
+      100854
+    ],
+    "brandAnchor": 106181,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0200826013|ORAL|SYRUP|DEXTROMETHORPHAN 5MG/5ML + GUAIFENESIN 50MG/5ML",
+    "aiGroupNo": "0200826013",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DEXTROMETHORPHAN 5MG / 5ML + GUAIFENESIN 50MG / 5ML",
+    "members": [
+      101203
+    ],
+    "brandAnchor": 101203,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0215723003|ORAL|SYRUP|DEXTROMETHORPHAN 7.5MG/5ML + DOXYLAMINE 3.15MG/5ML",
+    "aiGroupNo": "0215723003",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DEXTROMETHORPHAN 7.5MG / 5ML + DOXYLAMINE 3.125MG / 5ML",
+    "members": [
+      101204
+    ],
+    "brandAnchor": 101204,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0104351011|RECTAL|ENEMA|DOCUSATE 283MG/5ML",
+    "aiGroupNo": "0104351011",
+    "route": "RECTAL",
+    "form": "ENEMA",
+    "ingredientLabel": "DOCUSATE 283MG / 5ML",
+    "members": [
+      101558
+    ],
+    "brandAnchor": 101558,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0122686001|ORAL|CAPSULE|CETIRIZINE 10MG",
+    "aiGroupNo": "0122686001",
+    "route": "ORAL",
+    "form": "CAPSULE",
+    "ingredientLabel": "CETIRIZINE 10MG",
+    "members": [
+      101792
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0201284014|TOPICAL|SPRAY|EPINEPHRINE 0% + LIDOCAINE 5%",
+    "aiGroupNo": "0201284014",
+    "route": "TOPICAL",
+    "form": "SPRAY",
+    "ingredientLabel": "EPINEPHRINE 0.01% + LIDOCAINE 5%",
+    "members": [
+      101961
+    ],
+    "brandAnchor": 101961,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0111864006|ORAL|TABLET|BISMUTH SUBSALICYLATE 524MG",
+    "aiGroupNo": "0111864006",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "BISMUTH SUBSALICYLATE 524MG",
+    "members": [
+      101991
+    ],
+    "brandAnchor": 101991,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0300674005|ORAL|SYRUP|DEXTROMETHORPHAN 20MG/20ML + GUAIFENESIN 400MG/20ML + PHENYLEPHRINE 10MG/20ML",
+    "aiGroupNo": "0300674005",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DEXTROMETHORPHAN 20MG / 20ML + GUAIFENESIN 400MG / 20ML + PHENYLEPHRINE 10MG / 20ML",
+    "members": [
+      102796
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0231513006|ORAL|TABLET CHEWABLE|CALCIUM CARBONATE 750MG + SIMETHICONE 80MG",
+    "aiGroupNo": "0231513006",
+    "route": "ORAL",
+    "form": "TABLET CHEWABLE",
+    "ingredientLabel": "CALCIUM CARBONATE 750MG + SIMETHICONE 80MG",
+    "members": [
+      102897
+    ],
+    "brandAnchor": 102897,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0101280002|TOPICAL|SPRAY BAG-ON-VALVE|LIDOCAINE 4%",
+    "aiGroupNo": "0101280002",
+    "route": "TOPICAL",
+    "form": "SPRAY BAG-ON-VALVE",
+    "ingredientLabel": "LIDOCAINE 4%",
+    "members": [
+      103135
+    ],
+    "brandAnchor": 103135,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0110231005|VAGINAL|VAGINAL CAPSULE|CLOTRIMAZOLE 500MG",
+    "aiGroupNo": "0110231005",
+    "route": "VAGINAL",
+    "form": "VAGINAL CAPSULE",
+    "ingredientLabel": "CLOTRIMAZOLE 500MG",
+    "members": [
+      103588
+    ],
+    "brandAnchor": 103588,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0219813006|TOPICAL+VAGINAL|CREAM+KIT+VAGINAL CAPSULE|CLOTRIMAZOLE 2% + CLOTRIMAZOLE 500MG",
+    "aiGroupNo": "0219813006",
+    "route": "TOPICAL+VAGINAL",
+    "form": "CREAM+KIT+VAGINAL CAPSULE",
+    "ingredientLabel": "CLOTRIMAZOLE 2% + CLOTRIMAZOLE 500MG",
+    "members": [
+      103589
+    ],
+    "brandAnchor": 103589,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0225925003|TOPICAL|CREAM|LIDOCAINE 4% + MENTHOL 1%",
+    "aiGroupNo": "0225925003",
+    "route": "TOPICAL",
+    "form": "CREAM",
+    "ingredientLabel": "LIDOCAINE 4% + MENTHOL 1%",
+    "members": [
+      103690
+    ],
+    "brandAnchor": 103690,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0100807013|ORAL|SYRUP|DEXTROMETHORPHAN 10MG/15ML",
+    "aiGroupNo": "0100807013",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DEXTROMETHORPHAN 10MG / 15ML",
+    "members": [
+      103815
+    ],
+    "brandAnchor": 103815,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0102009002|ORAL|POWDER|ACETAMINOPHEN 500MG",
+    "aiGroupNo": "0102009002",
+    "route": "ORAL",
+    "form": "POWDER",
+    "ingredientLabel": "ACETAMINOPHEN 500MG",
+    "members": [
+      103826
+    ],
+    "brandAnchor": 103826,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0318085010|ORAL|SYRUP|ACETAMINOPHEN 650MG/30ML + CHLORPHENIRAMINE 4MG/30ML + DEXTROMETHORPHAN 30MG/30ML",
+    "aiGroupNo": "0318085010",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "ACETAMINOPHEN 650MG / 30ML + CHLORPHENIRAMINE 4MG / 30ML + DEXTROMETHORPHAN 30MG / 30ML",
+    "members": [
+      104039
+    ],
+    "brandAnchor": 104039,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0212074013|ORAL|POWDER FOR SOLUTION|ACETAMINOPHEN 650MG + DEXTROMETHORPHAN 20MG",
+    "aiGroupNo": "0212074013",
+    "route": "ORAL",
+    "form": "POWDER FOR SOLUTION",
+    "ingredientLabel": "ACETAMINOPHEN 650MG + DEXTROMETHORPHAN 20MG",
+    "members": [
+      104148
+    ],
+    "brandAnchor": 104148,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0233808004|ORAL|POWDER FOR SOLUTION|ACETAMINOPHEN 650MG + DIPHENHYDRAMINE 25MG",
+    "aiGroupNo": "0233808004",
+    "route": "ORAL",
+    "form": "POWDER FOR SOLUTION",
+    "ingredientLabel": "ACETAMINOPHEN 650MG + DIPHENHYDRAMINE 25MG",
+    "members": [
+      104150,
+      104324
+    ],
+    "brandAnchor": 104150,
+    "hasAlternatives": true
+  },
+  {
+    "key": "0201287007|TOPICAL|GEL|BENZALKONIUM CHLORIDE 0.15% + LIDOCAINE 4%",
+    "aiGroupNo": "0201287007",
+    "route": "TOPICAL",
+    "form": "GEL",
+    "ingredientLabel": "BENZALKONIUM CHLORIDE 0.13% + LIDOCAINE 4%",
+    "members": [
+      104154
+    ],
+    "brandAnchor": 104154,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0551596002|ORAL|SYRUP|ACETAMINOPHEN 500MG/5ML + CHLORPHENIRAMINE 2MG/5ML + DEXTROMETHORPHAN 10MG/5ML + GUAIFENESIN 100MG/5ML + MENTHOL 20MG/5ML",
+    "aiGroupNo": "0551596002",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "ACETAMINOPHEN 500MG / 5ML + CHLORPHENIRAMINE 2MG / 5ML + DEXTROMETHORPHAN 10MG / 5ML + GUAIFENESIN 100MG / 5ML + MENTHOL 20MG / 5ML",
+    "members": [
+      104291
+    ],
+    "brandAnchor": 104291,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0466404001|ORAL|SYRUP|ACETAMINOPHEN 500MG/5ML + CHLORPHENIRAMINE 2MG/5ML + DEXTROMETHORPHAN 10MG/5ML + MENTHOL 20MG/5ML",
+    "aiGroupNo": "0466404001",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "ACETAMINOPHEN 500MG / 5ML + CHLORPHENIRAMINE 2MG / 5ML + DEXTROMETHORPHAN 10MG / 5ML + MENTHOL 20MG / 5ML",
+    "members": [
+      104302
+    ],
+    "brandAnchor": 104302,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0212074014|ORAL|POWDER FOR SOLUTION|ACETAMINOPHEN 500MG + DEXTROMETHORPHAN 20MG",
+    "aiGroupNo": "0212074014",
+    "route": "ORAL",
+    "form": "POWDER FOR SOLUTION",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + DEXTROMETHORPHAN 20MG",
+    "members": [
+      104336
+    ],
+    "brandAnchor": 104336,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0318085011|ORAL|POWDER FOR SOLUTION|ACETAMINOPHEN 1000MG + CHLORPHENIRAMINE 4MG + DEXTROMETHORPHAN 30MG",
+    "aiGroupNo": "0318085011",
+    "route": "ORAL",
+    "form": "POWDER FOR SOLUTION",
+    "ingredientLabel": "ACETAMINOPHEN 1000MG + CHLORPHENIRAMINE 4MG + DEXTROMETHORPHAN 30MG",
+    "members": [
+      104343
+    ],
+    "brandAnchor": 104343,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0212074015|ORAL|POWDER FOR SOLUTION|ACETAMINOPHEN 1000MG + DEXTROMETHORPHAN 30MG",
+    "aiGroupNo": "0212074015",
+    "route": "ORAL",
+    "form": "POWDER FOR SOLUTION",
+    "ingredientLabel": "ACETAMINOPHEN 1000MG + DEXTROMETHORPHAN 30MG",
+    "members": [
+      104344
+    ],
+    "brandAnchor": 104344,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0108628003|TOPICAL|SHAMPOO|PYRITHIONE ZINC 0.1%",
+    "aiGroupNo": "0108628003",
+    "route": "TOPICAL",
+    "form": "SHAMPOO",
+    "ingredientLabel": "PYRITHIONE ZINC 0.1%",
+    "members": [
+      106060
+    ],
+    "brandAnchor": 106060,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0101280002|TOPICAL|GEL|LIDOCAINE 4%",
+    "aiGroupNo": "0101280002",
+    "route": "TOPICAL",
+    "form": "GEL",
+    "ingredientLabel": "LIDOCAINE 4%",
+    "members": [
+      106400
+    ],
+    "brandAnchor": null,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0212074002|ORAL|TABLET|ACETAMINOPHEN 500MG + DEXTROMETHORPHAN 15MG",
+    "aiGroupNo": "0212074002",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + DEXTROMETHORPHAN 15MG",
+    "members": [
+      106468
+    ],
+    "brandAnchor": 106468,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0318085003|ORAL|TABLET|ACETAMINOPHEN 500MG + CHLORPHENIRAMINE 2MG + DEXTROMETHORPHAN 15MG",
+    "aiGroupNo": "0318085003",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + CHLORPHENIRAMINE 2MG + DEXTROMETHORPHAN 15MG",
+    "members": [
+      106469
+    ],
+    "brandAnchor": 106469,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0567529001|ORAL|KIT+TABLET|ACETAMINOPHEN 500MG + CHLORPHENIRAMINE 2MG + DEXTROMETHORPHAN 15MG",
+    "aiGroupNo": "0567529001",
+    "route": "ORAL",
+    "form": "KIT+TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 500MG + CHLORPHENIRAMINE 2MG + DEXTROMETHORPHAN 15MG",
+    "members": [
+      106479
+    ],
+    "brandAnchor": 106479,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0212074012|ORAL|TABLET|ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 10MG",
+    "aiGroupNo": "0212074012",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 325MG + DEXTROMETHORPHAN 10MG",
+    "members": [
+      106504
+    ],
+    "brandAnchor": 106504,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0267589001|ORAL|TABLET|ACETAMINOPHEN 325MG + GUAIFENESIN 200MG",
+    "aiGroupNo": "0267589001",
+    "route": "ORAL",
+    "form": "TABLET",
+    "ingredientLabel": "ACETAMINOPHEN 325MG + GUAIFENESIN 200MG",
+    "members": [
+      106508
+    ],
+    "brandAnchor": 106508,
+    "hasAlternatives": false
+  },
+  {
+    "key": "0350662004|ORAL|SYRUP|DEXTROMETHORPHAN 30MG/10ML + GUAIFENESIN 400MG/10ML + MENTHOL 40MG/10ML",
+    "aiGroupNo": "0350662004",
+    "route": "ORAL",
+    "form": "SYRUP",
+    "ingredientLabel": "DEXTROMETHORPHAN 30MG / 10ML + GUAIFENESIN 400MG / 10ML + MENTHOL 40MG / 10ML",
+    "members": [
+      106696
+    ],
+    "brandAnchor": 106696,
+    "hasAlternatives": false
+  }
+]

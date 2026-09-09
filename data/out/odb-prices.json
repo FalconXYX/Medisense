@@ -1,0 +1,506 @@
+{
+  "edition": {
+    "edition": 43,
+    "createDate": "2026-08-26",
+    "url": "https://www.ontario.ca/files/2026-08/moh-ontario-drug-benefit-odb-formulary-edition-43-data-extract-en-2026-08-27.xml",
+    "licence": "Open Government Licence – Ontario 1.0"
+  },
+  "prices": [
+    {
+      "din": "02231603",
+      "odbName": "Apo-Cetirizine",
+      "pricePerUnit": 0.4083,
+      "dosageForm": "Tab",
+      "strength": "10mg",
+      "notABenefit": true
+    },
+    {
+      "din": "02315955",
+      "odbName": "Extra Strength Allergy Relief",
+      "pricePerUnit": 0.3938,
+      "dosageForm": "Tab",
+      "strength": "10mg",
+      "notABenefit": true
+    },
+    {
+      "din": "02451778",
+      "odbName": "Jamp-Cetirizine",
+      "pricePerUnit": 0.4083,
+      "dosageForm": "Tab",
+      "strength": "10mg",
+      "notABenefit": true
+    },
+    {
+      "din": "02496461",
+      "odbName": "Nat-Cetirizine",
+      "pricePerUnit": 0.4083,
+      "dosageForm": "Tab",
+      "strength": "10mg",
+      "notABenefit": true
+    },
+    {
+      "din": "02243880",
+      "odbName": "Apo-Loratadine",
+      "pricePerUnit": 0.6267,
+      "dosageForm": "Tab",
+      "strength": "10mg",
+      "notABenefit": false
+    },
+    {
+      "din": "00441643",
+      "odbName": "Apo-Ibuprofen",
+      "pricePerUnit": 0.0309,
+      "dosageForm": "Tab",
+      "strength": "200mg",
+      "notABenefit": false
+    },
+    {
+      "din": "02257912",
+      "odbName": "Ibuprofen",
+      "pricePerUnit": 0.0309,
+      "dosageForm": "Tab",
+      "strength": "200mg",
+      "notABenefit": false
+    },
+    {
+      "din": "00441651",
+      "odbName": "Apo-Ibuprofen",
+      "pricePerUnit": 0.1377,
+      "dosageForm": "Tab",
+      "strength": "300mg",
+      "notABenefit": false
+    },
+    {
+      "din": "00506052",
+      "odbName": "Apo-Ibuprofen",
+      "pricePerUnit": 0.0468,
+      "dosageForm": "Tab",
+      "strength": "400mg",
+      "notABenefit": false
+    },
+    {
+      "din": "02317338",
+      "odbName": "Ibuprofen",
+      "pricePerUnit": 0.0468,
+      "dosageForm": "Tab",
+      "strength": "400mg",
+      "notABenefit": false
+    },
+    {
+      "din": "00389218",
+      "odbName": "Novo-Gesic Tab",
+      "pricePerUnit": 0.0114,
+      "dosageForm": "",
+      "strength": "325mg",
+      "notABenefit": false
+    },
+    {
+      "din": "00544981",
+      "odbName": "Apo-Acetaminophen Tab",
+      "pricePerUnit": 0.0114,
+      "dosageForm": "",
+      "strength": "325mg",
+      "notABenefit": false
+    },
+    {
+      "din": "01938088",
+      "odbName": "Jamp Acetaminophen 325 Caplets",
+      "pricePerUnit": 0.0114,
+      "dosageForm": "",
+      "strength": "325mg",
+      "notABenefit": false
+    },
+    {
+      "din": "02229873",
+      "odbName": "Apo-Acetaminophen Caplets",
+      "pricePerUnit": 0.0114,
+      "dosageForm": "",
+      "strength": "325mg",
+      "notABenefit": false
+    },
+    {
+      "din": "00482323",
+      "odbName": "Novo-Gesic Forte Tab",
+      "pricePerUnit": 0.0149,
+      "dosageForm": "",
+      "strength": "500mg",
+      "notABenefit": false
+    },
+    {
+      "din": "00545007",
+      "odbName": "Apo-Acetaminophen Tab",
+      "pricePerUnit": 0.0149,
+      "dosageForm": "",
+      "strength": "500mg",
+      "notABenefit": false
+    },
+    {
+      "din": "01939122",
+      "odbName": "Jamp Acetaminophen 500 Caplets",
+      "pricePerUnit": 0.0149,
+      "dosageForm": "",
+      "strength": "500mg",
+      "notABenefit": false
+    },
+    {
+      "din": "02229977",
+      "odbName": "Apo-Acetaminophen Caplets",
+      "pricePerUnit": 0.0149,
+      "dosageForm": "",
+      "strength": "500mg",
+      "notABenefit": false
+    },
+    {
+      "din": "02027801",
+      "odbName": "Pediatrix",
+      "pricePerUnit": 0.1436,
+      "dosageForm": "O/L",
+      "strength": "80mg/mL",
+      "notABenefit": false
+    },
+    {
+      "din": "02230434",
+      "odbName": "ACET 120",
+      "pricePerUnit": 0.5367,
+      "dosageForm": "Sup",
+      "strength": "120mg",
+      "notABenefit": false
+    },
+    {
+      "din": "02230436",
+      "odbName": "ACET 325",
+      "pricePerUnit": 0.6625,
+      "dosageForm": "Sup",
+      "strength": "325mg",
+      "notABenefit": false
+    },
+    {
+      "din": "02230437",
+      "odbName": "ACET 650",
+      "pricePerUnit": 0.7608,
+      "dosageForm": "Sup",
+      "strength": "650mg",
+      "notABenefit": false
+    },
+    {
+      "din": "01928783",
+      "odbName": "Koffex DM",
+      "pricePerUnit": 0.019,
+      "dosageForm": "O/L",
+      "strength": "3mg/mL",
+      "notABenefit": false
+    },
+    {
+      "din": "00743445",
+      "odbName": "Tears Naturale II",
+      "pricePerUnit": 0.4647,
+      "dosageForm": "Oph Sol",
+      "strength": "0.1%/0.3%/0.001%",
+      "notABenefit": false
+    },
+    {
+      "din": "00000809",
+      "odbName": "Isopto Tears",
+      "pricePerUnit": 0.5454,
+      "dosageForm": "Oph Sol",
+      "strength": "0.5%",
+      "notABenefit": false
+    },
+    {
+      "din": "00000817",
+      "odbName": "Isopto Tears",
+      "pricePerUnit": 0.5147,
+      "dosageForm": "Oph-Sol",
+      "strength": "1%",
+      "notABenefit": false
+    },
+    {
+      "din": "00210889",
+      "odbName": "Lacri-Lube",
+      "pricePerUnit": 7.9,
+      "dosageForm": "Oph Oint-3.5g Pk",
+      "strength": "55% & 42.5%",
+      "notABenefit": false
+    },
+    {
+      "din": "02125706",
+      "odbName": "Soothe Night Time",
+      "pricePerUnit": 5.78,
+      "dosageForm": "Oph Oint-3.5g Pk",
+      "strength": "80%/20%",
+      "notABenefit": false
+    },
+    {
+      "din": "02009277",
+      "odbName": "Cromolyn Eye Drops",
+      "pricePerUnit": 0.95,
+      "dosageForm": "Oph Sol",
+      "strength": "2%",
+      "notABenefit": false
+    },
+    {
+      "din": "02132591",
+      "odbName": "Teva-Loperamide",
+      "pricePerUnit": 0.0952,
+      "dosageForm": "Caplet",
+      "strength": "2mg",
+      "notABenefit": false
+    },
+    {
+      "din": "02228351",
+      "odbName": "PMS-Loperamide",
+      "pricePerUnit": 0.0952,
+      "dosageForm": "Caplet",
+      "strength": "2mg",
+      "notABenefit": false
+    },
+    {
+      "din": "00254142",
+      "odbName": "Dulcolax",
+      "pricePerUnit": 0.2009,
+      "dosageForm": "Ent Tab",
+      "strength": "5mg",
+      "notABenefit": false
+    },
+    {
+      "din": "00003875",
+      "odbName": "Dulcolax",
+      "pricePerUnit": 1.2267,
+      "dosageForm": "Sup",
+      "strength": "10mg",
+      "notABenefit": false
+    },
+    {
+      "din": "02361450",
+      "odbName": "Bisacodyl Suppository",
+      "pricePerUnit": 0.4206,
+      "dosageForm": "Sup",
+      "strength": "10mg",
+      "notABenefit": false
+    },
+    {
+      "din": "02520478",
+      "odbName": "AMB-Bisacodyl",
+      "pricePerUnit": 0.4206,
+      "dosageForm": "Sup",
+      "strength": "10mg",
+      "notABenefit": false
+    },
+    {
+      "din": "00716731",
+      "odbName": "Docusate Sodium",
+      "pricePerUnit": 0.0328,
+      "dosageForm": "Cap",
+      "strength": "100mg",
+      "notABenefit": false
+    },
+    {
+      "din": "01994344",
+      "odbName": "Soflax",
+      "pricePerUnit": 0.0328,
+      "dosageForm": "Cap",
+      "strength": "100mg",
+      "notABenefit": false
+    },
+    {
+      "din": "02106256",
+      "odbName": "Colace",
+      "pricePerUnit": 0.1342,
+      "dosageForm": "Cap",
+      "strength": "100mg",
+      "notABenefit": false
+    },
+    {
+      "din": "02086018",
+      "odbName": "Colace",
+      "pricePerUnit": 0.0238,
+      "dosageForm": "O/L",
+      "strength": "4mg/mL",
+      "notABenefit": false
+    },
+    {
+      "din": "02090163",
+      "odbName": "Colace",
+      "pricePerUnit": 0.1813,
+      "dosageForm": "O/L",
+      "strength": "10mg/mL",
+      "notABenefit": false
+    },
+    {
+      "din": "00107875",
+      "odbName": "Fleet Enema Mineral Oil",
+      "pricePerUnit": 0.0474,
+      "dosageForm": "Enema",
+      "strength": "100%",
+      "notABenefit": false
+    },
+    {
+      "din": "00854409",
+      "odbName": "Ratio-Lactulose",
+      "pricePerUnit": 0.0145,
+      "dosageForm": "O/L",
+      "strength": "667mg/mL",
+      "notABenefit": false
+    },
+    {
+      "din": "02295881",
+      "odbName": "Jamp-Lactulose",
+      "pricePerUnit": 0.0145,
+      "dosageForm": "O/L",
+      "strength": "667mg/mL",
+      "notABenefit": false
+    },
+    {
+      "din": "02412268",
+      "odbName": "Lactulose",
+      "pricePerUnit": 0.0145,
+      "dosageForm": "O/L",
+      "strength": "667mg/mL",
+      "notABenefit": false
+    },
+    {
+      "din": "02469391",
+      "odbName": "PMS-Lactulose-Pharma",
+      "pricePerUnit": 0.0145,
+      "dosageForm": "O/L",
+      "strength": "667mg/mL",
+      "notABenefit": false
+    },
+    {
+      "din": "02279983",
+      "odbName": "Taro-Mupirocin",
+      "pricePerUnit": 0.5069,
+      "dosageForm": "Oint",
+      "strength": "2%",
+      "notABenefit": false
+    },
+    {
+      "din": "02483459",
+      "odbName": "Stramucin",
+      "pricePerUnit": 1.6,
+      "dosageForm": "Cr",
+      "strength": "2% w/w",
+      "notABenefit": false
+    },
+    {
+      "din": "00812382",
+      "odbName": "Clotrimaderm",
+      "pricePerUnit": 0.2233,
+      "dosageForm": "Cr",
+      "strength": "10mg/g",
+      "notABenefit": false
+    },
+    {
+      "din": "02264102",
+      "odbName": "Canesten 1 Comfortab Combi-Pak",
+      "pricePerUnit": 12.08,
+      "dosageForm": "Tab & Cr",
+      "strength": "500mg & 1%",
+      "notABenefit": false
+    },
+    {
+      "din": "00812366",
+      "odbName": "Clotrimaderm Vaginal Cream",
+      "pricePerUnit": 0.1812,
+      "dosageForm": "Vag Cr-App",
+      "strength": "10mg/g",
+      "notABenefit": false
+    },
+    {
+      "din": "02150891",
+      "odbName": "Canesten 6 Cream",
+      "pricePerUnit": 0.2212,
+      "dosageForm": "Vag Cr-App",
+      "strength": "10mg/g",
+      "notABenefit": false
+    },
+    {
+      "din": "00812374",
+      "odbName": "Clotrimaderm Vaginal Cream",
+      "pricePerUnit": 0.3624,
+      "dosageForm": "Vag Cr-App",
+      "strength": "20mg/g",
+      "notABenefit": false
+    },
+    {
+      "din": "02150905",
+      "odbName": "Canesten 3 Cream",
+      "pricePerUnit": 0.4424,
+      "dosageForm": "Vag Cr-App",
+      "strength": "20mg/g",
+      "notABenefit": false
+    },
+    {
+      "din": "02141442",
+      "odbName": "Diflucan-150",
+      "pricePerUnit": 15.65,
+      "dosageForm": "Cap",
+      "strength": "150mg",
+      "notABenefit": false
+    },
+    {
+      "din": "02241895",
+      "odbName": "Apo-Fluconazole-150",
+      "pricePerUnit": 3.9424,
+      "dosageForm": "Cap",
+      "strength": "150mg",
+      "notABenefit": false
+    },
+    {
+      "din": "02255510",
+      "odbName": "Riva-Fluconazole",
+      "pricePerUnit": 3.9424,
+      "dosageForm": "Cap",
+      "strength": "150mg",
+      "notABenefit": false
+    },
+    {
+      "din": "02428792",
+      "odbName": "Mar-Fluconazole-150",
+      "pricePerUnit": 3.9424,
+      "dosageForm": "Cap",
+      "strength": "150mg",
+      "notABenefit": false
+    },
+    {
+      "din": "02433702",
+      "odbName": "Priva-Fluconazole",
+      "pricePerUnit": 3.9424,
+      "dosageForm": "Cap",
+      "strength": "150mg",
+      "notABenefit": false
+    },
+    {
+      "din": "02521229",
+      "odbName": "Fluconazole-150",
+      "pricePerUnit": 3.9424,
+      "dosageForm": "Cap",
+      "strength": "150mg",
+      "notABenefit": false
+    },
+    {
+      "din": "02547864",
+      "odbName": "Jamp Fluconazole 150mg",
+      "pricePerUnit": 3.9424,
+      "dosageForm": "Cap",
+      "strength": "150mg",
+      "notABenefit": false
+    },
+    {
+      "din": "02085852",
+      "odbName": "Micatin",
+      "pricePerUnit": 0.297,
+      "dosageForm": "Cr",
+      "strength": "2%",
+      "notABenefit": false
+    },
+    {
+      "din": "00716871",
+      "odbName": "Nyaderm",
+      "pricePerUnit": 0.2037,
+      "dosageForm": "Cr",
+      "strength": "100000U/g",
+      "notABenefit": false
+    }
+  ]
+}
