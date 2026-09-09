@@ -53,7 +53,8 @@
     ],
     "experiments": {
       "typedRoutes": true,
-      "reactCompiler": true
+      "reactCompiler": true,
+      "baseUrl": "/Medisense"
     },
     "description": "Find what the same over-the-counter medicine costs under another name."
   }

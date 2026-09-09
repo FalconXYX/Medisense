@@ -1,0 +1,91 @@
+name: Deploy to GitHub Pages
+
+# The site is a static Expo web export. Everything it needs is committed — the catalogue is a
+# 1 MB JSON asset in assets/ — so the build touches no network data source and is reproducible.
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+# GITHUB_TOKEN needs to be able to publish a Pages deployment, and id-token is what the
+# deploy-pages action uses to prove the artifact came from this workflow run.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never let two deployments race. Queue instead of cancelling, so a push during a deploy still
+# ends up published rather than silently dropped.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Verify the dataset before shipping it
+        # The same gates that run locally (build/8-verify.ts): equivalence groups never span a
+        # route or dosage form, no withdrawn ingredient ships, every price is real or absent.
+        # A failure here must stop the deploy rather than publish a wrong catalogue.
+        run: npm run data:verify
+
+      - name: Configure Pages
+        # enablement: true turns Pages on for the repo the first time this runs, so nobody has to
+        # flip a setting by hand.
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Export the web build
+        # baseUrl in app.json ("/Medisense") is what makes every asset URL resolve under the
+        # project-pages subpath rather than at the domain root.
+        run: npx expo export --platform web --output-dir dist
+
+      - name: Make the export survivable on GitHub Pages
+        run: |
+          # Pages runs Jekyll by default, and Jekyll silently drops any path segment starting with
+          # an underscore. Expo puts ALL of its JS and CSS under _expo/, so without this file the
+          # site deploys and then 404s on its own bundle.
+          touch dist/.nojekyll
+
+          # Pages has no rewrite rules, so a deep link (/Medisense/product/13452) is a hard 404.
+          # Pages serves 404.html for unmatched paths and leaves the URL intact, so a copy of
+          # index.html lets expo-router read the route off location.pathname and render it.
+          cp dist/index.html dist/404.html
+
+          echo "--- exported ---" && ls -a dist
+
+      - name: Fail if the bundle did not make it into the export
+        # A green deploy that serves a blank page is the failure mode this catches: if the script
+        # tag ever stops pointing at a file that exists, stop here rather than publishing it.
+        run: |
+          bundle=$(grep -o '/Medisense/_expo/static/js/web/[A-Za-z0-9._-]*\.js' dist/index.html | head -1)
+          test -n "$bundle" || { echo "no bundle referenced in index.html"; exit 1; }
+          test -f "dist${bundle#/Medisense}" || { echo "index.html references a missing bundle: $bundle"; exit 1; }
+          echo "bundle ok: $bundle"
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

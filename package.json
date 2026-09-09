@@ -17,7 +17,9 @@
     "data:prices": "node --experimental-strip-types build/6-seed-prices.ts",
     "data:emit": "node --experimental-strip-types build/7-emit-sqlite.ts",
     "data:verify": "node --experimental-strip-types build/8-verify.ts",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "build:web": "expo export --platform web --output-dir dist && touch dist/.nojekyll && cp dist/index.html dist/404.html",
+    "preview:web": "npm run build:web && npx serve dist"
   },
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",
